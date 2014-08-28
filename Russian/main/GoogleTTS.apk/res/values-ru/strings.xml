@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Синтезатор речи Google</string>
+    <string name="general_settings">Общие настройки</string>
+    <string name="license_activity_title">Лицензии открытого ПО</string>
+    <string name="license_activity_loading">Загрузка…</string>
+    <string name="license_activity_unavailable">Не удалось загрузить лицензии.</string>
+    <string name="tts_settings_label">Настройки синтеза речи</string>
+    <string name="voice_data_install_title">Голосовые данные для синтеза речи</string>
+    <string name="install_data_header">Чтобы использовать на устройстве синтез речи, загрузите эти данные.</string>
+    <string name="download_invite_title">Загрузите данные для этого языка: %1$s</string>
+    <string name="download_invite">Включите синтез речи в автономном режиме для этого языка: %1$s</string>
+    <string name="install_voice_text_2">Доступно для загрузки</string>
+    <string name="download_in_progress">Загрузка...</string>
+    <string name="no_installable_voices">Нет файлов для загрузки</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_voice_data">Удалить</string>
+    <string name="update">Обновить</string>
+    <string name="download">Загрузить</string>
+    <string name="voice_installed">Загружено</string>
+    <string name="voice_installed_and_default">Загружено и выбрано по умолчанию</string>
+    <string name="download_notification_title">Загрузка голосовых данных: %1$s</string>
+    <string name="download_success_title">Голосовые данные загружены: %1$s</string>
+    <string name="download_success_description">Нажмите, чтобы выбрать этот голос в качестве основного.</string>
+    <string name="download_failure_title">Не удалось загрузить голосовые данные: %1$s</string>
+    <string name="download_failure_description">Нажмите, чтобы повторить попытку.</string>
+    <string name="download_failed_toast">Не удалось скачать данные</string>
+    <string name="manage_voice_data">Управление данными</string>
+    <string name="auto_update_title">Автообновление голосов</string>
+    <string name="auto_update_summary">Автоматически обновляет голоса</string>
+    <string name="auto_update_wifi_title">Только Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Скачивать голосовые данные только через Wi-Fi (экономия трафика).</string>
+    <string name="voice_pack_status_installed">Установлено (%1$s)</string>
+    <string name="voice_pack_status_gender_female">женский</string>
+    <string name="voice_pack_status_gender_male">мужской</string>
+    <string name="voice_pack_status_updatable">Появилось обновление</string>
+    <string name="voice_pack_status_downloadable">Скачать (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Установлен по умолчанию</string>
+    <string name="voice_pack_status_downloading">Подождите…</string>
+    <string name="voice_pack_name_high_quality">%1$s (высокое качество)</string>
+    <string name="voice_pack_description">"Имя: %1$s
+Язык: %2$s
+Размер пакета: ~%3$s
+Голос: %4$s"</string>
+    <string name="voice_pack_action_download">Скачать (~%1$s)</string>
+    <string name="voice_pack_action_remove">Удалить</string>
+    <string name="voice_pack_action_update">Обновить (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Установить для языка: %1$s</string>
+    <string name="voice_pack_action_cancel">Отменить скачивание</string>
+    <string name="voice_pack_install_tab_installed">УСТАНОВЛЕННЫЕ</string>
+    <string name="voice_pack_install_tab_all">ВСЕ</string>
+    <string name="voice_pack_install_tab_settings">НАСТРОЙКИ</string>
+    <string name="voice_entry_details">Показать подробности о голосовых данных</string>
+    <string name="voice_entry_overflow_desc">Другие действия</string>
+    <string name="voice_entry_download_desc">Скачать голосовой пакет</string>
+    <string name="voice_entry_cancel_download_desc">Отменить скачивание голосового пакета</string>
+    <string name="voice_entry_delete_desc">Удалить голосовой пакет</string>
+    <string name="voice_entry_sample">Воспроизвести фрагмент</string>
+    <string name="voice_pack_not_enough_space">Недостаточно свободного места для сохранения голосовых данных.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_licenses">Лицензии открытого ПО</string>
+    <string name="action_voice_pack_update">Обновить</string>
+    <string name="action_voice_pack_uninstall">Удалить</string>
+    <string name="voice_pack_uninstall_dialog">Удалить голосовой пакет?</string>
+    <string name="voice_pack_uninstall_keep">Сохранить</string>
+    <string name="voice_pack_uninstall_uninstall">Удалить</string>
+    <string name="voice_pack_unpack_failure">Не удалось установить голосовой пакет</string>
+    <string name="multi_voice_pack_title">%1$s: голосовые пакеты</string>
+</resources>

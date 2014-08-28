@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_export_message">Список Ваших контактов будет экспортирован в файл: %s, файл находится в SD-карте</string>
+    <string name="profile_display_name">Мой профиль</string>
+    <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейдите в Меню > Настройки вызова.</string>
+    <string name="confirm_export_message_storage">Список Ваших контактов будет экспортирован в файл: %s, файл находится в памяти телефона</string>
+</resources>

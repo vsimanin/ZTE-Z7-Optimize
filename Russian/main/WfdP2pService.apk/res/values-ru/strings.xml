@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WFD службы SDK</string>
+    <string name="permlab_qcWifiP2p">Qualcomm Wi-Fi P2P</string>
+    <string name="permdesc_qcWifiP2p">Разрешение на доступ к пользовательским QC Wi-Fi операции P2P для WFD</string>
+</resources>

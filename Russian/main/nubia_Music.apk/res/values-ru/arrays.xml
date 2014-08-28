@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="content_str_array">
+        <item>Не установлен</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>90 минут</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 неделя</item>
+        <item>2 недели</item>
+        <item>3 недели</item>
+        <item>4 недели</item>
+        <item>5 недель</item>
+        <item>6 недель</item>
+        <item>7 недель</item>
+        <item>8 недель</item>
+        <item>9 недель</item>
+        <item>10 недель</item>
+        <item>11 недель</item>
+        <item>12 недель</item>
+    </string-array>
+    <string-array name="download_quality_array">
+        <item>Супер качество</item>
+        <item>Стандартное качество</item>
+    </string-array>
+    <string-array name="playlist_operation">
+        <item>Открыть</item>
+        <item>Играть</item>
+        <item>Удалить</item>
+        <item>Переименовать</item>
+    </string-array>
+    <string-array name="playlist_song_operation">
+        <item>Удалить из плейлиста</item>
+    </string-array>
+    <string-array name="song_operation">
+        <item>Добавить в</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="folder_operation">
+        <item>Открыть</item>
+        <item>Играть</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="ark_playpage_more">
+        <item>Поделиться</item>
+        <item>Загрузить</item>
+        <item>Установить как мелодию звонка</item>
+        <item>Удалить</item>
+        <item>Улучшить тон</item>
+        <item>Информацию о композиции</item>
+        <item>Выйти</item>
+    </string-array>
+    <string-array name="ark_playpage_more_online">
+        <item>Поделиться</item>
+        <item>Загрузить</item>
+        <item>Установить как мелодию звонка</item>
+        <item>Улучшить тон</item>
+        <item>Информацию о композиции</item>
+        <item>Выйти</item>
+    </string-array>
+    <string-array name="ark_playpage_more_radio">
+        <item>Выйти</item>
+    </string-array>
+</resources>

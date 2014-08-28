@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обратная связь</string>
+    <string name="exception_title">Описание ошибки:</string>
+    <string name="exception_title_hint">Скажите нам, что случилось</string>
+    <string name="exception_steps">Действия:</string>
+    <string name="exception_steps_hint">Скажите нам о ваших действиях</string>
+    <string name="exception_info">Информация ошибки:</string>
+    <string name="but_send">Послать</string>
+    <string name="but_cancel">Отменить</string>
+    <string name="setting_wiless_btn">Настройки</string>
+    <string name="setting_wiless_title">Настройка сети</string>
+    <string name="setting_wiless_message">Для отправки лога нужна сеть. После включения сети лог отправится автоматически.</string>
+</resources>

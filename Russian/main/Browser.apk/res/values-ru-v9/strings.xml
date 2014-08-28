@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_default_text_encoding_default">UTF-8</string>
+    <string name="bookmark_this_page">Сохранить в закладки</string>
+    <string name="share_page">Поделиться</string>
+    <string name="empty_history">Нет истории</string>
+    <string name="empty_bookmarks_folder">Нет закладок</string>
+    <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+</resources>

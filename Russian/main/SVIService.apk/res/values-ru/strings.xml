@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки SVI</string>
+    <string name="svi_settings_title">Настройки SVI Дисплея</string>
+    <string name="svi_enable_title">Включить SVI Дисплей</string>
+    <string name="svi_enable_summary_on">Расширение просмотра на основе окружающих условий</string>
+    <string name="svi_enable_summary_off">Впечатления от просмотра не будут расширены для условий окружающей среды</string>
+    <string name="svi_info_default">Неизвестно</string>
+    <string name="svi_version_title">Версия SVI</string>
+</resources>

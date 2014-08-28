@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_script_injection_allowed">Разрешены</string>
+    <string name="accessibility_script_injection_disallowed">Запрещены</string>
+</resources>

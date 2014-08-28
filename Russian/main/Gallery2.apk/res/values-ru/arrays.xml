@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ztouch_photo_select_warning">
+        <item>Может быть выбрано только одно фото!</item>
+        <item>Было выбрано 2 фото!</item>
+        <item>Было выбрано 3 фото!</item>
+        <item>Было выбрано 4 фото!</item>
+    </string-array>
+    <string-array name="move_items">
+        <item>Вырезать</item>
+        <item>Копировать</item>
+    </string-array>
+</resources>

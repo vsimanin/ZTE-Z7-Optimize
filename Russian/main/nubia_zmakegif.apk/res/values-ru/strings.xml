@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gif аниматор</string>
+    <string name="filename">Имя файла</string>
+    <string name="gif_making">Создание GIF…</string>
+    <string name="gif_deleytime">Покадрово</string>
+    <string name="gif_makefinish">Сохранено!</string>
+    <string name="please_input">Пожалуйста введите</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="Cancel">Отмена</string>
+    <string name="fileisexist">Такое имя файла уже существует, попробуйте еще раз</string>
+    <string name="filenameisnull">Имя файла не может быть пустым, попробуйте еще раз</string>
+    <string name="make_gif">Сделать GIF</string>
+    <string name="gif_unrewind">Не перематывать</string>
+    <string name="gif_rewind">Перематывать</string>
+    <string name="filename_invalid">Не удалось сохранить название, потому, что имя содержит недопустимые символы</string>
+    <string name="filenotexist">Не существуют файлы, чтобы сделать GIF</string>
+    <string name="change_frame">Изменение полей</string>
+    <string name="change_style">Изменение стиля</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="set_ringtone_array">
+        <item>Мелодия входящего вызова</item>
+        <item>Мелодия будильника</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Телефон</item>
+        <item>SD-карта</item>
+    </string-array>
+    <string-array name="select_format">
+        <item>формат wav</item>
+        <item>формат amr</item>
+    </string-array>
+    <string-array name="select_format_tip">
+        <item>высокое качество, файл записи имеет большой размер</item>
+        <item>нормальное качество, файл записи имеет маленький размер</item>
+    </string-array>
+    <string-array name="actionbar_save_format">
+        <item>Формат сохранения</item>
+    </string-array>
+</resources>

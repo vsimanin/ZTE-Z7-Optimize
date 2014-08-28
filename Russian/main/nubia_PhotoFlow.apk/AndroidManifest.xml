@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cn.nubia.photoflow">
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.Manifest.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="true" android:hardwareAccelerated="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:largeHeap="true">
+        <activity android:configChanges="orientation|screenSize" android:label="@string/app_name" android:name="cn.nubia.photoflow.test.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_launcher_settings" android:label="@string/setting_name" android:launchMode="singleTask" android:name="cn.nubia.photoflow.setting.SelectFolderActivity" android:theme="@com.nubia:style/Theme.Nubia" android:uiOptions="splitActionBarWhenNarrow">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="cn.nubia.photoflow.SelectFolderActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_launcher_settings" android:label="@string/photo_anim" android:launchMode="singleTask" android:name="cn.nubia.photoflow.setting.SelectAnimActivity" android:theme="@android:style/Theme.DeviceDefault.Dialog">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="cn.nubia.photoflow.SelectAnimActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_launcher_settings" android:label="@string/play_time" android:launchMode="singleTask" android:name="cn.nubia.photoflow.setting.SelectTimeActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="cn.nubia.photoflow.SelectTimeActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/ic_launcher_settings" android:label="@string/play_interval" android:launchMode="singleTask" android:name="cn.nubia.photoflow.setting.SelectIntervalActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="cn.nubia.photoflow.SelectIntervalActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:label="@string/title_activity_lsphoto_setting" android:launchMode="singleTask" android:name="cn.nubia.photoflow.setting.LSPhotoSettingActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="cn.nubia.photoflow.PhotoFlowService">
+            <intent-filter>
+                <action android:name="cn.nubia.photoflow.PhotoFlowService"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="cn.nubia.photoflow" android:exported="true" android:name="cn.nubia.photoflow.db.PhotoFlowProvider"/>
+    </application>
+</manifest>

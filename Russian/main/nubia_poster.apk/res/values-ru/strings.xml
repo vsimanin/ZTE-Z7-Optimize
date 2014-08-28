@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Постер Nubia</string>
+    <string name="ok">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="share">Поделиться</string>
+    <string name="back">Назад</string>
+    <string name="wait_a_moment">Пожалуйста, подождите немного</string>
+    <string name="wait_a_moment2">Выполнение фото</string>
+    <string name="wait_a_moment3">Сохранение фото</string>
+    <string name="open_picture">Открытие фото</string>
+    <string name="reset">Переустановить</string>
+    <string name="contentDescription">Описание фото</string>
+    <string name="confirm_exit">Выход</string>
+    <string name="confirm_discard_picture">Вы уверены в удалении фото?</string>
+    <string name="save_tips_ex">Изображение было сохранено в одноименную папку</string>
+    <string name="stroage_full_tip">Не удалось сохранить изображение, память возможно переполнена</string>
+    <string name="poster_edit_words">Редактировать</string>
+    <string name="poster_layout_vertical">Вертикально</string>
+    <string name="poster_layout_horizontal">Горизонтально</string>
+    <string name="bold">Четкий</string>
+    <string name="shadow">Тень</string>
+    <string name="composing">Компоновка</string>
+    <string name="file_error">Ошибка файла</string>
+    <string name="load_image_error">Ошибка файла, невозможно открыть файл</string>
+</resources>

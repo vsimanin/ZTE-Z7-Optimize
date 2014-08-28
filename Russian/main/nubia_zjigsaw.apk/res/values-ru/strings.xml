@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Редактор фотографий</string>
+    <string name="app_name_nubia_poster">Постер Nubia</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="share">Передать</string>
+    <string name="back">Назад</string>
+    <string name="help">Помощь</string>
+    <string name="wait_a_moment">Пожалуйста подождите</string>
+    <string name="wait_a_moment2">Фотографися создается…</string>
+    <string name="wait_a_moment3">Фотография сохраняется…</string>
+    <string name="open_picture">Фотография открывается…</string>
+    <string name="reset">Сброс</string>
+    <string name="contentDescription">Описание фотографии</string>
+    <string name="confirm_discard_picture">Вы действительно хотите отменить фото?</string>
+    <string name="picture_contrast">Контрастность</string>
+    <string name="beauty_brush_size">Размер кисти</string>
+    <string name="waitforwork">Выполняется…</string>
+    <string name="save_tips">Изображение было сохранено в</string>
+    <string name="save_tips_ex">Изображение было сохранено в тот же альбом</string>
+    <string name="save_info">Сохранение изображений в %1$s…</string>
+    <string name="stroage_full_tip">Не удалось сохранить изображение, память может быть заполнена.</string>
+    <string name="puzzle_template">Шаблон Jigsaw</string>
+    <string name="puzzle_freedom">Бесплатный паззл</string>
+    <string name="puzzle_join">Фотомонтаж</string>
+    <string name="pintu_frame_list">Список кадров</string>
+    <string name="pintu_change_bg">Выберите фон</string>
+    <string name="pintu_change_frame">Выберите кадр</string>
+    <string name="gif_makefinish">Сохранено!</string>
+    <string name="change_frame">Изменение расположения</string>
+    <string name="change_style">Изменение стиля</string>
+    <string name="save_toast">Сохраненные изображения/PhotoEditor!</string>
+</resources>

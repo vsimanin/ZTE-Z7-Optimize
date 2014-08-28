@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">Об анимации загрузки</string>
+    <string name="str_author_info">Автор</string>
+    <string name="str_view_origin_picture">Посмотреть</string>
+    <string name="str_click_picture">Нажмите</string>
+    <string name="str_view_detail">Детально</string>
+    <string name="str_i_know">Я знаю</string>
+    <string name="str_slip_info">Сдвиньте влево или вправо, чтобы изменить страницу</string>
+    <string name="str_thanks_share">Спасибо %1$s за распространение</string>
+</resources>

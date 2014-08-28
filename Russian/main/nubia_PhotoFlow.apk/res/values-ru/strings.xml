@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фотопоток</string>
+    <string name="setting_name">Выбрать воспроизведение галереи</string>
+    <string name="no_image">Нет никаких фотографий</string>
+    <string name="show">Показать</string>
+    <string name="anim_fade">Анимация с эффектом затухания</string>
+    <string name="anim_move_fade">Движущаяся анимация с эффектом затухания</string>
+    <string name="anim_move">Движущаяся анимация</string>
+    <string name="photo_anim">Изменить Анимацию</string>
+    <string name="photo_default">Пример</string>
+    <string name="photo_preview">Предпросмотр</string>
+    <string name="photo_apply">Применить</string>
+    <string name="play_time">Время запуска</string>
+    <string name="time_minut">%d минут</string>
+    <string name="for_ever">Навсегда</string>
+    <string name="camera">Камера</string>
+    <string name="multi_shoot">Мультисъемка</string>
+    <string name="download">Загрузить</string>
+    <string name="screen_shot">Скриншот</string>
+    <string name="imported">Импортированный</string>
+    <string name="title_activity_lsphoto_setting">Фото блокировки экрана</string>
+    <string name="title_photo_flow_select_preference">Выбрать воспроизведение галереи</string>
+    <string name="title_photo_flow_intervel_preference">Интервал воспроизведения</string>
+    <string name="lockscreen_phto_intro">Скользните двумя пальцами влево или вправо на экране блокировки, будет воспроизведена галерея.</string>
+    <string name="pause_status">Пауза</string>
+    <string name="wallpaper">Обои</string>
+    <string name="no_photo">Не выбрана галерея</string>
+    <string name="play_interval">Интервал запуска</string>
+    <string name="interval_sec">%d секунд</string>
+</resources>

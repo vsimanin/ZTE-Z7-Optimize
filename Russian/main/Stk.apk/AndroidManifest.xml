@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" android:sharedUserId="android.uid.phone" package="com.android.stk">
+    <original-package android:name="com.android.stk"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <application android:clearTaskOnLaunch="true" android:icon="@drawable/ic_launcher_sim_toolkit" android:label="@string/app_name" android:process="com.android.phone">
+        <activity android:enabled="false" android:label="@string/app_name" android:name="StkLauncherActivity" android:taskAffinity="android.task.StkLauncherActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:enabled="false" android:label="@string/app_name2" android:name="StkLauncherActivity2" android:taskAffinity="android.task.StkLauncherActivity2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:enabled="false" android:label="@string/app_name3" android:name="StkLauncherActivity3" android:taskAffinity="android.task.StkLauncherActivity3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTop" android:name="StkMenuActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.PICK"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="StkInputActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.EDIT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="StkDialogActivity" android:theme="@android:style/Theme.Dialog"/>
+        <activity android:name="ToneDialog" android:theme="@android:style/Theme.Dialog"/>
+        <activity android:label="@string/app_name" android:name="StkSettings">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEVELOPMENT_PREFERENCE"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.android.stk.StkCmdReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.stk.command"/>
+                <action android:name="android.intent.action.stk.session_end"/>
+                <action android:name="org.codeaurora.intent.action.stk.idle_screen"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="org.codeaurora.intent.action.stk.icc_status_change"/>
+                <action android:name="org.codeaurora.intent.action.stk.alpha_notify"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.android.stk.BootCompletedReceiver" androidprv:primaryUserOnly="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="StkAppService"/>
+    </application>
+</manifest>

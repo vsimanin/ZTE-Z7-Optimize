@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виджет часов</string>
+    <string name="digital_clock_widget">Цифровые часы</string>
+    <string name="analog_clock_widget">Аналоговые часы</string>
+    <string name="month">М</string>
+    <string name="day">Д</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+</resources>

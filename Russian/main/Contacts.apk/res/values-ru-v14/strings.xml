@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_summary_notification_enabled">Сообщение для отображения уведомлений в строке состояния</string>
+    <string name="has_draft">[Черновик]</string>
+    <string name="attach_sound">Рингтон</string>
+    <string name="message_count_format"> (%1$s)</string>
+</resources>

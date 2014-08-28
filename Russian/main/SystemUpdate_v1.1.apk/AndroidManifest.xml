@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="cn.nubia.systemupdate">
+    <application android:icon="@drawable/ic_launcher_settings" android:label="@string/app_name" android:theme="@com.nubia:style/Theme.Nubia">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/dm_update_service" android:launchMode="singleTask" android:name=".VdmcActivity" android:theme="@style/Transparent" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="VdmcMMIActivity" android:theme="@style/Transparent"/>
+        <activity android:label="@string/vdmc_setting_editor" android:name="VdmcSettingEditorActivity" android:theme="@android:style/Theme.Holo.Light"/>
+        <activity android:label="@string/vdmc_settings" android:name="VdmcSettingsActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.redbend.vdmc.VDMC_SETTING"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name=".DmClientActivity"/>
+        <activity android:configChanges="orientation" android:label="@string/app_name" android:name=".SystemUpdateActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="cn.nubia.systemupdate.SYSTEMUPDATE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/system_update_settings_list_item_title_storage" android:name="cn.nubia.systemupdate.LocalUpdateActivity" android:parentActivityName=".SystemUpdateActivity" android:theme="@com.nubia:style/Theme.Nubia">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:label="@string/app_name" android:name=".VdmcBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.START_DM_SERVER1"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.START_DM_SERVER2"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DM_CI_FUMO_SETUP"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.jblend.intent.action.MIDLET_INSTALLED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.jblend.intent.action.OPERATION_FAILED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DM_AUTO_UPDATE_ALARM_LISTEN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DM_CI_FUMO_CHECKSOFT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DM_CI_START"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DM_CI_FUMO_DOWNLOAD"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.FOTA_NETWORK_ERROR"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:label="NetworkConnection" android:name="VdmcConnectionChangeReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="VdmcSmsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.DATA_SMS_RECEIVED"/>
+                <data android:scheme="sms"/>
+                <data android:host="localhost"/>
+                <data android:port="26680"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="cn.nubia.systemupdate.VdmcWapPushReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.WAP_PUSH_RECEIVED"/>
+                <data android:mimeType="application/vnd.syncml.notification"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.WAP_PUSH_RECEIVED"/>
+                <data android:mimeType="application/vnd.wap.connectivity-wbxml"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="cn.nubia.systemupdate.VdmcService"/>
+    </application>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.intent.action.REBOOT"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+</manifest>

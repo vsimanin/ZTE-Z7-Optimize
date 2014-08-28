@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: 1</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
+        <item quantity="one">не объединен</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Групп: %0$d</item>
+        <item quantity="one">1 группа</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">В группе %2$s %1$d чел.</item>
+        <item quantity="one">В группе %2$s %1$d чел.</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d чел.</item>
+        <item quantity="one">%1$d чел.</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">(Выбрано %s пунктов)</item>
+        <item quantity="one">(Выбрат 1 пункт)</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s фраз будет удалено.</item>
+        <item quantity="one">Одна фраза будет удалена.</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s потоков для \"%2$s\"</item>
+        <item quantity="one">%1$s поток для \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s сообщений для \"%2$s\"</item>
+        <item quantity="one">%1$s сообщение для \"%2$s\"</item>
+    </plurals>
+    <plurals name="confirm_delete_selected_messages">
+        <item quantity="other">Выбранные %1$s сообщения будут удалены</item>
+        <item quantity="one">Выбранное сообщение будет удалено</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">И другие %1$s люди</item>
+    </plurals>
+    <plurals name="invalid_attachment_found">
+        <item quantity="other">К сожалению, вложения, которые Вы выбираете, не поддерживаются.</item>
+        <item quantity="one">К сожалению, вложение, которое Вы выбираете, не поддерживается.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
+        <item quantity="one">Цепочка будет удалена.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">Еще сообщений: %1$s</item>
+        <item quantity="one">Еще сообщений: %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+    </plurals>
+</resources>

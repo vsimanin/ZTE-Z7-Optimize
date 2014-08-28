@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cn.nubia.notepad.preset">
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <application android:icon="@drawable/note" android:label="@string/app_name">
+        <provider android:authorities="com.ztemt.notepad.provider.NotePad" android:exported="true" android:name="cn.nubia.notepad.NotePadProvider"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="cn.nubia.notepad.NoteListActivity" android:theme="@com.nubia:style/Theme.Nubia" android:uiOptions="splitActionBarWhenNarrow">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="cn.nubia.notepad.NoteEditorActivity" android:theme="@com.nubia:style/Theme.Nubia" android:uiOptions="splitActionBarWhenNarrow" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="cn.nubia.notepad.FileDocumentEditor" android:theme="@com.nubia:style/Theme.Nubia" android:uiOptions="splitActionBarWhenNarrow" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <data android:scheme="file"/>
+                <data android:mimeType="text/html"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+        </activity>
+        <receiver android:label="@string/widget_label_4x4" android:name="cn.nubia.notepad.NoteWidgetProvider44">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="com.ztemt.notepad.action.updateByWidgetId"/>
+                <action android:name="com.ztemt.notepad.action.updateByNote"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_4x4"/>
+        </receiver>
+        <receiver android:name="cn.nubia.notepad.NoticeBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.ztemt.notePad.notice"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.ztemt.notePad.backup.notice"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="vnd.android.cursor.item/vnd.ztemt.note"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>
