@@ -384,7 +384,7 @@
     <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите PIN код:</string>
     <string name="bluetooth_enter_pin_msg_hs">"
-Введите PIN код для сопряжения с "%1$s". [Высокий уровень безопасности: необходим 16 символьный ключ]"</string>
+Введите PIN код для сопряжения с %1$s. [Высокий уровень безопасности: необходим 16 символьный ключ]"</string>
     <string name="bluetooth_enter_passkey_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите пароль:</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN код содержит буквы или символы</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
@@ -478,7 +478,9 @@
     <string name="android_beam_off_summary">Обмен данными по NFC выключен</string>
     <string name="android_beam_disabled_summary">Для обмена по NFC, требуется включение функции NFC.</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">Когда включена эта функция, данные приложений можно передавать на другие устройства с поддержкой связи малого радиуса действия. Например, отправлять страницы браузера, видео YouTube, контакты и другие сведения.\n\nПросто разместите устройства поблизости (например, совместите их задние панели) и коснитесь экрана.</string>
+    <string name="android_beam_explained">"Когда включена эта функция, данные приложений можно передавать на другие устройства с поддержкой связи малого радиуса действия. Например, отправлять страницы браузера, видео YouTube, контакты и другие сведения.
+
+Просто разместите устройства поблизости (например, совместите их задние панели) и коснитесь экрана."</string>
     <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
     <string name="nsd_quick_toggle_summary">Разрешить приложению на другом устройстве открывать приложения на данном устройстве</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
@@ -639,10 +641,10 @@
     <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
     <string name="wifi_tether_starting">Включение точки доступа…</string>
     <string name="wifi_tether_stopping">Отключение точки доступа…</string>
-    <string name="wifi_tether_enabled_subtext">Точка доступа "%1$s" активна</string>
+    <string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
     <string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
-    <string name="wifi_tether_configure_subtext">Точка доступа "%1$s" %2$s</string>
+    <string name="wifi_tether_configure_subtext">Точка доступа %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">Информация Wi-Fi</string>
     <string name="disableNetwork">Отключить сеть</string>
@@ -657,7 +659,7 @@
     <string name="network_state_label">Статус сети:</string>
     <string name="supplicant_state_label">Состояние:</string>
     <string name="rssi_label">"RSSI: "</string>
-    <string name="bssid_label">BSSID: "</string>
+    <string name="bssid_label">"BSSID: "</string>
     <string name="ssid_label">"SSID: "</string>
     <string name="hidden_ssid_label">"Скрытый SSID: "</string>
     <string name="ipaddr_label">"IP адрес: "</string>
@@ -761,11 +763,13 @@
     <string name="sim_bad_pin">Неверный PIN код</string>
     <string name="sim_pins_dont_match">PIN коды не совпадают</string>
     <string name="sim_absent">Нет SIM/RUIM</string>
-    <string name="sim_change_failed">Не удается изменить PIN.\n Возможно, код введен неверно.</string>
+    <string name="sim_change_failed">"Не удается изменить PIN.
+ Возможно, код введен неверно."</string>
     <string name="sim_pin_disable_failed">Невозможно заблокировать PIN код.</string>
     <string name="sim_pin_enable_failed">Невозможно разблокировать PIN код.</string>
     <string name="sim_change_succeeded">PIN код SIM карты успешно изменен</string>
-    <string name="sim_lock_failed">Не удалось изменить состояние блокировки SIM карты.\n Возможно, введен неверный PIN код.</string>
+    <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM карты.
+ Возможно, введен неверный PIN код."</string>
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
     <string name="sim_pin_change_failed_enable_sim_lock">"Не удается изменить SIM/RUIM PIN.
@@ -1308,6 +1312,8 @@
     <string name="adb_keys_warning_message">Запретить доступ для отладки с помощью USB на всех компьютерах, на которых вы входили в аккаунт?</string>
     <string name="dev_settings_warning_title">Изменение настроек</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
+    <string name="enable_quickboot_title">Включить режим быстрой загрузки</string>
+    <string name="enable_quickboot_summary">Переводит устройство в режим быстрой загрузки вместо нормального отключения питания.</string>
     <string name="verify_apps_over_usb_title">Установленные через USB</string>
     <string name="verify_apps_over_usb_summary">Проверять, насколько безопасны приложения, устанавливаемые через ADB/ADT</string>
     <string name="enforce_read_external_title">Защитить SD-карту</string>
@@ -1345,8 +1351,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
+"<ul><li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -2060,10 +2066,40 @@
     <string name="wifi_display_status_available">Доступно</string>
     <string name="wifi_display_disconnect_title">Прервать соединение?</string>
     <string name="wifi_display_disconnect_text">Это прекратит вашу связь с:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте еще раз</string>
+    <string name="please_type_passphrase">Пароль сети</string>
+    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_WAPI_CERT">Сертификат WAPI</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
+    <string name="wifi_wapi_cert_install">Установить сертификат WAPI</string>
+    <string name="wifi_wapi_cert_install_button">Установить</string>
+    <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
+    <string name="wifi_wapi_cert_cancel_button">Отмена</string>
+    <string name="wifi_wapi_cert_uninstall">Удалить сертификат WAPI</string>
+    <string name="wifi_wapi_cert_create_subdir">Создать папку</string>
+    <string name="wifi_wapi_cert_delet_subdir">Выбор папки сертификата</string>
+    <string name="wifi_wapi_as_cert">AS сертификат</string>
+    <string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Введите название папки</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_exist">Такое имя уже существует.</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания папки</string>
+    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS сертификат не найден на SD карте</string>
+    <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неправильный формат сертификата! Установите правильный сертификат</string>
+    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неправильный формат сертификата! Установите правильный сертификат</string>
+    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите название сертификата</string>
+    <string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите название сертификата</string>
+    <string name="wifi_context_menu_connect">Подключиться</string>
+    <string name="wifi_context_menu_forget">Забыть</string>
+    <string name="wifi_context_menu_change_password">Изменить пароль</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
     <string name="header_category_connect">CONNECTION</string>
     <string name="profile_settings">Профиль</string>
     <string name="vistor_title">visitor</string>
-    <string name="visitor_summary">"контакты, сообщения, электронная почта, фото,cloudManager, календарь, наклейка будут скрыты и не изменить рабочий стол"</string>
+    <string name="visitor_summary">контакты, сообщения, электронная почта, фото,cloudManager, календарь, наклейка будут скрыты и не изменить рабочий стол</string>
     <string name="pocket_title">В кармане</string>
     <string name="pocket_summary">Максимальная громкость звонка и вибрации в кармане</string>
     <string name="meeting_title">Совещание</string>
@@ -2110,7 +2146,7 @@
     <string name="sleep_time_end">07:00</string>
     <string name="sleep_time_separator">—</string>
     <string name="sleep_time_warning">Время начала не должно быть то же самое что время окончания!</string>
-    <string name="avoid_mistouch_title">Случайные касания  </string>
+    <string name="avoid_mistouch_title">Случайные касания</string>
     <string name="avoid_mistouch_summary">Предотвращает случайные действия, когда телефон в кармане</string>
     <string name="maxring_vibrate_title">Максимум громкости и вибрация</string>
     <string name="maxring_vibrate_summary">Максимальная громкость рингтона и вибрация при входящем звонке, когда телефон в кармане</string>
@@ -2154,17 +2190,18 @@
     <string name="cancel_select_all">Выберите отменить</string>
     <string name="no_contacts">Нет контактов</string>
     <string name="deep_sleep_music_error">Существует несколько ошибок при воспроизведения музыки!</string>
+    <string name="selected">Выбрано</string>
     <string name="system_update_settings_list_item_title_fota">FOTA обновления</string>
     <string name="system_update_settings_list_item_summary_fota">Доставка аппаратных обновлений</string>
     <string name="system_update_settings_list_item_title_storage">Обновления карты памяти</string>
     <string name="system_update_settings_list_item_summary_storage">Скопировать пакет обновлений на карту для системных обновлений</string>
     <string name="master_update_desc">"Это обновит все изображения вашего телефона, включая:
-"&lt;li>boot.img&lt;/li>"
-"&lt;li>system.img&lt;/li>"
-"&lt;li>recovery.img&lt;/li>"
+&lt;li>boot.img&lt;/li>
+&lt;li>system.img&lt;/li>
+&lt;li>recovery.img&lt;/li>
 It не стирать :
-"&lt;li>текущие данные системы и связанных приложений&lt;/li>"
-"&lt;li>Файлы внутреннего хранилища, такие как музыка или фото&lt;/li></string>
+&lt;li>текущие данные системы и связанных приложений&lt;/li>
+&lt;li>Файлы внутреннего хранилища, такие как музыка или фото&lt;/li>"</string>
     <string name="master_update_button_text">Сброс настроек</string>
     <string name="master_update_final_desc">Пожалуйста, скопируйте пакет обновлений в корневой каталог карты памяти!</string>
     <string name="master_update_final_button_text">Обновить все</string>
@@ -2223,7 +2260,7 @@ It не стирать :
     <string name="led_app_msg_title">Уведомление смс</string>
     <string name="led_app_msg_summary">Вкл</string>
     <string name="led_brightness">Автоматическая яркость</string>
-    <string name="nubia_font_size_example">"Нубия"</string>
+    <string name="nubia_font_size_example">Нубия</string>
     <string name="font_size_small">Маленький</string>
     <string name="font_size_big">Большой</string>
     <string name="saturation_info">Насыщенность</string>
@@ -2236,7 +2273,7 @@ It не стирать :
     <string name="sound_call_ringtone_and_notif_category_title">Мелодия и уведомления</string>
     <string name="message_sound_title">Звук сообщений</string>
     <string name="message_sound_dialog_title">Звук сообщений</string>
-    <string name="vibrate_when_silent_title">Вибрировать в режиме "Без звука"</string>
+    <string name="vibrate_when_silent_title">Вибрировать в режиме Без звука</string>
     <string name="nb_unlock_set_unlock_pin_summary">Пароль состоит из 4 цифр</string>
     <string name="nb_unlock_set_unlock_password_summary">Буквенно-цифровой пароль</string>
     <string name="nb_lockpassword_choose_your_pin_header">Введите пароль</string>
@@ -2252,7 +2289,7 @@ It не стирать :
     <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI，включая эффект параллакса иконки и уведомления</string>
     <string name="no_account">Нет аккаунтов</string>
     <string name="no_vpn">Нет VPN</string>
-    <string name="feature_settings">Специальные возможности</string>
+    <string name="feature_settings">Дополнительные настройки</string>
     <string name="smartface_settings">Умное лицо</string>
     <string name="suspension_settings">Операция приостановки</string>
     <string name="content_preview_title">Предпросмотр содержаний</string>
@@ -2262,6 +2299,11 @@ It не стирать :
     <string name="quick_communication_title">Быстрая связь</string>
     <string name="quick_communication_summary">Проведите пальцем по экрану, чтобы быстро набирать и отправлять текстовые сообщения</string>
     <string name="suspension_control_info">Поставьте палец в 10мм от экрана, не прикасаясь к экрану, чтобы разблокировать, осуществить предпросмотр, прокрутку и т.д.</string>
+    <string name="progress_preview_info">"&lt;br&gt;&lt;b&gt;Удерживайте&lt;/b&gt; палец над полоской воспроизведения &lt;/br&gt;&lt;b&gt;чтобы увидеть &lt;/b&gt; текущий кадр"</string>
+    <string name="content_preview_info1">&lt;br&gt;&lt;b&gt;Удерживайте&lt;/b&gt; палец над папкой в галерее &lt;/br&gt;&lt;b&gt;чтобы увидеть&lt;/b&gt; изображения в папке</string>
+    <string name="content_preview_info2">&lt;br&gt;&lt;b&gt;Hover&lt;/b&gt; палец над видео файлом &lt;/br&gt;&lt;b&gt;для предпросмотра&lt;/b&gt; видео</string>
+    <string name="quick_communication_info1">При пропущенном вызове, &lt;br&gt;&lt;b&gt;удерживайте&lt;/b&gt;палец над иконкой вызова &lt;/br&gt;&lt;b&gt;для предпросмотра&lt;/b&gt; и быстрого набора</string>
+    <string name="quick_communication_info2">&lt;br&gt;&lt;b&gt;Удерживайте&lt;/b&gt;палец над списком контактов, вызовов и сообщений&lt;/br&gt; для быстрого вызова и отправки СМС</string>
     <string name="split_screen_settings">Разделение экрана</string>
     <string name="split_screen_info">Разделить экран на две части, чтобы увидеть два приложения одновременно</string>
     <string name="split_screen_manual">Включить вручную разделение экрана</string>
@@ -2312,7 +2354,7 @@ It не стирать :
     <string name="system_storage">Внутренняя память</string>
     <string name="runtime_space">Система</string>
     <string name="reset_low_battery">Сброс при низком уровне батареи</string>
-    <string name="reset_low_battery_message">Уровень заряда батареи  должен быть выше 30 процентов</string>
+    <string name="reset_low_battery_message">Уровень заряда батареи должен быть выше 30 процентов</string>
     <string name="vpn_list_title">Список VPN</string>
     <string name="header_category_network_sharing">СОВМЕСТНОЕ ИСПОЛЬЗОВАНИЕ СЕТИ</string>
     <string name="data_usage_detail">Детализация трафика</string>
@@ -2324,8 +2366,8 @@ It не стирать :
     <string name="status_network2">Состояние сети 2 телефона</string>
     <string name="status_data_network">Сеть передачи данных</string>
     <string name="msim_settings">Настройки MSIM</string>
-    <string name="card_toast1">Первый слот для SIM карты поддерживает стандарты связи: TD-LTE 、CDMA 、WCDMA 、TD-SCDMA, GSM.</string>
-    <string name="card_toast2">Второй слот для SIM карты поддерживает только стандарт связи GSM.</string>
+    <string name="card_all_toast">Первый слот поддерживает 2G/3G/4G карты;Второй слот поддерживает 2G/3G/4G карты China Unicom и China Mobile.Одновременно одна карта может работать в сети 3G/4G другая в сети 2G.</string>
+    <string name="card_g_toast">Оба слота поддерживают 2G/3G/4G карты China Unicom и China Mobile.Одновременно одна карта может работать в сети 3G/4G другая в сети 2G.</string>
     <string name="data_network">Сеть передачи данных</string>
     <string name="card_on">Активировать</string>
     <string name="card_off">Отключить</string>
@@ -2336,39 +2378,18 @@ It не стирать :
     <string name="phone_two">Карта два</string>
     <string name="mobile_network">Мобильная сеть</string>
     <string name="data_network_settings">Настройки передачи данных</string>
-    <string name="default_voice">Для разговоров по умолчанию</string>
-    <string name="default_voice_card">Карта для разговоров по умолчанию</string>
-    <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте еще раз</string>
-    <string name="please_type_passphrase">Пароль сети</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_WAPI_CERT">Сертификат WAPI</string>
-    <string name="wifi_certificate">Сертификат</string>
-    <string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
-    <string name="wifi_wapi_cert_install">Установить сертификат WAPI</string>
-    <string name="wifi_wapi_cert_install_button">Установить</string>
-    <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
-    <string name="wifi_wapi_cert_cancel_button">Отмена</string>
-    <string name="wifi_wapi_cert_uninstall">Удалить сертификат WAPI</string>
-    <string name="wifi_wapi_cert_create_subdir">Создать папку</string>
-    <string name="wifi_wapi_cert_delet_subdir">Выбор папки сертификата</string>
-    <string name="wifi_wapi_as_cert">AS сертификат</string>
-    <string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Введите название папки</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_exist">Такое имя уже существует.</string>
-    <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания папки</string>
-    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS сертификат не найден на SD карте</string>
-    <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неправильный формат сертификата! Установите правильный сертификат</string>
-    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неправильный формат сертификата! Установите правильный сертификат</string>
-    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите название сертификата</string>
-    <string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите название сертификата</string>
-    <string name="wifi_context_menu_connect">Подключиться</string>
-    <string name="wifi_context_menu_forget">Забыть</string>
-    <string name="wifi_context_menu_change_password">Изменить пароль</string>
-    <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
+    <string name="default_communication">Связь по умолчанию</string>
+    <string name="default_communication_card">Настройки карты по умолчанию</string>
+    <string name="gsm_dialog_title">Использовать только сети 2G.</string>
+    <string name="gsm_dialog_message">В связи со спецификой одной из карт вторая карта может использовать только сети 2G.</string>
+    <string name="switch_data_dialog_title">Предупреждение!</string>
+    <string name="switch_data_dialog_title_message">Смена карты для передачи данных приведет к разрыву связи</string>
+    <string name="checkbox_text">Больше не напоминать</string>
+    <string name="dialog_ok">OK</string>
     <string name="wifi_choose_wlan">Пожалуйста, выберите сеть</string>
+    <string name="wifi_install_wapi_cert_success">WiFi WAPI сертификат установлен</string>
+    <string name="wifi_uninstall_wapi_cert_success">WiFi WAPI сертификат удален</string>
+    <string name="wifi_sort_way_title">Способ сортировки</string>
     <string name="absolute_brightness">Яркость</string>
     <string name="fine_tune_brightness">Автоподстройка</string>
     <string name="smart_memory_title">Интеллектуальный сенсор</string>
@@ -2386,6 +2407,21 @@ It не стирать :
     <string name="china_unicom">China unicom</string>
     <string name="china_mobile">China mobile</string>
     <string name="china_telecom">China telecom</string>
+    <string name="status_bar_setting_app_notification">Уведомления приложений</string>
+    <string name="primary_storage_selection">Выбор первичного хранилища</string>
+    <string name="internal">Память телефона</string>
+    <string name="external">SD карта</string>
+    <string name="change_primary">Изменение основного хранилища</string>
+    <string name="change_primary_or_not">Изменить основное хранилище</string>
+    <string name="change_primary_or_not_message">Подвердите изменение основного хранилища?</string>
+    <string name="change_primary_detail">Основное хранилище будет изменено  после перезагрузки. Существующие данные приложений могут быть утеряны. Может потребоваться переустановка приложений.</string>
+    <string name="confirm_reboot">Перезагрузка</string>
+    <string name="external_as_primary_off_message">Разрешить выбор при наличии SD карты</string>
+    <string name="filter_apps_oninternal">Встроенная карта</string>
+    <string name="move_app_to_internal_storage">Перенести на встроенную карту</string>
+    <string name="additional_bootanimation_info_title">Информация о загрузочной анимации</string>
+    <string name="insert_erro">Ошибка</string>
+    <string name="contacts_app_exist">Убедитесь в наличии приложения &quot;Контакты&quot;!</string>
     <string name="font_size_example">"
 Это пример теста на размер шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
@@ -2520,7 +2556,7 @@ It не стирать :
     <string name="phonestorage_data_size_label">Память телефона</string>
     <string name="wifi_scanning">Доступные точки доступа</string>
     <string name="wifi_display_dialog">Следует включить Wi-Fi, чтобы использовать беспроводной экран. Включить сейчас?</string>
-    <string name="wifi_display_notice">"* Если ваш дисплей не поддерживает Wi-Fi изображение, используйте беспроводной адаптер Nubia, чтобы подключить проекционный экран."</string>
+    <string name="wifi_display_notice">* Если ваш дисплей не поддерживает Wi-Fi изображение, используйте беспроводной адаптер Nubia, чтобы подключить проекционный экран.</string>
     <string name="wifi_display_empty">Включите проекционный экран для подключения беспроводного дисплея поддерживающего Wi-Fi изображение. После подключения, видео / аудио с вашего телефона будут в режиме реального времени передаваться на подключенное устройство.</string>
     <string name="sdcard_format_text">Форматировать SD карту</string>
     <string name="storage_format_text">Очистить память</string>
@@ -2540,8 +2576,8 @@ It не стирать :
     <string name="wifi_menu_wps_pbc_summary">Пожалуйста, убедитесь, что беспроводной маршрутизатор поддерживает WPS</string>
     <string name="master_clear_desc_erase_internal_storage">"
 
-Чтобы удалить музыку, фотографии и другие данные о пользователях, "&lt;b>внутренней памяти&lt;/b> должно быть удалено.</string>
-    <string name="motion_intro_tip">"Не показывать снова"</string>
+Чтобы удалить музыку, фотографии и другие данные о пользователях, &lt;b>внутренней памяти&lt;/b> должно быть удалено."</string>
+    <string name="motion_intro_tip">Не показывать снова</string>
     <string name="display_size_title">Размер экрана</string>
     <string name="display_size_dialog_title">Выберите размер экрана</string>
     <string name="display_size_default">1280x720/213</string>
@@ -2551,6 +2587,10 @@ It не стирать :
     <string name="add_su_black_list_apps">Добавить защищенные приложения</string>
     <string name="gallery_camara">Галерея / Камера</string>
     <string name="single_ui_mode_settings">Настройки работы одной рукой</string>
+    <string name="pref_title_notification_card1_ringtone">Звук сообщения карты 1</string>
+    <string name="pref_title_notification_card2_ringtone">Звук сообщения карты 2</string>
+    <string name="phone_one_ringtone">Звук вызова с карты 1</string>
+    <string name="phone_two_ringtone">Звук вызова с карты 2</string>
     <string name="wifi_check_addnetwork_title">Внимание</string>
     <string name="wifi_check_addnetwork_message">"Не найдено сетей рядом
 %1$s"</string>
@@ -2562,7 +2602,9 @@ It не стирать :
     <string name="wfd_option_remark">Добавить примечание</string>
     <string name="wfd_option_add_remark">Добавить имя примечания</string>
     <string name="wfd_option_cancel_pairs">Отменить пару</string>
+    <string name="wifi_display_nfc_setting">Настройки NFC</string>
     <string name="wfd_option_nfc_pairs">NFC pair</string>
+    <string name="wfd_option_nfc_pairs_summary">Автоматически разрешить NFC при включении беспроводного дисплея</string>
     <string name="wfd_option_pin_pairs">PIN pair</string>
     <string name="wfd_option_pbc_pairs">PBC pair</string>
     <string name="wfd_option_output">Выходное разрешение</string>
@@ -2580,6 +2622,29 @@ It не стирать :
     <string name="wfd_option_nfc_default_to_nwfd">На основной экран Nfc для начала проекции</string>
     <string name="wfd_option_nfc_default_to_nwfd_summary">На основной экран Nfc для начала и автоподключения проекции экрана</string>
     <string name="wifi_display_sink">Синхронизация экранов</string>
+    <string name="wfd_option_uibc">UIBC</string>
+    <string name="wfd_option_uibc_summary">Пользовательский интерфес с обратным каналом</string>
+    <string name="wfd_sink_summary">Принимать управление от проектора</string>
+    <string name="wifi_display_manual_title">Руководство пользователя</string>
+    <string name="wifidisplay_manual_01_01">Показать на ТВ</string>
+    <string name="wifidisplay_manual_01_02">Вы можете подключаться к устройствам с функцией Wi-Fi дисплея, и передавать графику и звук с мобильного телефона после подключения</string>
+    <string name="wifidisplay_manual_01_03">* Если ваше устройство не имеют функции Wi-Fi дисплея, попробуйте наш аксессуар Нубия беспроводное устройство совместного доступа</string>
+    <string name="wifidisplay_manual_02_01">Смотреть вместе, играть вместе</string>
+    <string name="wifidisplay_manual_02_02">Вы можете отображать содержимое вашего телефона на другой телефон, и ваш телефон будет управляться</string>
+    <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
+    <string name="wifidisplay_manual_03_01_no_nfc">Нажмите, Подключите</string>
+    <string name="wifidisplay_manual_03_02">Сканирование двумерного кода другого телефона, чтобы подключиться</string>
+    <string name="wifidisplay_manual_03_03">Телефоном c открытым Wi-Fi дисплеем коснитесь другого телефона для подключения (оба должны поддерживать NFC)</string>
+    <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
+    <string name="wfd_source_screen_timeout">Тайм-аут экрана проектора</string>
+    <string name="wfd_source_screen_timeout_summary">После %1$s бездействия во время проецирования, как экран проектора</string>
+    <string name="wfd_source_screen_never_timeout_summary">Никогда не спать во время проецирования, как экран проектора</string>
+    <string name="wfd_sink_screen_timeout">Время отключения экрана приемника</string>
+    <string name="wfd_sink_screen_timeout_summary">После %1$s бездействия во время проецирования в качестве приемника экрана</string>
+    <string name="wfd_sink_screen_never_timeout_summary">Никогда не спать во время проецирования в качестве приемника экрана</string>
+    <string name="wfd_advanced_titlebar">Настройки проектора</string>
+    <string name="wfd_click_here_enjoy_projection">Коснитесь, чтобы принять управление от другого проектора</string>
+    <string name="wfd_start_btn">Старт</string>
     <string name="sound_dolby_category_title">DOLBY DIGITAL PLUS</string>
     <string name="sound_dolby_ds_launch_app">Dolby Digital Plus</string>
     <string name="sound_dolby_ds_profile">Профиль</string>
@@ -2674,7 +2739,6 @@ It не стирать :
     <string name="sound_effect_srs_Preset_Music">Музыка</string>
     <string name="sound_effect_srs_Preset_Movie">Кино</string>
     <string name="sound_effect_srs_Preset_Podcast">Подкаст</string>
-    <string name="unlock_sounds_enable_title">Звук разблокировки экрана</string>
     <string name="motion_settings">Настройки движения</string>
     <string name="motion_settings_title">Движения</string>
     <string name="motion_shake_title">Тряска</string>
@@ -2710,30 +2774,15 @@ It не стирать :
     <string name="turnover_vs_intelligent">Умное уведомление не активируется при перевороте телефона</string>
     <string name="shakechange_vs_intelligent">Смена композиции не совместима с умным уведомлением</string>
     <string name="turnover_and_shakechange_vs_intelligent">Переворот телефона и смена композиций не совместимы с умным уведомлением</string>
-	<string name="wifi_sort_way_title">Способ сортировки</string>
-	<string name="wfd_option_uibc_summary">Пользовательский интерфес с обратным каналом</string>
-    <string name="wfd_sink_summary">Принимать управление от проектора</string>
-    <string name="wifi_display_manual_title">Руководство пользователя</string>
-    <string name="wifidisplay_manual_01_01">Показать на ТВ</string>
-    <string name="wifidisplay_manual_01_02">Вы можете подключаться к устройствам с функцией Wi-Fi дисплея, и передавать графику и звук с мобильного телефона после подключения</string>
-    <string name="wifidisplay_manual_01_03">"* Если ваше устройство не имеют функции Wi-Fi дисплея, попробуйте наш аксессуар Нубия беспроводное устройство совместного доступа"</string>
-    <string name="wifidisplay_manual_02_01">Смотреть вместе, играть вместе</string>
-    <string name="wifidisplay_manual_02_02">"Вы можете отображать содержимое вашего телефона на другой телефон, и ваш телефон будет управляться"</string>
-    <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
-    <string name="wifidisplay_manual_03_02">"Сканирование двумерного кода другого телефона, чтобы подключиться"</string>
-    <string name="wifidisplay_manual_03_03">Телефоном c открытым Wi-Fi дисплеем коснитесь другого телефона для подключения (оба должны поддерживать NFC)</string>
-    <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
-    <string name="wfd_source_screen_timeout">Тайм-аут экрана проектора</string>
-    <string name="wfd_source_screen_timeout_summary">После %1$s бездействия во время проецирования, как экран проектора</string>
-    <string name="wfd_source_screen_never_timeout_summary">Никогда не спать во время проецирования, как экран проектора</string>
-    <string name="wfd_sink_screen_timeout">Время отключения экрана приемника</string>
-    <string name="wfd_sink_screen_timeout_summary">После %1$s бездействия во время проецирования в качестве приемника экрана</string>
-    <string name="wfd_sink_screen_never_timeout_summary">Никогда не спать во время проецирования в качестве приемника экрана</string>
-    <string name="wfd_advanced_titlebar">Настройки проектора</string>
-    <string name="wfd_click_here_enjoy_projection">Коснитесь, чтобы принять управление от другого проектора</string>
-    <string name="wfd_start_btn">Старт</string>
-	<string name="internal">Память телефона</string>
-	<string name="move_app_to_internal_storage">Перенести на карту</string>
-	<string name="enable_quickboot_title">Включить режим быстрой загрузки</string>
-    <string name="enable_quickboot_summary">Переводит устройство в режим быстрой загрузки вместо нормального отключения питания.</string>
+    <string name="sim_change_failed_enable_sim_lock">Вы не можете изменить PIN-код SIM карты. Заблокировано</string>
+    <string name="wifi_wps_mgmt_titlebar">Быстрое и надежное соединение</string>
+    <string name="header_category_wireless_transport">Беспроводная передача</string>
+    <string name="touch_gesture_div_screen_title">Жест для разделения экрана</string>
+    <string name="touch_gesture_div_screen_summary">Провести по нижней части экрана для разделения</string>
+    <string name="touch_gesture_div_screen_intro">Провести снизу вверх для разделения</string>
+    <string name="card_toast1">Первый слот для SIM карты поддерживает стандарты связи: TD-LTE 、CDMA 、WCDMA 、TD-SCDMA, GSM.</string>
+    <string name="card_toast2">Второй слот для SIM карты поддерживает только стандарт связи GSM.</string>
+    <string name="default_voice">Для разговоров по умолчанию</string>
+    <string name="default_voice_card">Карта для разговоров по умолчанию</string>
+    <string name="unlock_sounds_enable_title">Звук разблокировки экрана</string>
 </resources>
