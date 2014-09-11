@@ -183,7 +183,7 @@
     <string name="title_photo_flow_preference">Фото на экран блокировки</string>
     <string name="title_photo_flow_time_preference">Время воспроизведения</string>
     <string name="title_photo_flow_select_preference">Выберите папку</string>
-    <string name="save_password_label">Ok</string>
+    <string name="save_password_label">Ввод</string>
     <string name="sys_china_mobile">China Mobile</string>
     <string name="sys_china_telecom">China Telecom</string>
     <string name="sys_china_unicom">China Unicom</string>
