@@ -175,7 +175,7 @@
     <string name="lockscreen_miss_call_tips">Пропущенный звонок</string>
     <string name="card_mms_message_content">Получено %d новых сообщений</string>
     <string name="card_thirdapp_message_content">У вас есть новое сообщение !</string>
-    <string name="lockscreen_setting_title">LockScreen Photo</string>
+    <string name="lockscreen_setting_title">Фото экрана блокировки</string>
     <string name="lockscreen_app_list_title">Будут отображаться</string>
     <string name="app_notification_preferences">Уведомление приложений</string>
     <string name="title_lockscreen_preference">Уведомление блокировки экрана</string>
@@ -183,7 +183,7 @@
     <string name="title_photo_flow_preference">Фото на экран блокировки</string>
     <string name="title_photo_flow_time_preference">Время воспроизведения</string>
     <string name="title_photo_flow_select_preference">Выберите папку</string>
-    <string name="save_password_label">Подтвердить</string>
+    <string name="save_password_label">Ok</string>
     <string name="sys_china_mobile">China Mobile</string>
     <string name="sys_china_telecom">China Telecom</string>
     <string name="sys_china_unicom">China Unicom</string>
