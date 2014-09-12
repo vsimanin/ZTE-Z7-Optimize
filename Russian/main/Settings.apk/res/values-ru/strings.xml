@@ -2320,7 +2320,7 @@ It не стирать :
     <string name="bottom_key_home">Домой</string>
     <string name="bottom_key_back">Назад</string>
     <string name="more_settings">Дополнительно</string>
-    <string name="hardware_version">Hardware version</string>
+    <string name="hardware_version">Версия телефона</string>
     <string name="nubia_version">Версия интерфейса Nubia</string>
     <string name="power_show_as_percentage">Процент батареи</string>
     <string name="battery_alert">Предупреждение батареи</string>
