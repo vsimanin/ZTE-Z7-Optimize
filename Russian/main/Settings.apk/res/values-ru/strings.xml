@@ -2260,7 +2260,7 @@ It не стирать :
     <string name="led_app_msg_title">Уведомление смс</string>
     <string name="led_app_msg_summary">Вкл</string>
     <string name="led_brightness">Автоматическая яркость</string>
-    <string name="nubia_font_size_example">Нубия</string>
+    <string name="nubia_font_size_example">Nubia</string>
     <string name="font_size_small">Маленький</string>
     <string name="font_size_big">Большой</string>
     <string name="saturation_info">Насыщенность</string>
@@ -2628,7 +2628,7 @@ It не стирать :
     <string name="wifi_display_manual_title">Руководство пользователя</string>
     <string name="wifidisplay_manual_01_01">Показать на ТВ</string>
     <string name="wifidisplay_manual_01_02">Вы можете подключаться к устройствам с функцией Wi-Fi дисплея, и передавать графику и звук с мобильного телефона после подключения</string>
-    <string name="wifidisplay_manual_01_03">* Если ваше устройство не имеют функции Wi-Fi дисплея, попробуйте наш аксессуар Нубия беспроводное устройство совместного доступа</string>
+    <string name="wifidisplay_manual_01_03">* Если ваше устройство не имеют функции Wi-Fi дисплея, попробуйте наш аксессуар Nubia беспроводное устройство совместного доступа</string>
     <string name="wifidisplay_manual_02_01">Смотреть вместе, играть вместе</string>
     <string name="wifidisplay_manual_02_02">Вы можете отображать содержимое вашего телефона на другой телефон, и ваш телефон будет управляться</string>
     <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
