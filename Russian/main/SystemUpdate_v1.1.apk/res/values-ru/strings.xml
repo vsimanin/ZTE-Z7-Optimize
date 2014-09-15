@@ -162,15 +162,10 @@
     <string name="before_sd_update_lack_battery_title">Низкий заряд батареи</string>
     <string name="before_sd_update_lack_battery_message">Невозможно начать обновление при низком заряде батареи. Зарядите телефон.</string>
     <string name="start_check_update_package">Начать обновление</string>
-    <string name="start_check_update_package_title">Обновить с диска</string>
-    <string name="install_update_disk">"
-"&lt;li>"Скопируйте пакет обновления в корневую папку диска до начала.
-
-"&lt;/li>&lt;li>"Обновление не удалит ваши данные.
-
-"&lt;/li>&lt;li>"Пожалуйста, не вынимайте SIM-карту и не отключайте питание.
-
-"&lt;/li></string>
+    <string name="start_check_update_package_title">Обновить со встроенной памяти</string>
+    <string name="install_update_disk">"Скопируйте пакет обновления в корневую папку диска до начала.
+	Обновление не удалит ваши данные.
+	Пожалуйста, не вынимайте SIM-карту и не отключайте питание.</string>
     <string name="icc_card_absent">ICC карта отсутствует</string>
     <string name="nubia_name">Nubia</string>
     <string name="personality_desc">Индивидуальный подход к жизни</string>
@@ -186,4 +181,11 @@
     <string name="fastboot_entry">Fastboot</string>
     <string name="recovery_desc">Перезагрузить телефон в режим Recovery</string>
     <string name="fastboot_desc">Перезагрузить телефон в режим Fastboot</string>
+    <string name="fota_other_setting">Другие настройки</string>
+    <string name="fota_check_time">Следующая проверка</string>
+    <string name="fota_imei">IMEI</string>
+    <string name="baseband_version">Версия полосы частот</string>
+    <string name="dm_version">Версия программного обеспечения</string>
+    <string name="dm_update_date">Дата обновления</string>
+    <string name="system_update_settings_list_item_title_storage">Обновить со встроенной памяти</string>
 </resources>
