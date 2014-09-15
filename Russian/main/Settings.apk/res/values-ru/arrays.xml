@@ -227,7 +227,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Не выключать</item>
         <item>Только при питании от сети</item>
-        <item>Всегда выключать (увеличивает объем мобильного трафика)
+        <item>Всегда выключать (увеличивает объем мобильного трафика)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Не выключать</item>
