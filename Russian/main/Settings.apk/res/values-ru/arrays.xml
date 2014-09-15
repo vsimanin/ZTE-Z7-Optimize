@@ -337,7 +337,7 @@
         <item>GID</item>
     </string-array>
     <string-array name="mvno_type_values">
-        <item></item>
+        <item>Нет</item>
         <item>spn</item>
         <item>imsi</item>
         <item>gid</item>
@@ -803,6 +803,7 @@
         <item>Подключена</item>
         <item>Время ожидания истекло</item>
         <item>Сбой</item>
+    </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Совершенное существо</item>
         <item>Человек</item>
