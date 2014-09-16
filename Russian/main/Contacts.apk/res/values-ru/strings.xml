@@ -1459,4 +1459,8 @@
     <string name="cattle_04">Артурчик</string>
     <string name="cattle_05">Красотка</string>
     <string name="cattle_06">Бяка</string>
+    <string name="default_contact_card_setting">Выбор контактов для SIM-карты</string>
+    <string name="continue_merge_part_contacts">Объединить контакты</string>
+    <string name="no_merge_contacts_for_all">"Нет полностью повторяющихся контактов. 
+	Нажмите на кнопку для объединения не полностью дублирующихся контактов.</string>	
 </resources>
