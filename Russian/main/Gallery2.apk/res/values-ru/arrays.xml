@@ -7,7 +7,7 @@
         <item>Было выбрано 4 фото!</item>
     </string-array>
     <string-array name="move_items">
-        <item>Переместить</item>
+        <item>Вырезать</item>
         <item>Копировать</item>
     </string-array>
 </resources>
