@@ -173,7 +173,7 @@
     <string name="folder_imported">Импортированные</string>
     <string name="folder_screenshot">Скриншоты</string>
     <string name="help">Справка</string>
-    <string name="help_url_gallery_main">Справка</string>
+    <string name="help_url_gallery_main" />
     <string name="video_share">Отправить</string>
     <string name="video_edit">Редактировать</string>
     <string name="video_encrypt">Шифровать</string>
@@ -1097,16 +1097,16 @@
     <string name="minutes_and_seconds" formatted="false">%s m %s s</string>
     <string name="specification_sure">Я знаю</string>
     <string name="specification_star_cloud_title">Облако</string>
-    <string name="specification_star_cloud_context">"\u0009\u0009Использовать это, для съемки Млечного Пути \u0009\u0009Убедитесь, что погода хорошая, а так же используйте трипод."</string>
+    <string name="specification_star_cloud_context">"Использовать это, для съемки Млечного Пути убедитесь, что погода хорошая, а так же используйте трипод."</string>
     <string name="specification_star_track_title">Star Track</string>
-    <string name="specification_star_track_context">"\u0009\u0009\u0009\u0009Использовать это, для съемки Млечного Пути \u0009\u0009\u0009\u0009Убедитесь, что погода хорошая, а так же используйте трипод."</string>
+    <string name="specification_star_track_context">"Использовать это, для съемки Млечного Пути убедитесь, что погода хорошая, а так же используйте трипод."</string>
     <string name="specification_light_draw_title">Световая обработка</string>
-    <string name="specification_light_draw_context">"\u0009\u0009\u0009\u0009Длительное воздействие режима световой обработки изменяет траекторию движения. \u0009\u0009\u0009\u0009Используйте штатив для съемки в темноте"</string>
+    <string name="specification_light_draw_context">"Длительное воздействие режима световой обработки изменяет траекторию движения. Используйте штатив для съемки в темноте"</string>
     <string name="specification_crystal_title">Кристал</string>
-    <string name="specification_crystal_context">"\u0009\u0009\u0009\u0009Режим Кристалл для съемки неподвижных объектов, может привести к отличным результатам. \u0009\u0009\u0009\u0009Нужно использовать штатив."</string>
+    <string name="specification_crystal_context">"Режим Кристалл для съемки неподвижных объектов, может привести к отличным результатам. Нужно использовать штатив."</string>
     <string name="specification_electronic_title">Электронная диафрагма</string>
-    <string name="specification_electronic_context">"\u0009\u0009\u0009\u0009ELC является режим с приоритетом выдержки диафрагмы, можно настроить размер апертуры, камера автоматически настраивает выдержку \u0009\u0009\u0009\u0009Подходит для съемки неподвижных декораций, ночных сцен, натюрморт или медленно движущихся объектов."</string>
+    <string name="specification_electronic_context">"ELC является режим с приоритетом выдержки диафрагмы, можно настроить размер апертуры, камера автоматически настраивает выдержку. Подходит для съемки неподвижных декораций, ночных сцен, натюрморт или медленно движущихся объектов."</string>
     <string name="specification_slow_shutter_title">Медленная выдержка</string>
-    <string name="specification_slow_shutter_context">"\u0009\u0009\u0009\u0009Медленная выдержка использвуется для настройки разного времени экспозиции \u0009\u0009\u0009\u0009Подходит для съемки малоосвещенных, с динамическими символами, транспортных средств, снега и других объектов, а также эфирных волн, блестящей легкорельсового транспорта."</string>
-    <string name="specification_feng_zhi_context">\u0009\u0009\u0009\u0009Глубина предсказать объект контраст в том же глубины поля с красными линиями набросал явное участие, сказал красную область, что находится в фокусе разделе.</string>
+    <string name="specification_slow_shutter_context">"Медленная выдержка использвуется для настройки разного времени экспозиции. Подходит для съемки малоосвещенных, с динамическими символами, транспортных средств, снега и других объектов, а также эфирных волн, блестящей легкорельсового транспорта."</string>
+    <string name="specification_feng_zhi_context">Глубина предсказать объект контраст в том же глубины поля с красными линиями набросал явное участие, сказал красную область, что находится в фокусе разделе.</string>
 </resources>
