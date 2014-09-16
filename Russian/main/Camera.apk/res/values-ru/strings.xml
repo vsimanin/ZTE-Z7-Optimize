@@ -173,7 +173,6 @@
     <string name="folder_imported">Импортированные</string>
     <string name="folder_screenshot">Скриншоты</string>
     <string name="help">Справка</string>
-    <string name="help_url_gallery_main" />
     <string name="video_share">Отправить</string>
     <string name="video_edit">Редактировать</string>
     <string name="video_encrypt">Шифровать</string>
@@ -246,7 +245,7 @@
     <string name="filename">Имя файла</string>
     <string name="please_input">Пожалуйста, введите</string>
     <string name="fileisexist">Файл существует, укажите, пожалуйста, еще раз.</string>
-    <string name="filenameisnull">Имя файла равен null, укажите, пожалуйста, еще раз.</string>
+    <string name="filenameisnull">Имя файла равно null, укажите, пожалуйста, еще раз.</string>
     <string name="filename_invalid">Не удалось переименовать: имя файла содержит недопустимый символ.</string>
     <string name="silent">Беззвучный</string>
     <string name="encrypt_media">Пожалуйста, выберите изображения или видео</string>
@@ -1065,7 +1064,7 @@
     <string name="capture_camera_front">Передняя камера</string>
     <string name="capture_camera_exposure">Траверс экспозиции</string>
     <string name="capture_camera_exposure_tip">Можно сфотографировать несколько фотографий с разным уровнем экспозиции</string>
-    <string name="capture_camera_exposure_count">количество </string>
+    <string name="capture_camera_exposure_count">количество</string>
     <string name="capture_camera_exposure_scope">диапазон выдержки</string>
     <string name="doc_panorama_tip">удерживать центр указателя на линии</string>
     <string name="select_photo_tips">Поддерживаются только 13мп фото</string>
@@ -1094,19 +1093,4 @@
     <string name="pref_fengzhi_focus_entry_off">Выкл.</string>
     <string name="slowshutter_time_s">сек.</string>
     <string name="slowshutter_time_m">мин.</string>
-    <string name="minutes_and_seconds" formatted="false">%s m %s s</string>
-    <string name="specification_sure">Я знаю</string>
-    <string name="specification_star_cloud_title">Облако</string>
-    <string name="specification_star_cloud_context">"Использовать это, для съемки Млечного Пути убедитесь, что погода хорошая, а так же используйте трипод."</string>
-    <string name="specification_star_track_title">Star Track</string>
-    <string name="specification_star_track_context">"Использовать это, для съемки Млечного Пути убедитесь, что погода хорошая, а так же используйте трипод."</string>
-    <string name="specification_light_draw_title">Световая обработка</string>
-    <string name="specification_light_draw_context">"Длительное воздействие режима световой обработки изменяет траекторию движения. Используйте штатив для съемки в темноте"</string>
-    <string name="specification_crystal_title">Кристал</string>
-    <string name="specification_crystal_context">"Режим Кристалл для съемки неподвижных объектов, может привести к отличным результатам. Нужно использовать штатив."</string>
-    <string name="specification_electronic_title">Электронная диафрагма</string>
-    <string name="specification_electronic_context">"ELC является режим с приоритетом выдержки диафрагмы, можно настроить размер апертуры, камера автоматически настраивает выдержку. Подходит для съемки неподвижных декораций, ночных сцен, натюрморт или медленно движущихся объектов."</string>
-    <string name="specification_slow_shutter_title">Медленная выдержка</string>
-    <string name="specification_slow_shutter_context">"Медленная выдержка использвуется для настройки разного времени экспозиции. Подходит для съемки малоосвещенных, с динамическими символами, транспортных средств, снега и других объектов, а также эфирных волн, блестящей легкорельсового транспорта."</string>
-    <string name="specification_feng_zhi_context">Глубина предсказать объект контраст в том же глубины поля с красными линиями набросал явное участие, сказал красную область, что находится в фокусе разделе.</string>
 </resources>
