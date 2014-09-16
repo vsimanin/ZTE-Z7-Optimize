@@ -663,7 +663,8 @@
     <string name="no_video_to_share">Нет ни одного видео.</string>
     <string name="pano_too_fast_prompt">Очень быстро</string>
     <string name="pano_dialog_prepare_preview">Обработка...</string>
-    <string name="pano_dialog_panorama_failed">Не удалось сохранить файл.</string>
+    <string name="pano_dialog_panorama_failed">"Произошла ошибка во время генерирования панорамы.
+	Пожалуйста повторите попытку."</string>
     <string name="pano_dialog_title">Панорама</string>
     <string name="pano_capture_indication">Создание панорамы...</string>
     <string name="pano_dialog_waiting_previous">Обработка предыдущего файла…</string>
@@ -681,7 +682,8 @@
     <string name="effect_backdropper_space">Космос</string>
     <string name="effect_backdropper_sunset">Закат</string>
     <string name="effect_backdropper_gallery">Мои видео</string>
-    <string name="bg_replacement_message">"Установите устройство на твердой поверхности. Затем отойдите, чтобы вас было видно в камеру."</string>
+    <string name="bg_replacement_message">"Установите устройство на твердой поверхности. 
+	Затем отойдите, чтобы вас было видно в камеру."</string>
     <string name="not_selectable_in_effect">Недоступно при использовании эффекта.</string>
     <string name="video_snapshot_hint">Нажмите, чтобы сделать фотографию во время записи.</string>
     <string name="disable_video_snapshot_hint">Невозможно сделать снимок при Вкл.юченных спецэффектах.</string>
@@ -789,7 +791,8 @@
     <string name="strob_action_compound">Соединение</string>
     <string name="multi_exposure_simple_info">Сочетание фотографий</string>
     <string name="multi_exposure_alpha_info">Сочетание нескольких фото, пожалуйста, нажмите кнопку завершения</string>
-    <string name="multi_exposure_background_info">Аккуратно сделайте 3 снимка, первый снимок сделайте фоном, а различия между первым и двумя другими снимками могут быть найдены и скомбинированы</string>
+    <string name="multi_exposure_background_info">Аккуратно сделайте 3 снимка, первый снимок сделайте фоном, 
+	а различия между первым и двумя другими снимками могут быть найдены и скомбинированы</string>
     <string name="multi_exposure_brightness_info">Сохранить яркость для всех изображений</string>
     <string name="multi_exposure_darkness_info">Сохранить затемненность для всех изображений</string>
     <string name="multi_exposure_symmetry_info">Сфотографировать дважды</string>
@@ -1036,7 +1039,8 @@
     <string name="pref_camera_interval_pro_title">Интервалометр</string>
     <string name="pref_camera_interval_pro_entry_0">Закрыть</string>
     <string name="b_shutter">Выдержка</string>
-    <string name="ztemt_cannot_connect_camera">"Пожалуйста, убедитесь, что никакая другая программа не занимает камеру, или попробуйте перезагрузить телефон ."</string>
+    <string name="ztemt_cannot_connect_camera">"Пожалуйста, убедитесь, что никакая другая программа не занимает камеру, 
+	или попробуйте перезагрузить телефон ."</string>
     <string name="ztemt_camera_error_title">Ошибка камеры</string>
     <string name="EV_title">EV</string>
     <string name="ISO_title">ISO</string>
