@@ -17,8 +17,8 @@
     <string name="fast_power_on_summary">Разрешить переход девайса в спящий режим для последующей быстрой загрузки</string>
     <string name="listview_animation_title">Анимаци ListView</string>
     <string name="listview_off">ВЫКЛ</string>
-    <string name="listview_wave_left">Вид Волна (Слева)</string>
-    <string name="listview_wave_right">Вид Волна (Справа)</string>
+    <string name="listview_wave_left">Вид "Волна" (Слева)</string>
+    <string name="listview_wave_right">Вид "Волна" (Справа)</string>
     <string name="listview_alpha">Альфа</string>
     <string name="listview_scale">Масштаб</string>
     <string name="listview_stack_top">Стек (Вверху)</string>
@@ -41,7 +41,7 @@
     <string name="crack_gsm_data_title">Разрешить передачу данных Gsm</string>
     <string name="enable_gsm_ct_summary">Разрешить передачу данных gsm</string>
     <string name="disable_gsm_ct_summary">Запретить передачу данных Gsm</string>
-    <string name="reboot_toast">Теперь вы можете использовать gsm, после перезагрузки эта возможность прекратится</string>
+    <string name="reboot_toast">"Теперь вы можете использовать gsm, после перезагрузки эта возможность прекратится"</string>
     <string name="enter_projectmenu">Вход в меню проекта</string>
     <string name="gf_title">Google Framework</string>
     <string name="unstall_gf_summary">Удалить google framework</string>
@@ -63,7 +63,7 @@
     <string name="storage_switch_summary_on">Использовать SD-карту для приложений и мультимедиа</string>
     <string name="reboot_prompt_title">Необходима перезагрузка</string>
     <string name="reboot_prompt_message">"Чтобы изменения настроек применились, необходима перезагрузка.
-\u0009Перезагрузить сейчас?"</string>
+	Перезагрузить сейчас?"</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="show_volume_wake_summary">Разблокировать телефон нажатием кнопок громкости</string>
@@ -89,9 +89,12 @@
     <string name="status_bar_clock_style_hidden">Скрытые</string>
     <string name="status_bar_am_pm_title">Стиль AM/PM</string>
     <string name="font_size_sample">Пример</string>
-    <string name="brightness_summary">Максимальная яркость %d.</string>
-    <string name="led_brightness_title">Максимальная яркость</string>
+    <string name="brightness_summary">Яркость кнопки "домик" %d.</string>
+    <string name="led_brightness_title">Яркость кнопки "домик"</string>
     <string name="zjl">http://4pda.ru/forum/index.php?showuser=400502</string>
     <string name="app_ver">ATX Advance Tools v1.5 for Demonter</string>
-    <string name="app_copyright">Автор приложения:ZJL@ATX Автор перевода: Rockzill 4pda: http://4pda.ru/forum/index.php?showuser=400502</string>
+    <string name="app_copyright">
+	Автор приложения:ZJL@ATX
+	Автор перевода: Rockzill 
+	4pda: http://4pda.ru/forum/index.php?showuser=400502</string>
 </resources>
