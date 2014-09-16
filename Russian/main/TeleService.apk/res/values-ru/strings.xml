@@ -759,10 +759,10 @@
     <string name="set_sub_not_supported_phone_in_call">Включать или Отключать подписку не допускается, в режиме вызова.</string>
     <string name="phone_one_ringtone">Мелодия телефона 1</string>
     <string name="phone_two_ringtone">Мелодия телефона 2</string>
-    <string name="phone_one_voicemail">ГП 1</string>
-    <string name="phone_two_voicemail">ГП 2</string>
-    <string name="phone_one_othersettings">телефон 1 другие настройки</string>
-    <string name="phone_two_othersettings">телефон 2 другие настройки</string>
+    <string name="phone_one_voicemail">Голосовая почта 1</string>
+    <string name="phone_two_voicemail">Голосовая почта 2</string>
+    <string name="phone_one_othersettings">SIM1 другие настройки</string>
+    <string name="phone_two_othersettings">SIM2 другие настройки</string>
     <string name="auto_answer_incomingcall_when_insert_the_headset">Автоответ при подкл. гарнитуры</string>
     <string name="headset_autoanswer_never">Никогда</string>
     <string name="headset_autoanswer_immediately">Немедленно</string>
@@ -822,9 +822,9 @@
     <string name="data_timer_reset_title">Сброс</string>
     <string name="reset_msg_voice_call">Счетчики вызовов будут очищены, продолжить?</string>
     <string name="reset_msg_data_call">Вы уверены, что хотите сбросить счетчики передачи данных и голосовых вызовов?</string>
-    <string name="phone_number_double" formatted="false">"phone 1：%s
-phone 2：%s"</string>
-    <string name="phone_number">phone：%s</string>
+    <string name="phone_number_double" formatted="false">"телефон 1：%s
+телефон 2：%s"</string>
+    <string name="phone_number">телефон：%s</string>
     <string name="call_forward">Переадресация вызова</string>
     <string name="call_waiting_setting">Настройки ожидания вызова</string>
     <string name="network_settings_title">Настройки вызова в сети CDMA</string>
@@ -897,6 +897,13 @@ phone 2：%s"</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="nubia_not_support_operation">Эта операция не поддерживается</string>
+    <string name="double_card_setting">Настройки Dual-Sim</string>
+    <string name="card_name">Оператор</string>
+    <string name="switch_card">Переключить SIM-карту на %d</string>
+    <string name="nubia_in_call_music_title">фоновая музыка во время звонка</string>
+    <string name="nubia_in_call_music_summary">звуковое уведомление во время звонка</string>
+    <string name="card_insert_erro_title">Ошибка! Sim-карта вставлена не правильно</string>
+    <string name="card_insert_erro_ok">OK</string>	
     <string name="autoSet">Автоматическая установка</string>
     <string name="autoSetSummary">Автонастройка сети</string>
     <string name="lte_enabled">LTE режим</string>

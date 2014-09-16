@@ -19,6 +19,11 @@
         <item>Только WCDMA</item>
         <item>Только GSM</item>
         <item>GSM/WCDMA (предпочтительно)</item>
+    <string-array name="preferred_network_mode_choices_6">
+        <item>GSM/WCDMA (авторежим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+    </string-array>		
     </string-array>
     <string-array name="list_language_entries">
         <item>английский</item>
