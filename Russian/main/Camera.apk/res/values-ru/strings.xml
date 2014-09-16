@@ -181,7 +181,7 @@
     <string name="video_help">Помощь</string>
     <string name="video_details">Детали</string>
     <string name="video_timer">Счетчик</string>
-    <string name="video_timer_off">Выкл..</string>
+    <string name="video_timer_off">выкл.</string>
     <string name="video_timer_play_finish">После завершения проигрывания</string>
     <string name="video_timer_thirty_min">Через 30 минут</string>
     <string name="video_timer_one_hour">Через 1 час</string>
@@ -289,7 +289,7 @@
     <string name="no_content">Нет пунктов</string>
     <string name="time_format">yyyy-M-d</string>
     <string name="slide_to_delete">Сдвиньте вверх/вниз для удаления</string>
-    <string name="move_selection">Выбор тип операции</string>
+    <string name="move_selection">Выбор типа операции</string>
     <string name="copy_to_target_folder">Копировать в папку назначения</string>
     <string name="dialog_copying_folder">Копирование...</string>
     <string name="selectmethod">Изображений больше чем 150, пожалуйста, выберите заново</string>
@@ -422,7 +422,7 @@
     <string name="pref_camera_hfr_value_2x">60</string>
     <string name="pref_camera_hfr_value_3x">90</string>
     <string name="pref_camera_hfr_value_4x">120</string>
-    <string name="pref_camera_denoise_title2">Режим подавление шума Wavelet</string>
+    <string name="pref_camera_denoise_title2">Режим Wavelet Denoise</string>
     <string name="pref_camera_denoise_default">denoise-on</string>
     <string name="pref_camera_denoise_entry_off">Выкл.</string>
     <string name="pref_camera_denoise_entry_on">Вкл.</string>
@@ -587,8 +587,8 @@
     <string name="pref_camera_id_entry_front">Передняя</string>
     <string name="pref_camera_recordlocation_title">Геотеги</string>
     <string name="pref_camera_recordlocation_default">on</string>
-    <string name="pref_camera_recordlocation_entry_off">Выкл..</string>
-    <string name="pref_camera_recordlocation_entry_on">Вкл..</string>
+    <string name="pref_camera_recordlocation_entry_off">Выкл.</string>
+    <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
     <string name="pref_video_quality_title">Качество видео</string>
     <string name="pref_video_quality_default">6</string>
     <string name="pref_video_quality_front_default">5</string>
@@ -662,8 +662,7 @@
     <string name="no_video_to_share">Нет ни одного видео.</string>
     <string name="pano_too_fast_prompt">Очень быстро</string>
     <string name="pano_dialog_prepare_preview">Обработка...</string>
-    <string name="pano_dialog_panorama_failed">"Произошла ошибка во время генерирования панорамы.
-	Пожалуйста повторите попытку."</string>
+    <string name="pano_dialog_panorama_failed">Произошла ошибка во время генерирования панорамы. Пожалуйста повторите попытку.</string>
     <string name="pano_dialog_title">Панорама</string>
     <string name="pano_capture_indication">Создание панорамы...</string>
     <string name="pano_dialog_waiting_previous">Обработка предыдущего файла…</string>
@@ -681,8 +680,7 @@
     <string name="effect_backdropper_space">Космос</string>
     <string name="effect_backdropper_sunset">Закат</string>
     <string name="effect_backdropper_gallery">Мои видео</string>
-    <string name="bg_replacement_message">"Установите устройство на твердой поверхности. 
-	Затем отойдите, чтобы вас было видно в камеру."</string>
+    <string name="bg_replacement_message">Установите устройство на твердой поверхности. Затем отойдите, чтобы вас было видно в камеру.</string>
     <string name="not_selectable_in_effect">Недоступно при использовании эффекта.</string>
     <string name="video_snapshot_hint">Нажмите, чтобы сделать фотографию во время записи.</string>
     <string name="disable_video_snapshot_hint">Невозможно сделать снимок при Включенных спецэффектах.</string>
@@ -741,8 +739,7 @@
     <string name="focus_title">Фокус</string>
     <string name="other_settings_show">Показать другие настройки</string>
     <string name="polarizing_filter_title">Поляризационный фильтр</string>
-    <string name="pref_camera_autoexposure_entry_focus_exposure_separation">Независимая выдержка</string>	
-    <string name="card_recognition">"Поместите контакт в центр экрана и нажмите кнопку спуска "</string>
+    <string name="card_recognition">Поместите контакт в центр экрана и нажмите кнопку спуска</string>
     <string name="phone_space_low">Память заполнена! Удалите несколько снимков или других файлов.</string>
     <string name="camera_app_name">Камера</string>
     <string name="no_storage_available_usb">Открыто USB хранилище, камера пока не доступна</string>
@@ -784,8 +781,7 @@
     <string name="strob_action_compound">Соединение</string>
     <string name="multi_exposure_simple_info">Сочетание фотографий</string>
     <string name="multi_exposure_alpha_info">Сочетание нескольких фото, пожалуйста, нажмите кнопку завершения</string>
-    <string name="multi_exposure_background_info">Аккуратно сделайте 3 снимка, первый снимок сделайте фоном, 
-	а различия между первым и двумя другими снимками могут быть найдены и скомбинированы</string>
+    <string name="multi_exposure_background_info">Аккуратно сделайте 3 снимка, первый снимок сделайте фоном, а различия между первым и двумя другими снимками могут быть найдены и скомбинированы</string>
     <string name="multi_exposure_brightness_info">Сохранить яркость для всех изображений</string>
     <string name="multi_exposure_darkness_info">Сохранить затемненность для всех изображений</string>
     <string name="multi_exposure_symmetry_info">Сфотографировать дважды</string>
@@ -816,7 +812,7 @@
     <string name="pip_title">Картинка в картинке</string>
     <string name="object_clear_title">Ясный объект</string>
     <string name="light_painting_title">Светопись</string>	
-    <string name="startrack_data_save">Сохранить фото-процесс</string>
+    <string name="startrack_data_save">Save Process Pictures</string>
     <string name="intervalometer_min">1 сек.</string>
     <string name="intervalometer_max">60 сек.</string>
     <string name="intervalometer_num_unit">%1$d фотография существует</string>
@@ -865,7 +861,7 @@
     <string name="pref_camera_grid_title">Сетки</string>
     <string name="pref_camera_grid_style1">9 сеток</string>
     <string name="pref_camera_grid_style2">Золотое сечение</string>
-    <string name="pref_camera_grid_off">Выкл..</string>
+    <string name="pref_camera_grid_off">Выкл.</string>
     <string name="pref_camera_gradienter_title">Градиент</string>
     <string name="pref_camera_gradienter_entry_on">on</string>
     <string name="pref_camera_gradienter_entry_off">off</string>
@@ -976,7 +972,7 @@
     <string name="pref_camera_awb_lock_entry_on">блокировка</string>
     <string name="pref_camera_awb_lock_default">off</string>
     <string name="pref_camera_exposure_time_defaultvalue">0</string>
-    <string name="object_clear_large_motion">Ошибка широкого движения.</string>
+    <string name="object_clear_large_motion">Ошибка Large motion.</string>
     <string name="object_clear_no_remove_object">Нет объекта съемки.</string>
     <string name="object_clear_tip">Держите ваш телефон при съемке</string>
     <string name="object_clear_remove_tip">Пожалуйста, выберите объект, который вы хотите удалить</string>
@@ -986,9 +982,9 @@
     <string name="setting_sd_default">lock</string>
     <string name="setting_zd_default">auto</string>
     <string name="setting_w_default">none</string>
-    <string name="multi_shoot_not_support">Не поддерживается, когда фильтр объектива включен</string>
+    <string name="multi_shoot_not_support">Not Supported While Lens-Filter On</string>
     <string name="pref_video_denoise_default">denoise-off</string>
-    <string name="pref_video_denoise_title">Режим подавление шума Wavelet</string>
+    <string name="pref_video_denoise_title">Режим Wavelet Denoise</string>
     <string name="pref_video_denoise_entry_off">Выкл.</string>
     <string name="pref_video_denoise_entry_on">Вкл.</string>
     <string name="pref_snapshot_mirror_entry_off">Выкл.</string>
@@ -997,7 +993,6 @@
     <string name="pref_snapshot_mirror_title">Зеркальный снимок</string>
     <string name="pref_slow_shutter_title">Длительная выдержка</string>
     <string name="pref_slow_shutter_default">-1</string>
-    <string name="pref_slow_shutter_default">8</string>
     <string name="pref_camera_fno_title">Fno</string>
     <string name="pref_camera_fno_default">2.0</string>
     <string name="pref_interval_pro_title">Временной интервал</string>
@@ -1009,7 +1004,6 @@
     <string name="please_cancel_wait">Отмена таймера...</string>
     <string name="capturing">Захват...</string>
     <string name="preparing">Подготовка...</string>
-    <string name="data_process">Обработка данных...</string>
     <string name="pref_electronic_fno_title">Электронная Апертура</string>
     <string name="pref_electronic_fno_default">off</string>
     <string name="electronic_fno_title">Электронная Fno:</string>
@@ -1034,8 +1028,7 @@
     <string name="pref_camera_interval_pro_entryvalue_0">-1</string>
     <string name="pref_camera_interval_pro_entry_0">Закрыть</string>
     <string name="b_shutter">Выдержка</string>
-    <string name="ztemt_cannot_connect_camera">"Пожалуйста, убедитесь, что никакая другая программа не занимает камеру, 
-	или попробуйте перезагрузить телефон ."</string>
+    <string name="ztemt_cannot_connect_camera">"Пожалуйста, убедитесь, что никакая другая программа не занимает камеру, или попробуйте перезагрузить телефон."</string>
     <string name="ztemt_camera_error_title">Ошибка камеры</string>
     <string name="video_maker">Киностудия</string>
     <string name="object_clear">Очистить объект</string>
@@ -1044,7 +1037,7 @@
     <string name="capture_camera_use_tip">Выйдите из камеры и запустите Bluetooth Finder для фотографирования.</string>
     <string name="capture_camera_exposure">Траверс экспозиции</string>
     <string name="capture_camera_exposure_tip">Можно сфотографировать несколько фотографий с разным уровнем экспозиции</string>
-	<string name="setting_color_filter_title">Цветовой фильтр</string>
+    <string name="setting_color_filter_title">Цветовой фильтр</string>
     <string name="pref_capture_camera_title">Захват</string>
     <string name="capture_camera_use_tip">Выйдите из камеры и запустите Bluetooth Finder для фотографирования.</string>
     <string name="capture_camera_exposure_tip">Можно сфотографировать несколько фотографий с разным уровнем экспозиции</string>
