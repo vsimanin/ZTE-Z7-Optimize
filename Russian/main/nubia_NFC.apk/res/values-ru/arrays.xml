@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_reboot_list">
+        <item>@string/reboot_normal</item>
+        <item>@string/reboot_recovery</item>
+    </string-array>
+    <string-array name="values_reboot_list">
+        <item>@string/normal</item>
+        <item>@string/recovery</item>
+    </string-array>
+    <string-array name="entries_status_bar_network_traffic_style">
+        <item>@string/status_bar_network_traffic_style_disable</item>
+        <item>@string/status_bar_network_traffic_style_up</item>
+        <item>@string/status_bar_network_traffic_style_down</item>
+        <item>@string/status_bar_network_traffic_style_all</item>
+    </string-array>
+    <string-array name="values_status_bar_network_traffic_style">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="listview_animation_entries">
+        <item>@string/listview_off</item>
+        <item>@string/listview_wave_left</item>
+        <item>@string/listview_wave_right</item>
+        <item>@string/listview_scale</item>
+        <item>@string/listview_alpha</item>
+        <item>@string/listview_stack_top</item>
+        <item>@string/listview_stack_bottom</item>
+        <item>@string/listview_unfold</item>
+        <item>@string/listview_fold</item>
+        <item>@string/listview_translate_left</item>
+        <item>@string/listview_translate_right</item>
+    </string-array>
+    <string-array name="listview_animation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="listview_interpolator_entries">
+        <item>@string/listview_off</item>
+        <item>@string/listview_accelerate_interpolator</item>
+        <item>@string/listview_decelerate_interpolator</item>
+        <item>@string/listview_accelerate_decelerate_interpolator</item>
+        <item>@string/listview_anticipate_interpolator</item>
+        <item>@string/listview_overshoot_interpolator</item>
+        <item>@string/listview_anticipate_overshoot_interpolator</item>
+        <item>@string/listview_bounce_interpolator</item>
+    </string-array>
+    <string-array name="listview_interpolator_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="show_network_speed_entries">
+        <item>1сек</item>
+        <item>2сек</item>
+        <item>3сек</item>
+        <item>4сек(по умолчанию)</item>
+        <item>5сек</item>
+        <item>6сек</item>
+        <item>"не отображать"</item>
+    </string-array>
+    <string-array name="show_network_speed_values">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="dithering_entries">
+        <item>@string/dithering_no_dither</item>
+        <item>@string/dithering_color_banding</item>
+        <item>@string/dithering_blur_effect</item>
+    </string-array>
+    <string-array name="dithering_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_zram_size_entries">
+        <item>Откл</item>
+        <item>10%</item>
+        <item>18% (по умолчанию)</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="pref_zram_size_values">
+        <item>0</item>
+        <item>10</item>
+        <item>18</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="entries_status_bar_clock">
+        <item>@string/status_bar_clock_style_default</item>
+        <item>@string/status_bar_clock_style_center</item>
+        <item>@string/status_bar_clock_style_hidden</item>
+    </string-array>
+    <string-array name="values_status_bar_clock">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="entries_status_bar_am_pm">
+        <item>Нормальные</item>
+        <item>Маленькие</item>
+        <item>Откл</item>
+    </string-array>
+    <string-array name="values_status_bar_am_pm">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="labeltextstyle_entries">
+        <item>Жирный</item>
+        <item>Курсив</item>
+        <item>Жирный курсив</item>
+        <item>По умолчанию</item>
+    </string-array>
+    <string-array name="labeltextstyle_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="labeltextsize_entries">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+</resources>
