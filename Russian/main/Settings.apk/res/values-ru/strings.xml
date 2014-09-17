@@ -1351,8 +1351,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<ul><li>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
+"<li><ul>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -1930,8 +1930,8 @@
     <string name="sel_sub_summary">Выбрать подписку Подп.1, Подп.2 и т.д.</string>
     <string name="select_subscription">Выбрать подписку</string>
     <string name="subs_settings">SUBS статус</string>
-    <string name="multi_sim_settings_title">Настройки Multi-SIM</string>
-    <string name="multi_sim_settings_summary">Установка настроек Multi-SIM для голоса, данных и SMS</string>
+    <string name="multi_sim_settings_title">Настройки Dual-SIM</string>
+    <string name="multi_sim_settings_summary">Установка настроек Dual-SIM для голоса, данных и SMS</string>
     <string name="voice_title">Голос/USSD/MMI</string>
     <string name="voice_summary">Выбрать подписку для голосового вызова</string>
     <string name="data_title">Вызов данных</string>
@@ -2299,11 +2299,11 @@ It не стирать :
     <string name="quick_communication_title">Быстрая связь</string>
     <string name="quick_communication_summary">Проведите пальцем по экрану, чтобы быстро набирать и отправлять текстовые сообщения</string>
     <string name="suspension_control_info">Поставьте палец в 10мм от экрана, не прикасаясь к экрану, чтобы разблокировать, осуществить предпросмотр, прокрутку и т.д.</string>
-    <string name="progress_preview_info">"&lt;br&gt;&lt;b&gt;Удерживайте&lt;/b&gt; палец над полоской воспроизведения &lt;/br&gt;&lt;b&gt;чтобы увидеть &lt;/b&gt; текущий кадр"</string>
-    <string name="content_preview_info1">&lt;br&gt;&lt;b&gt;Удерживайте&lt;/b&gt; палец над папкой в галерее &lt;/br&gt;&lt;b&gt;чтобы увидеть&lt;/b&gt; изображения в папке</string>
-    <string name="content_preview_info2">&lt;br&gt;&lt;b&gt;Hover&lt;/b&gt; палец над видео файлом &lt;/br&gt;&lt;b&gt;для предпросмотра&lt;/b&gt; видео</string>
-    <string name="quick_communication_info1">При пропущенном вызове, &lt;br&gt;&lt;b&gt;удерживайте&lt;/b&gt;палец над иконкой вызова &lt;/br&gt;&lt;b&gt;для предпросмотра&lt;/b&gt; и быстрого набора</string>
-    <string name="quick_communication_info2">&lt;br&gt;&lt;b&gt;Удерживайте&lt;/b&gt;палец над списком контактов, вызовов и сообщений&lt;/br&gt; для быстрого вызова и отправки СМС</string>
+    <string name="progress_preview_info">&lt;br>&lt;b>Удерживайте&lt;/b> палец над полоской воспроизведения &lt;/br>&lt;b>чтобы увидеть &lt;/b> текущий кадр</string>
+    <string name="content_preview_info1">&lt;br>&lt;b>Удерживайте&lt;/b> палец над папкой в галерее &lt;/br>&lt;b>чтобы увидеть&lt;/b> изображения в папке</string>
+    <string name="content_preview_info2">&lt;br>&lt;b>Hover&lt;/b> палец над видео файлом &lt;/br>&lt;b>для предпросмотра&lt;/b> видео</string>
+    <string name="quick_communication_info1">При пропущенном вызове, &lt;br>&lt;b>удерживайте&lt;/b>палец над иконкой вызова &lt;/br>&lt;b>для предпросмотра&lt;/b> и быстрого набора</string>
+    <string name="quick_communication_info2">&lt;br>&lt;b>Удерживайте&lt;/b>палец над списком контактов, вызовов и сообщений&lt;/br> для быстрого вызова и отправки СМС</string>
     <string name="split_screen_settings">Разделение экрана</string>
     <string name="split_screen_info">Разделить экран на две части, чтобы увидеть два приложения одновременно</string>
     <string name="split_screen_manual">Включить вручную разделение экрана</string>
@@ -2365,9 +2365,16 @@ It не стирать :
     <string name="status_network1">Состояние сети 1 телефона</string>
     <string name="status_network2">Состояние сети 2 телефона</string>
     <string name="status_data_network">Сеть передачи данных</string>
-    <string name="msim_settings">Настройки Multi-SIM</string>
-    <string name="card_all_toast">Первый слот поддерживает 2G/3G/4G карты;Второй слот поддерживает 2G/3G/4G карты China Unicom и China Mobile.Одновременно одна карта может работать в сети 3G/4G другая в сети 2G.</string>
-    <string name="card_g_toast">Оба слота поддерживают 2G/3G/4G карты China Unicom и China Mobile. Одновременно одна карта может работать в сети 3G/4G другая в сети 2G.</string>
+    <string name="msim_settings">Настройки Dual-SIM</string>
+    <string name="card_lte_all_toast">Первый слот для SIM-карты поддерживает 2G/3G/4G сети China Telecom, China Unicom и China Mobile; Второй слот для SIM-карты поддерживает 2G/3G/4G сети China Unicom и China Mobile. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
+    <string name="card_all_toast">Первый слот для SIM-карты поддерживает 2G/3G сети China Telecom, China Unicom и China Mobile; Второй слот для SIM-карты поддерживает 2G/3G сети China Unicom и China Mobile.В то же время, первая карта работает в 3G сетях, а вторая только в сети GSM 2G.</string>
+    <string name="card_g_lte_toast">Первый слот для SIM-карты и второй слот для SIM-карты поддерживают 2G/3G/4G сети China Unicom и China Mobile. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
+    <string name="card_tds_lte_toast">Первый слот для SIM-карты и второй слот для SIM-карты поддерживают 2G/3G/4G сети China Mobile. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
+    <string name="card_w_lte_toast">Первый слот для SIM-карты и второй слот для SIM-карты поддерживают 2G/3G/4G сети China Unicom. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
+    <string name="card_c_toast">Первый слот для SIM-карты поддерживает 2G/3G сети China Telecom. Второй слот для SIM-карты поддерживает только 2G сети.</string>
+    <string name="card_c_lte_toast">Первый слот для SIM-карты поддерживает 2G/3G/4G сети China Telecom. Второй слот для SIM-карты поддерживает только 2G сети.</string>
+    <string name="card_w_toast">Первый слот для SIM-карты и второй слот для SIM-карты поддерживают 2G/3G сети China Unicom. В то же время, первая карта работает в 3G сетях, а вторая только в сети GSM 2G.</string>
+    <string name="card_w_c_toast">Первый слот для SIM-карты поддерживает 2G/3G сети China Telecom, China Unicom. Второй слот для SIM-карты поддерживает 2G/3G сети China Unicom. В то же время, первая карта работает в 3G сетях, а вторая только в сети GSM 2G.</string>	
     <string name="data_network">Сеть передачи данных</string>
     <string name="card_on">Активировать</string>
     <string name="card_off">Отключить</string>
@@ -2414,14 +2421,14 @@ It не стирать :
     <string name="change_primary">Изменение основного хранилища</string>
     <string name="change_primary_or_not">Изменить основное хранилище</string>
     <string name="change_primary_or_not_message">Подвердите изменение основного хранилища?</string>
-    <string name="change_primary_detail">Основное хранилище будет изменено  после перезагрузки. Существующие данные приложений могут быть утеряны. Может потребоваться переустановка приложений.</string>
+    <string name="change_primary_detail">Основное хранилище будет изменено после перезагрузки. Существующие данные приложений могут быть утеряны. Может потребоваться переустановка приложений.</string>
     <string name="confirm_reboot">Перезагрузка</string>
     <string name="external_as_primary_off_message">Разрешить выбор при наличии SD карты</string>
     <string name="filter_apps_oninternal">Встроенная карта</string>
     <string name="move_app_to_internal_storage">Перенести на встроенную карту</string>
     <string name="additional_bootanimation_info_title">Информация о загрузочной анимации</string>
     <string name="insert_erro">Ошибка</string>
-    <string name="contacts_app_exist">Убедитесь в наличии приложения &quot;Контакты&quot;!</string>
+    <string name="contacts_app_exist">Убедитесь в наличии приложения Контакты!</string>
     <string name="font_size_example">"
 Это пример теста на размер шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
@@ -2780,6 +2787,7 @@ It не стирать :
     <string name="touch_gesture_div_screen_title">Жест для разделения экрана</string>
     <string name="touch_gesture_div_screen_summary">Провести по нижней части экрана для разделения</string>
     <string name="touch_gesture_div_screen_intro">Провести снизу вверх для разделения</string>
+    <string name="card_g_toast">Оба слота поддерживают 2G/3G/4G карты China Unicom и China Mobile. Одновременно одна карта может работать в сети 3G/4G другая в сети 2G.</string>
     <string name="card_toast1">Первый слот для SIM карты поддерживает стандарты связи: WCDMA, GSM.</string>
     <string name="card_toast2">Второй слот для SIM карты поддерживает только стандарт связи GSM.</string>
     <string name="default_voice">Для разговоров по умолчанию</string>
