@@ -179,7 +179,7 @@
     <string name="slideshow_motioncontrol">Контроль движений</string>
     <string name="slideshow_motioncontrol_value">Наклонить телефон, быстрый просмотр</string>
     <string name="slideshow_playmusic">Воспроизведение музыки</string>
-    <string name="slideshow_effect">Эффект фильтрв</string>
+    <string name="slideshow_effect">Фильтр эффектов</string>
     <string name="slideshow_effect_cube">Куб</string>
     <string name="slideshow_effect_flow">Поток</string>
     <string name="slideshow_effect_fadeout">Затухание</string>
