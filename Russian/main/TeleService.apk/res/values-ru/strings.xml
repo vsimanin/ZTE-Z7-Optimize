@@ -86,7 +86,7 @@
     <string name="apn_settings">Точки доступа (APN)</string>
     <string name="settings_label">Настройки сети</string>
     <string name="voicemail">Голосовая почта</string>
-    <string name="voicemail_abbreviated">ГП:</string>
+    <string name="voicemail_abbreviated">Голосовая почта:</string>
     <string name="networks">Операторы связи</string>
     <string name="call_settings">Вызовы</string>
     <string name="additional_gsm_call_settings">Дополнительные настройки</string>
@@ -135,7 +135,7 @@
     <string name="stk_cc_ss_to_dial_error">Запрос SS изменен на набор номера.</string>
     <string name="stk_cc_ss_to_ussd_error">Запрос SS изменен на USSD запрос.</string>
     <string name="stk_cc_ss_to_ss_error">Запрос SS изменен на новый SS запрос.</string>
-    <string name="fdn_check_failure">Разрешенные номера в приложении "Телефон" включены. В результате некоторые функции вызовов недоступны.</string>
+    <string name="fdn_check_failure">Разрешенные номера в приложении Телефон включены. В результате некоторые функции вызовов недоступны.</string>
     <string name="radio_off_error">Чтобы увидеть настройки, включите приемопередатчик.</string>
     <string name="close_dialog">ОК</string>
     <string name="enable">Включить</string>
@@ -615,14 +615,14 @@
     <string name="advanced_settings">Расширенные настройки</string>
     <string name="auth_username_title">Имя пользователя</string>
     <string name="auth_username_summary">Имя пользователя для аутентификации</string>
-    <string name="default_preference_summary">&lt;Не настроено&gt;</string>
-    <string name="display_name_summary">&lt;Совпадает с именем пользователя&gt;</string>
-    <string name="optional_summary">&lt;Необязательно&gt;</string>
+    <string name="default_preference_summary">&lt;Не настроено></string>
+    <string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
+    <string name="optional_summary">&lt;Необязательно></string>
     <string name="default_port">5060</string>
     <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">Нажмите, чтобы показать все</string>
     <string name="advanced_settings_hide">Нажмите, чтобы скрыть все</string>
-    <string name="empty_alert">Поле "%s" должно быть заполнено.</string>
+    <string name="empty_alert">Поле %s должно быть заполнено.</string>
     <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534.</string>
     <string name="no_internet_available_title">Подключение к Интернету отсутствует</string>
     <string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
@@ -655,7 +655,7 @@
     <string name="ims_service_capability">Включить/Выключить возможности сервиса</string>
     <string name="default_call_type">CSVoice</string>
     <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
-    <string name="ims_service_capability_title">Включить/Выключить возможности  IMS сервиса</string>
+    <string name="ims_service_capability_title">Включить/Выключить возможности IMS сервиса</string>
     <string name="use_ims_default_summary">Использовать IMS для всех вызовов</string>
     <string name="ims_menu_save">Сохранить</string>
     <string name="ims_menu_discard">Сброс</string>
@@ -759,8 +759,8 @@
     <string name="set_sub_not_supported_phone_in_call">Включать или Отключать подписку не допускается, в режиме вызова.</string>
     <string name="phone_one_ringtone">Мелодия телефона 1</string>
     <string name="phone_two_ringtone">Мелодия телефона 2</string>
-    <string name="phone_one_voicemail">ГП 1</string>
-    <string name="phone_two_voicemail">ГП 2</string>
+    <string name="phone_one_voicemail">Голосовая почта 1</string>
+    <string name="phone_two_voicemail">Голосовая почта 2</string>
     <string name="phone_one_othersettings">телефон 1 другие настройки</string>
     <string name="phone_two_othersettings">телефон 2 другие настройки</string>
     <string name="auto_answer_incomingcall_when_insert_the_headset">Автоответ при подкл. гарнитуры</string>
@@ -846,10 +846,10 @@ phone 2：%s"</string>
     <string name="cdma_callwaiting_setting_text">Только для CDMA карты!</string>
     <string name="auto_answer_incomingcall_default_when_insert_the_headset">0</string>
     <string name="nubia_respond_via_sms_title">Отклонить с СМС</string>
-    <string name="nubia_respond_via_sms_canned_response_1">"Я ой как занят! Не могу говорить!"</string>
+    <string name="nubia_respond_via_sms_canned_response_1">Я ой как занят! Не могу говорить!</string>
     <string name="nubia_respond_via_sms_canned_response_2">Я перезвоню вам позже.</string>
     <string name="nubia_respond_via_sms_canned_response_3">Не могу говорить. Что случилось?</string>
-    <string name="nubia_respond_via_sms_canned_response_4">"Я за рулем! Не могу говорить."</string>
+    <string name="nubia_respond_via_sms_canned_response_4">Я за рулем! Не могу говорить.</string>
     <string name="nubia_respond_via_sms_canned_response_5">Не могу говорить. Позвоните позже.</string>
     <string name="nubia_respond_via_sms_setting_title">Редактирование СМС</string>
     <string name="nubia_respond_via_sms_toast">Информация не может быть пустой.</string>
@@ -857,7 +857,7 @@ phone 2：%s"</string>
     <string name="nubia_call_link_tone_text">Сигнал при ответе собеседника</string>
     <string name="nubia_missed_call_notification_callback">Автоответчик</string>
     <string name="nubia_missed_call_notification_title">Пропущенных вызовов: %s</string>
-    <string name="nubia_missed_call_notification_text">Пришло от  %1$1s  %2$d и т.д. людей </string>
+    <string name="nubia_missed_call_notification_text">Пришло от %1$1s %2$d и т.д. людей</string>
     <string name="nubia_missed_call_notification_msg">Пришло от %1$1s</string>
     <string name="nubia_missed_call_notification_unknow_msg">Пришло от %1$1s</string>
     <string name="nubia_call_record_save_path_entry_value_default">0</string>
@@ -872,7 +872,7 @@ phone 2：%s"</string>
     <string name="phone_name">Оператор</string>
     <string name="phone_num">Номер</string>
     <string name="mobile_network">Сеть</string>
-    <string name="card_one">Карта 1 </string>
+    <string name="card_one">Карта 1</string>
     <string name="card_two">Карта 2</string>
     <string name="card_one_settings">Настройки 1-й карты</string>
     <string name="card_two_settings">Настройки 2-й карты</string>
@@ -897,6 +897,9 @@ phone 2：%s"</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="nubia_not_support_operation">Эта операция не поддерживается</string>
+    <string name="double_card_setting">Настройка SIM-карт</string>
+    <string name="card_name">Название оператора</string>
+    <string name="switch_card">Переключиться на карту %d</string>
     <string name="autoSet">Автоматическая установка</string>
     <string name="autoSetSummary">Автонастройка сети</string>
     <string name="lte_enabled">LTE режим</string>
@@ -907,7 +910,7 @@ phone 2：%s"</string>
     <string name="preferred_network_mode_wcdma_tdscdma_perf_summary">Предпочитаемый режим сети: предпочтительно WCDMA/TD-SCDMA</string>
     <string name="preferred_network_mode_lte_gsm_tdscdma_summary">Предпочитаемый режим сети: GSM/TD-SCDMA/LTE</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_tdscdma_summary">Предпочитаемый режим сети: GSM/WCDMA/TD-SCDMA/LTE</string>
-    <string name="preferred_network_mode_lte_gsm_summary">Предпочтительная сеть: LTE/GSM </string>
+    <string name="preferred_network_mode_lte_gsm_summary">Предпочтительная сеть: LTE/GSM</string>
     <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
     <string name="unknown_sim_card_dialog_title">Выберите режим сети</string>
     <string name="unknown_sim_card_dialog_message">Установите сеть которую ваш оператор использует для телефона</string>
