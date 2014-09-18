@@ -2794,12 +2794,12 @@ It не стирать :
     <string name="default_voice_card">Карта для разговоров по умолчанию</string>
     <string name="unlock_sounds_enable_title">Звук разблокировки экрана</string>
     <string name="autostarts_title">Автозагрузка</string>
-    <string name="autostarts_allowed">Разрешены</string>
-    <string name="autostarts_prohibited">Запрещены</string>
+    <string name="autostarts_allowed">Разрешено</string>
+    <string name="autostarts_prohibited">Запрещено</string>
     <string name="autostarts_allow_progress_msg">Разрешается...</string>
     <string name="autostarts_prohibit_progress_msg">Запрещается...</string>
     <string name="autostarts_empty_msg">Приложение не установлено</string>
     <string name="autostarts_optimize_empty_msg">Приложения в автозагрузке не оптимизированы</string>
-    <string name="autostarts_optimize_btn_title">Оптимизировать</string>
-    <string name="autostarts_all_btn_title">Автозагрузка всего</string>
+    <string name="autostarts_optimize_btn_title">Оптимизировать автозагрузку</string>
+    <string name="autostarts_all_btn_title">Автозагрузка всех приложений</string>
 </resources>
