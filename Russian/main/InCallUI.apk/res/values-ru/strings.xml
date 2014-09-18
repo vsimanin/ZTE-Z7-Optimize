@@ -705,7 +705,7 @@
     <string name="forbidden">Отключить не зарегистрированную сеть</string>
     <string name="prefer_network_list">Список предпочтительных сетей</string>
     <string name="prefer_network_list_summary">Просмотр списка предпочтительной сети</string>
-    <string name="prefer_network_list_plmn">PLMN</string>
+    <string name="prefer_network_list_plmn">Список предпочтительных сетей</string>
     <string name="network_index_title">Сетевой индекс</string>
     <string name="network_id_title">Идентификатор сети</string>
     <string name="gsm_act_title">GSM ACT</string>
