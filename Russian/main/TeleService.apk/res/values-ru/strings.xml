@@ -725,9 +725,9 @@
     <string name="exportAllcontatsNoContacts">Нет контактов для экспорта на SIM!!!</string>
     <string name="cursorError">Курсор не имеет соответствующих данных!!!</string>
     <string name="set_subscription">Выберите подписчика</string>
-    <string name="card_01">Карта 1</string>
-    <string name="card_02">Карта 2</string>
-    <string name="card_03">Карта 3</string>
+    <string name="card_01">SIM-карта 1</string>
+    <string name="card_02">SIM-карта 2</string>
+    <string name="card_03">SIM-карта 3</string>
     <string name="place_a_call1">Подписчик 1</string>
     <string name="place_a_call2">Подписчик 2</string>
     <string name="place_a_call3">Подписчик 3</string>
@@ -872,10 +872,10 @@ phone 2：%s"</string>
     <string name="phone_name">Оператор</string>
     <string name="phone_num">Номер</string>
     <string name="mobile_network">Сеть</string>
-    <string name="card_one">Карта 1</string>
-    <string name="card_two">Карта 2</string>
-    <string name="card_one_settings">Настройки 1-й карты</string>
-    <string name="card_two_settings">Настройки 2-й карты</string>
+    <string name="card_one">SIM-карта 1</string>
+    <string name="card_two">SIM-карта 2</string>
+    <string name="card_one_settings">Настройки 1-й SIM-карты</string>
+    <string name="card_two_settings">Настройки 2-й SIM-карты</string>
     <string name="nubia_ring_gradually_strong">Нарастающий рингтон</string>
     <string name="nubia_plmn_successful">обновление оператором является успешным.</string>
     <string name="nubia_plmn_error_no_value">Нет значения для обновления!</string>
@@ -899,7 +899,7 @@ phone 2：%s"</string>
     <string name="nubia_not_support_operation">Эта операция не поддерживается</string>
     <string name="double_card_setting">Настройка SIM-карт</string>
     <string name="card_name">Название оператора</string>
-    <string name="switch_card">Переключиться на карту %d</string>
+    <string name="switch_card">Переключиться на SIM-карту %d</string>
     <string name="autoSet">Автоматическая установка</string>
     <string name="autoSetSummary">Автонастройка сети</string>
     <string name="lte_enabled">LTE режим</string>
