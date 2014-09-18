@@ -19,7 +19,7 @@
     <string name="battery_low_why">Подробнее</string>
     <string name="status_bar_settings_settings_button">Настройки</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-    <string name="status_bar_settings_airplane">Режим полета</string>
+    <string name="status_bar_settings_airplane">Режим полёта</string>
     <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
     <string name="status_bar_settings_mute_label">ВЫКЛ.</string>
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
@@ -117,7 +117,7 @@
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">SIM-карта отсутствует.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth-модем</string>
-    <string name="accessibility_airplane_mode">Режим полета.</string>
+    <string name="accessibility_airplane_mode">Режим полёта.</string>
     <string name="accessibility_battery_level">Батарея %d процентов.</string>
     <string name="accessibility_settings_button">Настройки</string>
     <string name="accessibility_notifications_button">Уведомления</string>
@@ -136,7 +136,7 @@
     <string name="accessibility_quick_settings_wifi">%2$s: %1$s</string>
     <string name="accessibility_quick_settings_mobile">Мобильная сеть: %3$s (%2$s, %1$s)</string>
     <string name="accessibility_quick_settings_battery">Батарея: %s</string>
-    <string name="accessibility_quick_settings_airplane">Режим полета %s</string>
+    <string name="accessibility_quick_settings_airplane">Режим полёта %s</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth %s</string>
     <string name="accessibility_quick_settings_location">Доступ к геоданным %s</string>
     <string name="accessibility_quick_settings_alarm">Будильник установлен на %s</string>
@@ -165,7 +165,7 @@
     <string name="jelly_bean_dream_name">BeanFlinger</string>
     <string name="start_dreams">Заставка</string>
     <string name="ethernet_label">Ethernet</string>
-    <string name="quick_settings_airplane_mode_label">Режим полета</string>
+    <string name="quick_settings_airplane_mode_label">Режим полёта</string>
     <string name="quick_settings_battery_charging_label">Зарядка, %d%%</string>
     <string name="quick_settings_battery_charged_label">Заряжен</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -212,7 +212,7 @@
     <string name="ringer">Звонок</string>
     <string name="vibrate">Вибрация</string>
     <string name="mute">Тихо</string>
-    <string name="airplane">В самолете</string>
+    <string name="airplane">В самолёте</string>
     <string name="saving">Питание</string>
     <string name="pocket">Карман</string>
     <string name="meeting">Совещание</string>

@@ -88,7 +88,7 @@
     <string name="sos_phone">Тревожный номер</string>
     <string name="sos_sms">Тревожное SMS</string>
     <string name="info_sos">По завершении отсчета будет автоматически вызван заданный номер</string>
-    <string name="sos_air">Сообщение спасения не могут выдаваться под режим полета</string>
+    <string name="sos_air">Сообщение спасения не могут выдаваться под режим полёта</string>
     <string name="sos_unsetting">Не задано</string>
     <string name="sms_dafult_text">Мне нужна помощь!</string>
     <string name="sms_dafult_text_position">---Моя позиция:</string>

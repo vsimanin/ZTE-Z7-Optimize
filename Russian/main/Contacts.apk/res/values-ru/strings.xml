@@ -561,7 +561,7 @@
     <string name="add_new_account">Добавить аккаунт</string>
     <string name="dialog_phone_call_prohibited_message">Вызов невозможен</string>
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, выберите \"Меню > Настройки\".</string>
-    <string name="dialog_voicemail_airplane_mode_message">Сначала отключите режим полета.</string>
+    <string name="dialog_voicemail_airplane_mode_message">Сначала отключите режим полёта.</string>
     <string name="menu_export_database">Экспорт файлов базы данных</string>
     <string name="action_menu_overflow_description">Ещё</string>
     <string name="Import_All">Импортировать контакты со всех SIM</string>

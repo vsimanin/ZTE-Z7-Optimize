@@ -361,7 +361,7 @@
     <string name="exportContacts">Экспорт контактов на SIM карту...</string>
     <string name="simContacts_empty">На SIM-карте нет контактов.</string>
     <string name="simContacts_title">Выберите контакты для импорта</string>
-    <string name="simContacts_airplaneMode">Чтобы перенести контакты с SIM-карты, отключите режим полета.</string>
+    <string name="simContacts_airplaneMode">Чтобы перенести контакты с SIM-карты, отключите режим полёта.</string>
     <string name="enable_pin">Включить/отключить запрос PIN SIM-карты</string>
     <string name="change_pin">Изменить PIN SIM-карты</string>
     <string name="enter_pin_text">PIN SIM-карты:</string>
@@ -447,7 +447,7 @@
     <string name="notification_action_end_call">Завершить разговор</string>
     <string name="notification_missedCall_call_back">Позвонить</string>
     <string name="notification_missedCall_message">Написать</string>
-    <string name="incall_error_power_off">Перед тем как звонить, отключите режим полета.</string>
+    <string name="incall_error_power_off">Перед тем как звонить, отключите режим полёта.</string>
     <string name="incall_error_emergency_only">Нет регистрации в сети.</string>
     <string name="incall_error_out_of_service">Мобильная сеть недоступна.</string>
     <string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан.</string>

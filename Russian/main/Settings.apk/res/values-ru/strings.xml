@@ -242,10 +242,10 @@
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
-    <string name="airplane_mode">Режим полета</string>
+    <string name="airplane_mode">Режим полёта</string>
     <string name="radio_controls_title">Ещё...</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
-    <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>
+    <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полёта, мобильные сети и VPN</string>
     <string name="roaming">Интернет-роуминг</string>
     <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
@@ -493,7 +493,7 @@
     <string name="wifi_starting">Включение Wi-Fi…</string>
     <string name="wifi_stopping">Выключение Wi-Fi…</string>
     <string name="wifi_error">Ошибка</string>
-    <string name="wifi_in_airplane_mode">Режим полета</string>
+    <string name="wifi_in_airplane_mode">Режим полёта</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
@@ -1493,7 +1493,7 @@
     <string name="battery_desc_voice">Использование батареи для голосовых вызовов</string>
     <string name="battery_desc_standby">Расход заряда батареи в режиме ожидания</string>
     <string name="battery_desc_radio">Расход энергии на поддержание связи с сетью в режиме ожидания</string>
-    <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
+    <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полёта для экономии заряда</string>
     <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
     <string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
     <string name="battery_desc_wifi">Расход заряда батареи при подключении к Wi-Fi</string>

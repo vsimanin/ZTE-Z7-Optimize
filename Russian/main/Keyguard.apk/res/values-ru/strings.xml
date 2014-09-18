@@ -187,5 +187,5 @@
     <string name="sys_china_mobile">China Mobile</string>
     <string name="sys_china_telecom">China Telecom</string>
     <string name="sys_china_unicom">China Unicom</string>
-	<string name="keyguard_airplane_mode_string">В самолете</string>
+	<string name="keyguard_airplane_mode_string">В самолёте</string>
 </resources>

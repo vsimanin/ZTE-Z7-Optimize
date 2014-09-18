@@ -813,7 +813,7 @@
     <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки.</string>
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
-    <string name="lockscreen_airplane_mode_on">Режим "в самолете"</string>
+    <string name="lockscreen_airplane_mode_on">Режим "в самолёте"</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ. 
 
 Повтор через %d сек."</string>
