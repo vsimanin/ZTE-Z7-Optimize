@@ -11,13 +11,10 @@
     <string name="widgets_tab_label">Виджеты</string>
     <string name="long_press_widget_to_add">Чтобы выбрать виджет, нажмите на значок и удерживайте его.</string>
     <string name="market">Маркет</string>
-    <string name="widget_dims_format">%1$d × %2$d</string>
-    <string name="external_drop_widget_pick_format">%1$s (%2$d × %3$d)</string>
     <string name="external_drop_widget_error">Не удалось добавить элемент на главный экран.</string>
     <string name="external_drop_widget_pick_title">Выберите виджет</string>
     <string name="rename_folder_label">Название папки</string>
     <string name="rename_folder_title">Переименовать папку</string>
-    <string name="rename_action">ОК</string>
     <string name="cancel_action">Отмена</string>
     <string name="menu_item_add_item">Добавить на главный экран</string>
     <string name="group_applications">Приложения</string>
@@ -52,7 +49,6 @@
     <string name="menu_notifications">Уведомления</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_help">Справка</string>
-    <string name="help_url" />
     <string name="cab_menu_delete_app">Удалить</string>
     <string name="cab_menu_app_info">О приложении</string>
     <string name="cab_app_selection_text">Выбрано 1 приложение</string>
@@ -84,7 +80,6 @@
     <string name="folder_cling_title">Разложите все по папкам</string>
     <string name="folder_cling_move_item">Чтобы переместить значок приложения, нажмите на него и удерживайте.</string>
     <string name="folder_cling_create_folder">Чтобы создать папку на главном экране, перенесите одно приложение на другое.</string>
-    <string name="cling_dismiss">ОК</string>
     <string name="dummy_custom_cling_error_message">Ошибка: пользовательское размещение принято, но не перерисовано</string>
     <string name="folder_opened">Папка открыта, %1$d x %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
@@ -92,10 +87,6 @@
     <string name="folder_closed">Папка закрыта</string>
     <string name="folder_renamed">Папка переименована в \"%1$s\"</string>
     <string name="folder_name_format">Папка: %1$s</string>
-    <string name="custom_workspace_cling_title_1" />
-    <string name="custom_workspace_cling_description_1" />
-    <string name="custom_workspace_cling_title_2" />
-    <string name="custom_workspace_cling_description_2" />
     <string name="menu_edit">Упорядочить значки</string>
     <string name="folder_out_of_space">Нет больше места в текущей папке.</string>
     <string name="folder_accessoriess">Специальные</string>
