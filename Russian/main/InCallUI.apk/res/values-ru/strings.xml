@@ -734,7 +734,7 @@
     <string name="nubia_call_record_save_path">Место сохранения записи звонка</string>
     <string name="nubia_call_record_save_path_default">Память телефона</string>
     <string name="nubia_call_record_save_path_sdcard">SD карта</string>
-    <string name="nubia_call_record_state_recording">Идет запись...</string>
+    <string name="nubia_call_record_state_recording">Идёт запись...</string>
     <string name="nubia_call_record_state_pause">Пауза</string>
     <string name="nubia_call_record_state_stop">Стоп</string>
     <string name="error_sdcard_access">Нет доступа к SD карте</string>

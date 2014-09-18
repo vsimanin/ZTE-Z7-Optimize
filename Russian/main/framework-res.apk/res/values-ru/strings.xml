@@ -788,7 +788,7 @@
     <string name="lockscreen_pattern_wrong">Повторите попытку</string>
     <string name="lockscreen_password_wrong">Повторите попытку</string>
     <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
-    <string name="lockscreen_plugged_in">Идет зарядка (%d%%)</string>
+    <string name="lockscreen_plugged_in">Идёт зарядка (%d%%)</string>
     <string name="lockscreen_charged">Батарея заряжена</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>

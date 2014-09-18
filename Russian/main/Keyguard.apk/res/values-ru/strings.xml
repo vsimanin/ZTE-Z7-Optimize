@@ -26,7 +26,7 @@
     <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
     <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
     <string name="keyguard_charged">Батарея заряжена</string>
-    <string name="keyguard_plugged_in">Идет зарядка (%d%%)</string>
+    <string name="keyguard_plugged_in">Идёт зарядка (%d%%)</string>
     <string name="keyguard_low_battery">Подключите зарядное устройство.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Для разблокировки нажмите \"Меню\".</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
@@ -151,7 +151,7 @@
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
     <string name="unlock">Разблокировать</string>
     <string name="message_separator">—</string>
-    <string name="charging">Идет зарядка (%d%%)</string>
+    <string name="charging">Идёт зарядка (%d%%)</string>
     <string name="charged">Батарея заряжена</string>
     <string name="low_battery">Подключите зарядное устройство</string>
     <string name="card_exit">Выход</string>
@@ -165,7 +165,7 @@
     <string name="unlock_normal">Разблокировать</string>
     <string name="messages_slide_up_tips">Сдвиньте для просмотра сообщений</string>
     <string name="lockscreen_battery_charged">Батарея заряжена</string>
-    <string name="lockscreen_battery_charging">Идет зарядка</string>
+    <string name="lockscreen_battery_charging">Идёт зарядка</string>
     <string name="lockscreen_battery_low">Низкий заряд батареи</string>
     <string name="lockscreen_battery_overheatorclod">Аномальная температура</string>
     <string name="lockscreen_battery_precent">%d%%</string>

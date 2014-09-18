@@ -73,7 +73,7 @@
     <string name="battery_info_awake_plugged">Время работы при зарядке:</string>
     <string name="battery_info_screen_on">Время работы экрана:</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
-    <string name="battery_info_status_charging">Идет зарядка</string>
+    <string name="battery_info_status_charging">Идёт зарядка</string>
     <string name="battery_info_status_charging_ac">от сети</string>
     <string name="battery_info_status_charging_usb">по USB</string>
     <string name="battery_info_status_charging_wireless">Wi-Fi</string>
@@ -827,7 +827,7 @@
     <string name="memory_available">Доступно</string>
     <string name="memory_available_read_only">Доступно (Только для чтения)</string>
     <string name="memory_size">Всего места</string>
-    <string name="memory_calculating_size">Идет подсчет...</string>
+    <string name="memory_calculating_size">Идёт подсчет...</string>
     <string name="memory_apps_usage">Данные приложений и файлы мультимедиа</string>
     <string name="memory_media_usage">Мультимедиа</string>
     <string name="memory_downloads_usage">Загрузки</string>

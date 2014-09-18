@@ -40,7 +40,7 @@
     <string name="auto_update_frequency_summary">Задать интервал проверки обновлений</string>
     <string name="auto_update_setting">Настройка автообновления</string>
     <string name="cancel">Отмена</string>
-    <string name="dm_ci_fumo_init">Идет процесс инициализации VDMC, попробуйте позже!</string>
+    <string name="dm_ci_fumo_init">Идёт процесс инициализации VDMC, попробуйте позже!</string>
     <string name="dm_dm">DM</string>
     <string name="dm_back">Назад</string>
     <string name="dm_yes">Да</string>
