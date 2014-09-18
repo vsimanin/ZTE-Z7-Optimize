@@ -308,4 +308,6 @@ PTP: Позволяет определить телефон как фотока�
     <string name="sys_tw_mobile">TW Mobile</string>
     <string name="sys_far_eastone">Far EasTone</string>
 	<string name="no_sim_card_toast">Нет Sim-карты</string>
+    <string name="statusbar_netspeed_display">Скорость передачи данных</string>
+    <string name="statusbar_netspeed_desc">Отображать скорость передачи данных в строке состояния</string>
 </resources>
