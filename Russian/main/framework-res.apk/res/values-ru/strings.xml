@@ -208,7 +208,7 @@
     <string name="global_action_toggle_silent_mode">Режим без звука</string>
     <string name="global_action_silent_mode_on_status">Выключить</string>
     <string name="global_action_silent_mode_off_status">Включить</string>
-    <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+    <string name="global_actions_toggle_airplane_mode">В полете</string>
     <string name="global_actions_airplane_mode_on_status">Выключить</string>
     <string name="global_actions_airplane_mode_off_status">Включить</string>
     <string name="safeMode">Безопасный режим</string>
@@ -1503,7 +1503,7 @@
     <string name="internal_storage_media_checking">Внутренняя память в данный момент проверяется</string>
     <string name="internal_storagemedia_removed">Внутренняя память была извлечена</string>
     <string name="internal_storage_media_shared">Внутренняя память сейчас используется компьютером</string>
-    <string name="global_action_silent">Беззвучный режим</string>
+    <string name="global_action_silent">Без звука</string>
     <string name="global_action_vibrate">Режим вибрации</string>
     <string name="open_virtual_hint">Не удается открыть Wi-Fi дисплей и небольшой экран, в то же время, пожалуйста, закройте дисплей Wi-Fi, прежде чем открыть маленький экран</string>
     <string name="open_wifi_hint">Не удается открыть Wi-Fi дисплей и небольшой экран, в то же время, пожалуйста, закройте экран небольшой, прежде чем открыть Wi-Fi дисплей</string>
