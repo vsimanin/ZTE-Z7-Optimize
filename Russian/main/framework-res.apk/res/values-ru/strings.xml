@@ -1110,7 +1110,7 @@
     <string name="perms_description_app">Источник: %1$s.</string>
     <string name="no_permissions">Не требуется разрешений</string>
     <string name="perm_costs_money">За это может взиматься плата!</string>
-    <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
+    <string name="usb_storage_activity_title">USB-накопитель</string>
     <string name="usb_storage_title">USB-подключение установлено</string>
     <string name="usb_storage_message">Телефон подключен к компьютеру через USB-порт. Нажмите кнопку ниже, чтобы скопировать файлы с компьютера на SD-карту Android-устройства.</string>
     <string name="usb_storage_button_mount">Включить USB-накопитель</string>
