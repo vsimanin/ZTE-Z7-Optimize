@@ -2376,13 +2376,13 @@ It не стирать :
     <string name="card_w_toast">Первый слот для SIM-карты и второй слот для SIM-карты поддерживают 2G/3G сети China Unicom. В то же время, первая карта работает в 3G сетях, а вторая только в сети GSM 2G.</string>
     <string name="card_w_c_toast">Первый слот для SIM-карты поддерживает 2G/3G сети China Telecom, China Unicom. Второй слот для SIM-карты поддерживает 2G/3G сети China Unicom. В то же время, первая карта работает в 3G сетях, а вторая только в сети GSM 2G.</string>	
     <string name="data_network">Сеть передачи данных</string>
-    <string name="card_on">Активировать</string>
-    <string name="card_off">Отключить</string>
+    <string name="card_on">Активна</string>
+    <string name="card_off">Отключена</string>
     <string name="card_error">Неизвестно</string>
     <string name="card_nocard">Нет SIM-карты</string>
     <string name="select_data_network_card">Выберите карту для передачи данных</string>
-    <string name="phone_one">Первая SIM-карта</string>
-    <string name="phone_two">Вторая SIM-карта</string>
+    <string name="phone_one">SIM-карта 1</string>
+    <string name="phone_two">SIM-карта 2</string>
     <string name="mobile_network">Мобильная сеть</string>
     <string name="data_network_settings">Настройки передачи данных</string>
     <string name="default_communication">Связь по умолчанию</string>
@@ -2435,7 +2435,7 @@ It не стирать :
     <string name="font_size_ok">OK</string>
     <string name="summary_font_size_v5">Установки затронут телефон, сообщения, контакты и настройки</string>
     <string name="font_size_note">Изменится размер шрифта в телефоне, сообщениях, контактах и настройках</string>
-    <string name="led_light_title">Подсветка действий</string>
+    <string name="led_light_title">Индикация событий</string>
     <string name="led_charge_title">Зарядка</string>
     <string name="led_charge_summary">Подсветка при зарядке</string>
     <string name="led_battery_low_title">Низкий уровень заряда батареи</string>

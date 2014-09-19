@@ -1471,7 +1471,7 @@
     <string name="stk_cc_ss_to_ss">SS запрос изменяется на новый запрос SS.</string>
     <string name="permission">Разрешение</string>
     <string name="reboot">Перезагрузка</string>
-    <string name="reboot_ext">Ваш телефон будет перезагружен</string>
+    <string name="reboot_ext">Телефон будет перезагружен</string>
     <string name="modem_usb_storage_notification_title">Подключен как USB модем</string>
     <string name="internal_storage">Внутренняя память</string>
     <string name="usb_otg_storage">USB OTG хранилище</string>
