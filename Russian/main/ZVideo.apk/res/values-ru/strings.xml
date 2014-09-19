@@ -64,8 +64,8 @@
     <string name="rename">Переименовать</string>
     <string name="filename">Имя файла</string>
     <string name="please_input">Пожалуйста, введите</string>
-    <string name="fileisexist">Файл существует, укажите, пожалуйста, еще раз.</string>
-    <string name="filenameisnull">Имя файла не может быть пустым, укажите, пожалуйста, еще раз.</string>
+    <string name="fileisexist">Файл существует, укажите, пожалуйста, ещё раз.</string>
+    <string name="filenameisnull">Имя файла не может быть пустым, укажите, пожалуйста, ещё раз.</string>
     <string name="filename_invalid">Не удалось переименовать: имя файла содержит недопустимый символ.</string>
     <string name="exceed_filename_size_limitation">Длина названия файла слишком длинная, присвоить первые 100 символов автоматически.</string>
     <string name="no_content">Нет видеофайлов</string>

@@ -8,8 +8,8 @@
     <string name="please_input">Пожалуйста введите</string>
     <string name="confirm">Подтвердить</string>
     <string name="Cancel">Отмена</string>
-    <string name="fileisexist">Такое имя файла уже существует, попробуйте еще раз</string>
-    <string name="filenameisnull">Имя файла не может быть пустым, попробуйте еще раз</string>
+    <string name="fileisexist">Такое имя файла уже существует, попробуйте ещё раз</string>
+    <string name="filenameisnull">Имя файла не может быть пустым, попробуйте ещё раз</string>
     <string name="make_gif">Сделать GIF</string>
     <string name="gif_unrewind">Не перематывать</string>
     <string name="gif_rewind">Перематывать</string>

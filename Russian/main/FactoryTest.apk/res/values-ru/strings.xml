@@ -179,7 +179,7 @@
     <string name="quicktest_proxsensor_signal_title">Уровень сигнала:</string>
     <string name="quicktest_proxsensor_high_title">Верхний предел: %1$d</string>
     <string name="quicktest_proxsensor_limit_low_title">Верхний предел слишком низкий!</string>
-    <string name="quicktest_proxsensor_not_calibrate">"Датчик приближения еще не откалиброван!
+    <string name="quicktest_proxsensor_not_calibrate">"Датчик приближения ещё не откалиброван!
 Пожалуйста сначала откалибруйте!"</string>
     <string name="quicktest_fct">FCT</string>
     <string name="quicktest_fct_guide">The FCT pass or not depends on the flags below the line , if will success only if all the flags be set to 1 or 2(0:fail 1:succ 2:ignore), the IOException makes it unchecked!</string>

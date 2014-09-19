@@ -18,7 +18,7 @@
     <string name="disconnected">Соединение - выкл.</string>
     <string name="disconnect">Отключение</string>
     <string name="connect_anthor_title">Изменение медиа-плеера</string>
-    <string name="connect_anthor_body">Вы уверены, что хотите отсоединить ваш медиа-плеер и изменить еще один?</string>
+    <string name="connect_anthor_body">Вы уверены, что хотите отсоединить ваш медиа-плеер и изменить ещё один?</string>
     <string name="search_hint_image">Поиск изображений</string>
     <string name="search_hint_audio">Поиск музыки,исполнителей и альбомов.</string>
     <string name="search_hint_video">Поиск видео</string>

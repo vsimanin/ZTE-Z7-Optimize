@@ -186,7 +186,7 @@
     <string name="alternatives_list_title">Предлагаемые имена пользователя</string>
     <string name="password_title">Создание пароля</string>
     <string name="choose_a_password">Пароль</string>
-    <string name="confirm_password">Введите пароль еще раз</string>
+    <string name="confirm_password">Введите пароль ещё раз</string>
     <string name="too_short">слишком короткий</string>
     <string name="security_questions_title">Вопросы безопасности</string>
     <string name="answer">" "<b>Ответ</b></string>
@@ -293,7 +293,7 @@
     <string name="gls_dmagent_activity_activate_retry_button">Активировать</string>
     <string name="gls_dmagent_activity_download_message">" В домене требуется система управления мобильными устройствами. Установите приложение Google Apps Device Policy, чтобы применить правила безопасности, необходимые для аккаунта  "<b>^1</b> .</string>
     <string name="gls_dmagent_activity_download_retry_button">Загрузить</string>
-    <string name="gls_login_activity_loginfail_text_pwonly">Пароль указан неверно, или аккаунт был изменен. Введите пароль еще раз.</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Пароль указан неверно, или аккаунт был изменен. Введите пароль ещё раз.</string>
     <string name="permlab_googleAuthPassword">получать доступ к паролям аккаунтов Google</string>
     <string name="permdesc_googleAuthPassword">Приложения получат доступ к паролям добавленных вами аккаунтов Google.</string>
     <string name="permlab_googleMailSwitch">выбирать торговую марку Gmail или Google Mail</string>

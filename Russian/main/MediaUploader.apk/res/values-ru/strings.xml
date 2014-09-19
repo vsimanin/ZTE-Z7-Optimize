@@ -16,7 +16,7 @@
     <string name="picasa_upload_get_album_list_error_no_network">Не удалось открыть список альбомов. Проверьте подключение к Интернету.</string>
     <string name="picasa_upload_toast_no_file_to_upload">Файлы не выбраны</string>
     <string name="picasa_upload_paused_network">Поиск сети…</string>
-    <string name="picasa_upload_paused_server_error">Ошибка сервера. Сейчас попробуем еще раз.</string>
+    <string name="picasa_upload_paused_server_error">Ошибка сервера. Сейчас попробуем ещё раз.</string>
     <string name="picasa_upload_paused_missing_sdcard">Нет SD-карты</string>
     <string name="picasa_upload_paused_quota_exceeded">Квота превышена</string>
     <string name="picasa_upload_paused_auth">Не удалось выполнить аутентификацию</string>

@@ -20,8 +20,8 @@
         <item quantity="other">Неделя %d</item>
     </plurals>
     <plurals name="month_more_events">
-        <item quantity="other">" и еще %d"</item>
-        <item quantity="one">" и еще 1"</item>
+        <item quantity="other">" и ещё %d"</item>
+        <item quantity="one">" и ещё 1"</item>
     </plurals>
     <plurals name="Nevents">
         <item quantity="other">Мероприятий: %d</item>

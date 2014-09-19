@@ -92,7 +92,7 @@
     <string name="mailbox_list_recent_mailboxes">Недавние папки</string>
     <string name="message_subject_description">Тема</string>
     <string name="message_is_empty_description">Без темы</string>
-    <string name="message_list_load_more_messages_action">Загрузить еще сообщения</string>
+    <string name="message_list_load_more_messages_action">Загрузить ещё сообщения</string>
     <string name="message_list_no_messages">Нет сообщений</string>
     <string name="message_compose_to_hint">Кому</string>
     <string name="message_compose_cc_hint">Копия</string>
@@ -124,7 +124,7 @@
     <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты недопустимыми</string>
     <string name="message_compose_attachment_size">Файл слишком большой</string>
     <string name="message_compose_insert_quick_response_list_title">Быстрые ответы</string>
-    <string name="message_compose_display_name">%1$s и еще %2$d</string>
+    <string name="message_compose_display_name">%1$s и ещё %2$d</string>
     <string name="message_view_to_label">Кому:</string>
     <string name="message_view_cc_label">Копия:</string>
     <string name="message_view_bcc_label">Скрытая копия:</string>
@@ -404,7 +404,7 @@
     <string name="widget_starred">Избранные</string>
     <string name="widget_loading">Загрузка…</string>
     <string name="widget_touch_to_configure">Нажмите для настройки</string>
-    <string name="widget_no_accounts">Аккаунт электронной почты еще не добавлен</string>
+    <string name="widget_no_accounts">Аккаунт электронной почты ещё не добавлен</string>
     <string name="widget_no_mailboxes">Этот аккаунт не синхронизирован</string>
     <string name="more_than_999">999+</string>
     <string name="search_hint">Искать в электронной почте</string>

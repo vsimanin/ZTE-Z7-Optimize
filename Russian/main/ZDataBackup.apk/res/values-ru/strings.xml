@@ -212,7 +212,7 @@
     <string name="system_backup_item_size">%1$s записей</string>
     <string name="system_backup_name_title">Имя копии</string>
     <string name="system_backup_name_text">Пожалуйста введите имя файла</string>
-    <string name="system_backup_invalid_name">Недействительное имя! Попробуйте еще раз.</string>
+    <string name="system_backup_invalid_name">Недействительное имя! Попробуйте ещё раз.</string>
     <string name="system_backup_backing_up">Копирование:</string>
     <string name="system_backup_info">Не удаляйте SD карту и не выключайте устройство</string>
     <string name="system_backup_cancel_backup">Вы действительно хотите отменить копирование</string>
@@ -261,7 +261,7 @@
     <string name="login_password_title">Пароль:</string>
     <string name="login_button_title">Вход</string>
     <string name="login_success_toast">Успешный вход!</string>
-    <string name="login_failed_toast">Ошибка входа! Попробуйте еще раз.</string>
+    <string name="login_failed_toast">Ошибка входа! Попробуйте ещё раз.</string>
     <string name="login_input_error">Ошибка в имени пользователя или в пароле!</string>
     <string name="cancel_button_title">Отмена</string>
     <string name="login_activity_title">Вход</string>
@@ -276,7 +276,7 @@
     <string name="register_twice_pwd_is_diff">Пароли не совпадают!</string>
     <string name="register_email_title">Email:</string>
     <string name="register_success_toast">Успешная регистрация</string>
-    <string name="register_failed_toast">Ошибка в регистрации! Попробуйте еще раз.</string>
+    <string name="register_failed_toast">Ошибка в регистрации! Попробуйте ещё раз.</string>
     <string name="register_new_user_info">Регистрировано нового пользователя</string>
     <string name="cloud_sync_contacts_title">Синхронизировать данные с облаком</string>
     <string name="cloud_main_activity_title">Облачное главное активити</string>
@@ -292,7 +292,7 @@
     <string name="security_number_layout_title">Настройки номера безопасности</string>
     <string name="security_number_layout_number_text">Номер безопасности:</string>
     <string name="security_number_layout_ok_button">OK</string>
-    <string name="security_number_input_error">Ошибка ввода, попробуйте еще раз!</string>
+    <string name="security_number_input_error">Ошибка ввода, попробуйте ещё раз!</string>
     <string name="security_number_set_successfully">Номер безопасности успешно установлен</string>
     <string name="network_is_not_connected">Нет доступных сетей</string>
     <string name="cloud_text">Облако</string>

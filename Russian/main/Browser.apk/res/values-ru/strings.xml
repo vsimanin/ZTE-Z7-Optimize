@@ -32,7 +32,7 @@
 	<string name="ssl_untrusted">Этот сертификат получен из ненадежных источников</string>
 	<string name="ssl_mismatch">Название сайта не соответствует названию в сертификате</string>
 	<string name="ssl_expired">Срок действия сертификата истек</string>
-	<string name="ssl_not_yet_valid">Сертификат еще не действителен</string>
+	<string name="ssl_not_yet_valid">Сертификат ещё не действителен</string>
 	<string name="ssl_date_invalid">Дата этого сертификата недействительна</string>
 	<string name="ssl_invalid">Этот сертификат недействителен</string>
 	<string name="ssl_unknown">Неизвестная ошибка сертификата</string>

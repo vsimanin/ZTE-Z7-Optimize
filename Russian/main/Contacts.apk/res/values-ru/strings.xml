@@ -1338,7 +1338,7 @@
     <string name="message_download_failed_title">Сообщение не загружается</string>
     <string name="message_send_failed_title">Сообщения не отправляются</string>
     <string name="message_failed_body">Коснитесь, чтобы просмотреть сообщение и попробуйте снова.</string>
-    <string name="download_later">"Не могу скачать прямо сейчас. Попробуйте еще раз позже."</string>
+    <string name="download_later">"Не могу скачать прямо сейчас. Попробуйте ещё раз позже."</string>
     <string name="select_audio">Выбрать аудио</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
     <string name="copy_to_sdcard_success">Вложение сохраняется.</string>

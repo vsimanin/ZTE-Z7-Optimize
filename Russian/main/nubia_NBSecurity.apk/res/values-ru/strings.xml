@@ -9,7 +9,7 @@
     <string name="common_pattern_cleared">Графический ключ стерт</string>
     <string name="common_pattern_recognized">Графический ключ распознан</string>
     <string name="common_pattern_recognized_once">Графический ключ распознан, пожалуйста, перерисуйте для подтверждения</string>
-    <string name="common_pattern_too_simple">Слишком простой, перерисуйте еще раз!</string>
+    <string name="common_pattern_too_simple">Слишком простой, перерисуйте ещё раз!</string>
     <string name="common_pattern_confirm">Да</string>
     <string name="common_pattern_cancel">Отмена</string>
     <string name="common_pattern_inputold">Пожалуйста, нарисуйте старую комбинацию разблокировки</string>
@@ -17,9 +17,9 @@
     <string name="common_pattern_clearconfirm">Подтвердите очистку комбинации разблокировки</string>
     <string name="common_pattern_verified">Правильный пароль</string>
     <string name="common_pattern_inputunlock">Пожалуйста, нарисуйте комбинацию разблокировки</string>
-    <string name="common_pattern_unlockfail">Сбой разблокировки, попробуйте еще раз.</string>
+    <string name="common_pattern_unlockfail">Сбой разблокировки, попробуйте ещё раз.</string>
     <string name="common_pattern_title_headline">Пожалуйста, выберите вашу комбинацию</string>
-    <string name="common_pattern_redraw_failure">Ошибка подтверждения комбинации, пожалуйста, попробуйте еще раз</string>
+    <string name="common_pattern_redraw_failure">Ошибка подтверждения комбинации, пожалуйста, попробуйте ещё раз</string>
     <string name="common_button_next">Далее</string>
     <string name="common_button_done">Готово</string>
     <string name="common_pattern_new_repaint">Перерисуйте</string>
@@ -134,7 +134,7 @@
     <string name="userfeed_send">Отправить</string>
     <string name="userfeed_network_error">Сеть недоступна</string>
     <string name="userfeed_send_sucess">Отправлено</string>
-    <string name="userfeed_send_fail">Не отправляется, попробуйте еще раз</string>
+    <string name="userfeed_send_fail">Не отправляется, попробуйте ещё раз</string>
     <string name="userfeed_suggest_null">Пустые комментарии</string>
     <string name="userfeed_email_null">Адрес электронной почты пустой</string>
     <string name="userfeed_sending">Отправка, пожалуйста, подождите...</string>
@@ -181,7 +181,7 @@
     <string name="traffic_autocheck_begin">Авто калибровка сейчас</string>
     <string name="traffic_autocheck_success">Авто калибровка готова</string>
     <string name="traffic_usagesetvar">Лимит трафика установлен на %1$d Мб</string>
-    <string name="traffic_nousageset">Лимит трафика еще не установлен</string>
+    <string name="traffic_nousageset">Лимит трафика ещё не установлен</string>
     <string name="traffic_warning">Внимание!</string>
     <string name="traffic_warning_detail">Трафик превысил порог предупреждения!</string>
     <string name="traffic_root_need">Root не получен</string>
@@ -303,7 +303,7 @@
     <string name="remoteguard_input_antitheft_password">Пожалуйста, введите пароль!</string>
     <string name="remoteguard_input_antitheft_hint">Теперь ваш телефон защищен!</string>
     <string name="remoteguard_input_antitheft_shutdown">Заблокировать антивора</string>
-    <string name="remoteguard_input_password_error">Пароль не верен, попробуйте еще!</string>
+    <string name="remoteguard_input_password_error">Пароль не верен, попробуйте ещё!</string>
     <string name="remoteguard_wizard_description">Дистанционное точное позиционирование должно стирать данные</string>
     <string name="remoteguard_wizard_description_new">Соединение тебя и меня</string>
     <string name="remoteguard_title_of_setting_password">Послать пароль от антивора</string>

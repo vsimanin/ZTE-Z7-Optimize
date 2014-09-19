@@ -1458,7 +1458,7 @@
     <string name="restr_pin_enter_new_pin">Новый PIN-код</string>
     <string name="restr_pin_confirm_pin">Подтвердите новый PIN-код</string>
     <string name="restr_pin_create_pin">Создать PIN-код для изменения ограничений</string>
-    <string name="restr_pin_error_doesnt_match">"PIN-коды не совпадают. Попробуйте еще раз."</string>
+    <string name="restr_pin_error_doesnt_match">"PIN-коды не совпадают. Попробуйте ещё раз."</string>
     <string name="restr_pin_error_too_short">PIN-код-это слишком короткий. Должно быть не менее 4 цифр.</string>
     <string name="restr_pin_try_later">Повторите попытку позже</string>
     <string name="immersive_mode_confirmation">Проведите вниз от верхнего края, чтобы выйти из полноэкранного.</string>

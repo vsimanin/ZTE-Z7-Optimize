@@ -2066,7 +2066,7 @@
     <string name="wifi_display_status_available">Доступно</string>
     <string name="wifi_display_disconnect_title">Прервать соединение?</string>
     <string name="wifi_display_disconnect_text">Это прекратит соединение с:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте еще раз</string>
+    <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте ещё раз</string>
     <string name="please_type_passphrase">Пароль сети</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>

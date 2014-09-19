@@ -12,9 +12,9 @@
     <string name="download_success">Завершено</string>
     <string name="download_error">Сбой</string>
     <string name="dialog_title_not_available">Невозможно загрузить файл</string>
-    <string name="dialog_failed_body">Попробовать еще раз загрузить файл позже или удалить его из очереди?</string>
+    <string name="dialog_failed_body">Попробовать ещё раз загрузить файл позже или удалить его из очереди?</string>
     <string name="dialog_title_queued_body">Файл в очереди</string>
-    <string name="dialog_queued_body">Файл еще не загружен.</string>
+    <string name="dialog_queued_body">Файл ещё не загружен.</string>
     <string name="dialog_file_missing_body">Не удалось найти загруженный файл.</string>
     <string name="dialog_insufficient_space_on_external">Невозможно завершить загрузку. Недостаточно места на внешнем накопителе.</string>
     <string name="dialog_insufficient_space_on_cache">Невозможно завершить загрузку. Не хватает встроенной памяти.</string>

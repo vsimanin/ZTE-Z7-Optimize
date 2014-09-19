@@ -152,7 +152,7 @@
     <string name="user_feedback_mail_hint">Пожалуйста, введите ваш адрес электронной почты, для нас ваши отзывы</string>
     <string name="user_feedback_submmit">Отправить</string>
     <string name="user_feedback_cancel">Отмена</string>
-    <string name="emailError">Ошибка ввода E-mail, введите еще раз</string>
+    <string name="emailError">Ошибка ввода E-mail, введите ещё раз</string>
     <string name="contentError">Содержание не более 200 слов является пустым или содержимого</string>
     <string name="SUBMIT_ERROR_NETWORK">Ошибка сети, ошибка обратной связи пользователей</string>
     <string name="SUBMIT_ERROR_UNKONW">Неизвестная ошибка, ошибки пользователя обратной связи</string>

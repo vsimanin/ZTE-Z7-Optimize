@@ -31,7 +31,7 @@
     <string name="save_note">Сохранить запись</string>
     <string name="whether_save_note">Вы действительно хотите сохранить эту запись</string>
     <string name="save_cannot_empty">Содержание не может быть пустым</string>
-    <string name="widget_tip">Нажмите, чтобы добавить еще одну запись</string>
+    <string name="widget_tip">Нажмите, чтобы добавить ещё одну запись</string>
     <string name="widget_label_2x2">Блокнот(2x2)</string>
     <string name="widget_label_4x4">Блокнот(4x4)</string>
     <string name="password_setting">Настройки пароля</string>

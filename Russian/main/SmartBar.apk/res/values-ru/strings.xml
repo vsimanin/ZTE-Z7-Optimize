@@ -3,7 +3,7 @@
     <string name="app_label">Smart Bar</string>
     <string name="msg_up">Выше приложение выполняется</string>
     <string name="msg_down">Ниже приложение выполняется</string>
-    <string name="toast_msg">Последнее мероприятие, пропустить еще в многооконном режиме</string>
+    <string name="toast_msg">Последнее мероприятие, пропустить ещё в многооконном режиме</string>
     <string name="multiwindow_deny_msg">Запущеное приложение не поддерживает многооконность</string>
     <string name="camera_using_msg">Приложение не поддерживает разделение экрана</string>
     <string name="home_double_msg">Нажмите Домой, что бы вернуться в Лаунчер</string>

@@ -59,7 +59,7 @@
     <string name="feedback_text_hint">Пожалуйста напишите ваш отзыв. Мы продолжим делать улучшения.</string>
     <string name="feedback_email_hint">Ваш E-mail не является обязательным, но он удобен для ответа вам.</string>
     <string name="feedback_commit_button">Принять</string>
-    <string name="feedback_email_error">Ваш формат E-mail неверен, введите, пожалуйста, еще раз.</string>
+    <string name="feedback_email_error">Ваш формат E-mail неверен, введите, пожалуйста, ещё раз.</string>
     <string name="handbook_parser_process">Получаем сообщение справочника</string>
     <string name="no_app">Нет приложения</string>
     <string name="settings">Настройка</string>

@@ -145,7 +145,7 @@
     <string name="network_connected">Подключено к сети!</string>
     <string name="network_disconnected">Отключено от сети!</string>
     <string name="wait_loading">Загрузка данных...</string>
-    <string name="data_exception">Плохие данные, попробуйте еще раз!</string>
+    <string name="data_exception">Плохие данные, попробуйте ещё раз!</string>
     <string name="try_again">Повторить снова</string>
     <string name="timeout">Таймаут соединения</string>
     <string name="set_suc">Успешно установлено</string>
@@ -193,7 +193,7 @@
     <string name="no_music_to_add">Нет аудио для добавления</string>
     <string name="songs_num">%s песен</string>
     <string name="not_memory_card">Нет карты памяти</string>
-    <string name="downloading_url_failure">отказ, вы можете удалить и загрузить его еще раз</string>
+    <string name="downloading_url_failure">отказ, вы можете удалить и загрузить его ещё раз</string>
     <string name="downloaded_repeat">Песня существует, нет необходимости закачивать снова</string>
     <string name="download_completed">был загружен</string>
     <string name="delete_downloading_item">Успешно удалить задачу загрузки</string>

@@ -158,7 +158,7 @@
     <string name="choose_album">Выбрать альбом</string>
     <string name="operation_encode_running">Шифровать</string>
     <string name="ask_input_passwd">Пожалуйста введите ваш секретный пароль к StrongBox.</string>
-    <string name="password_error">Неверный пароль, попробуйте еще раз.</string>
+    <string name="password_error">Неверный пароль, попробуйте ещё раз.</string>
     <string name="click_to_input">Введите здесь.</string>
     <string name="strongbox_not_ready">Секретный StrongBox не готов.</string>
     <string name="init_strongbox">StrongBox не инициализироват, пожалуйста сперва зайдите в StrongBox.</string>
@@ -173,7 +173,7 @@
     <string name="notfoundclouddevice">Нет облачных устройств!</string>
     <string name="findclouddeviceerr">облачное устройство не найдено</string>
     <string name="stopDeviceManagererr">Ошибка остановки менеджера устройств</string>
-    <string name="findclouddevicetimeout">Не удалось найди облачное устройство, попробуйте еще раз!</string>
+    <string name="findclouddevicetimeout">Не удалось найди облачное устройство, попробуйте ещё раз!</string>
     <string name="copy_err">Ошибка, попробуйте снова!</string>
     <string name="thumbnail_not_available">Не удалось создать ярлык, пожалуйста обновите путь после операции.</string>
     <string name="search_error">Содержит недопустимые символы</string>
