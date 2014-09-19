@@ -746,20 +746,20 @@
     <string name="title_font_size">Размер шрифта</string>
     <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Размер шрифта</string>
-    <string name="sim_lock_settings">Настройки блокировки SIM карты</string>
-    <string name="sim_lock_settings_category">Настроить блокировку SIM карты</string>
-    <string name="sim_lock_settings_title">Блокировка SIM карты</string>
-    <string name="sim_pin_toggle">Блокировка SIM карты</string>
+    <string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
+    <string name="sim_lock_settings_category">Настроить блокировку SIM-карты</string>
+    <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
+    <string name="sim_pin_toggle">Блокировка SIM-карты</string>
     <string name="sim_lock_on">Для использования телефона необходим PIN код</string>
     <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN код</string>
-    <string name="sim_pin_change">Изменить PIN SIM карты</string>
-    <string name="sim_enter_pin">PIN код SIM карты</string>
-    <string name="sim_enable_sim_lock">Блокировка SIM карты</string>
-    <string name="sim_disable_sim_lock">Разблокировка SIM карты</string>
+    <string name="sim_pin_change">Изменить PIN SIM-карты</string>
+    <string name="sim_enter_pin">PIN код SIM-карты</string>
+    <string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
+    <string name="sim_disable_sim_lock">Разблокировка SIM-карты</string>
     <string name="sim_enter_old">Текущий PIN</string>
     <string name="sim_enter_new">Новый PIN</string>
     <string name="sim_reenter_new">Введите новый PIN повторно</string>
-    <string name="sim_change_pin">PIN код SIM карты</string>
+    <string name="sim_change_pin">PIN код SIM-карты</string>
     <string name="sim_bad_pin">Неверный PIN код</string>
     <string name="sim_pins_dont_match">PIN коды не совпадают</string>
     <string name="sim_absent">Нет SIM/RUIM</string>
@@ -767,8 +767,8 @@
  Возможно, код введен неверно."</string>
     <string name="sim_pin_disable_failed">Невозможно заблокировать PIN код.</string>
     <string name="sim_pin_enable_failed">Невозможно разблокировать PIN код.</string>
-    <string name="sim_change_succeeded">PIN код SIM карты успешно изменен</string>
-    <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM карты.
+    <string name="sim_change_succeeded">PIN код SIM-карты успешно изменен</string>
+    <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM-карты.
  Возможно, введен неверный PIN код."</string>
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
@@ -2233,7 +2233,7 @@ It не стирать :
 
 "</li><li>"Установление пакета обновлений не удалит ваши личные данные.
 
-"</li><li>"Не вытаскивайте SIM карту и следите за уровнем заряда батареи.
+"</li><li>"Не вытаскивайте SIM-карту и следите за уровнем заряда батареи.
 
 "</li></string>
     <string name="icc_card_absent">ICC карта отсутствует</string>
@@ -2519,8 +2519,8 @@ It не стирать :
     <string name="internal_storage_media_format_final_desc">Очистить внутреннюю память, вместе со всеми файлами на ней? Это действие необратимо!</string>
     <string name="internal_storage_media_format_title">Очистить внутреннюю память</string>
     <string name="local_label">Местные контакты</string>
-    <string name="sim_card_1">Sim карта 1</string>
-    <string name="sim_card_2">Sim карта 2</string>
+    <string name="sim_card_1">SIM-карта 1</string>
+    <string name="sim_card_2">SIM-карта 2</string>
     <string name="capture_screen_title">Снимок экрана</string>
     <string name="capture_screen_summary">Нажмите клавишу питания и клавишу громкости, чтобы сделать снимок.</string>
     <string name="one_key_wps">Включение WPS одним нажатием</string>
@@ -2594,10 +2594,10 @@ It не стирать :
     <string name="add_su_black_list_apps">Добавить защищенные приложения</string>
     <string name="gallery_camara">Галерея / Камера</string>
     <string name="single_ui_mode_settings">Настройки работы одной рукой</string>
-    <string name="pref_title_notification_card1_ringtone">Звук сообщения карты 1</string>
-    <string name="pref_title_notification_card2_ringtone">Звук сообщения карты 2</string>
-    <string name="phone_one_ringtone">Звук вызова с карты 1</string>
-    <string name="phone_two_ringtone">Звук вызова с карты 2</string>
+    <string name="pref_title_notification_card1_ringtone">Звук сообщения для SIM-карты 1</string>
+    <string name="pref_title_notification_card2_ringtone">Звук сообщения для SIM-карты 2</string>
+    <string name="phone_one_ringtone">Звук вызова для SIM-карты 1</string>
+    <string name="phone_two_ringtone">Звук вызова для SIM-карты 2</string>
     <string name="wifi_check_addnetwork_title">Внимание</string>
     <string name="wifi_check_addnetwork_message">"Не найдено сетей рядом
 %1$s"</string>
@@ -2781,15 +2781,15 @@ It не стирать :
     <string name="turnover_vs_intelligent">Умное уведомление не активируется при перевороте телефона</string>
     <string name="shakechange_vs_intelligent">Смена композиции не совместима с умным уведомлением</string>
     <string name="turnover_and_shakechange_vs_intelligent">Переворот телефона и смена композиций не совместимы с умным уведомлением</string>
-    <string name="sim_change_failed_enable_sim_lock">Вы не можете изменить PIN-код SIM карты. Заблокировано</string>
+    <string name="sim_change_failed_enable_sim_lock">Вы не можете изменить PIN-код SIM-карты. Заблокировано</string>
     <string name="wifi_wps_mgmt_titlebar">Быстрое и надежное соединение</string>
     <string name="header_category_wireless_transport">Беспроводная передача</string>
     <string name="touch_gesture_div_screen_title">Жест для разделения экрана</string>
     <string name="touch_gesture_div_screen_summary">Провести по нижней части экрана для разделения</string>
     <string name="touch_gesture_div_screen_intro">Провести снизу вверх для разделения</string>
     <string name="card_g_toast">Оба слота поддерживают 2G/3G/4G карты China Unicom и China Mobile. Одновременно одна карта может работать в сети 3G/4G другая в сети 2G.</string>
-    <string name="card_toast1">Первый слот для SIM карты поддерживает стандарты связи: WCDMA, GSM.</string>
-    <string name="card_toast2">Второй слот для SIM карты поддерживает только стандарт связи GSM.</string>
+    <string name="card_toast1">Первый слот для SIM-карты поддерживает стандарты связи: WCDMA, GSM.</string>
+    <string name="card_toast2">Второй слот для SIM-карты поддерживает только стандарт связи GSM.</string>
     <string name="default_voice">Для разговоров по умолчанию</string>
     <string name="default_voice_card">Карта для разговоров по умолчанию</string>
     <string name="unlock_sounds_enable_title">Звук разблокировки экрана</string>

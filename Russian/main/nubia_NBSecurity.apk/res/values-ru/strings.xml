@@ -316,7 +316,7 @@
     <string name="remoteguard_settingguidecontent3r">Введите ваше имя</string>
     <string name="remoteguard_settingguidecontent3l">"Это "</string>
     <string name="remoteguard_settingguidecontent3m">"Не волнуйтесь, это я! Если вы получили это сообщение, то возможно, мой телефон утерян. Пожалуйста, сообщите мне номер отправителя этого сообщения! 【Nubia Антивор】"</string>
-    <string name="remoteguard_sms_usefor_tisp1">Это сообщение будет отослано автоматически на введенный номер при смене SIM карты</string>
+    <string name="remoteguard_sms_usefor_tisp1">Это сообщение будет отослано автоматически на введенный номер при смене SIM-карты</string>
     <string name="remoteguard_set_urgent_contact">Тревожный контакт</string>
     <string name="remoteguard_safe_phone">Номер контакта</string>
     <string name="remoteguard_pls_input_new_password">Пожалуйста, введите новый пароль</string>

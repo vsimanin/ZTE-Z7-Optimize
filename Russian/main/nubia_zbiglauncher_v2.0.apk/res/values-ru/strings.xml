@@ -43,7 +43,7 @@
     <string name="fail">Не удалось отправить</string>
     <string name="successSend">Получатель успешно получил</string>
     <string name="reback">Ответить SMS</string>
-    <string name="isSIM">Передача не удалась, пожалуйста, убедитесь, что карта установлена в телефоне.</string>
+    <string name="isSIM">Передача не удалась, пожалуйста, убедитесь, что SIM-карта установлена в телефоне.</string>
     <string name="gallery">Фото</string>
     <string name="detailnum">Набор</string>
     <string name="phonerecord">Журнал звонков</string>
@@ -180,7 +180,7 @@
     <string name="nubia_res_capital_off">ВЫКЛ.</string>
     <string name="yesterday">Вчера</string>
     <string name="two_days_ago_format">MM Месяц, dd День</string>
-    <string name="phone_in_sim">контакты на sim-карте, не могут быть изменены аватары</string>
+    <string name="phone_in_sim">контакты на SIM-карте, аватары не могут быть изменены</string>
     <string name="str_null" />
     <string name="no_message">Нет SMS</string>
     <string name="no_record">Журнал пуст</string>

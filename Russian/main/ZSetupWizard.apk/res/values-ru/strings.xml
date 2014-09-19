@@ -22,7 +22,7 @@
     <string name="many_services">Доступ к другим сервисам Nubia</string>
     <string name="many_services_1">Доступ к другим сервисам Nubia</string>
     <string name="whether_wifi_setting">Хотите подключиться к Wi-Fi сети прямо сейчас?</string>
-    <string name="request_wifi_settings">В данный момент вы не имеете подключения к сети, хотите получить подключение к Wi-Fi или установите SIM карту для продолжения!</string>
+    <string name="request_wifi_settings">В данный момент вы не имеете подключения к сети, хотите получить подключение к Wi-Fi или установите SIM-карту для продолжения!</string>
     <string name="not_request_connection">Нет</string>
     <string name="bt_cereate_account">Создать учетную запись</string>
     <string name="bt_login_account">Вход</string>

@@ -358,7 +358,7 @@
     <string name="fdn_failed">Ошибка операции FDN.</string>
     <string name="fdn_service_unavailable">FDN service is not available.</string>
     <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
-    <string name="exportContacts">Экспорт контактов на SIM карту...</string>
+    <string name="exportContacts">Экспорт контактов на SIM-карту...</string>
     <string name="simContacts_empty">На SIM-карте нет контактов.</string>
     <string name="simContacts_title">Выберите контакты для импорта</string>
     <string name="simContacts_airplaneMode">Чтобы перенести контакты с SIM-карты, отключите режим полёта.</string>
@@ -630,21 +630,15 @@
     <string name="no_wifi_available">Чтобы выполнить интернет-вызов, подключитесь к сети Wi-Fi (см. настройки беспроводной сети).</string>
     <string name="no_voip">Интернет-вызов не поддерживается</string>
     <string name="no_volte">Невозможно совершить IMS вызов</string>
-    <string name="no_vt_allowed">To place a video call, turn off the TTY mode</string>
+    <string name="no_vt_allowed">Для осуществления видео-звонка, включите режим TTY</string>
     <string name="sip_system_decide">Автоматически</string>
     <string name="sip_always_send_keepalive">Отправлять всегда</string>
-    <string name="sip_always">SIP_ALWAYS</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
-    <string name="domain_address">SipDomain</string>
     <string name="username">Имя пользователя</string>
     <string name="password">Пароль</string>
     <string name="display_name">Отображаемое имя</string>
     <string name="proxy_address">Прокси адрес</string>
     <string name="port">Порт</string>
     <string name="transport">Протокол</string>
-    <string name="send_keepalive">SendKeepAlive</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="advanced_settings_container">расширенные настройки контейнера</string>
     <string name="auth_username">Авторизация имени пользователя</string>
     <string name="ims_edit_title">детали аккаунта IMS</string>
@@ -653,8 +647,6 @@
     <string name="call_type">Тип вызова</string>
     <string name="mo_call_type_title">MO тип вызова</string>
     <string name="ims_service_capability">Включить/Выключить возможности сервиса</string>
-    <string name="default_call_type">CSVoice</string>
-    <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
     <string name="ims_service_capability_title">Включить/Выключить возможности IMS сервиса</string>
     <string name="use_ims_default_summary">Использовать IMS для всех вызовов</string>
     <string name="ims_menu_save">Сохранить</string>
@@ -735,9 +727,9 @@
     <string name="call_number">Кому:</string>
     <string name="cancel_call">Отмена</string>
     <string name="set_subscription_error_atleast_one">Выберите по крайней мере одного подписчика</string>
-    <string name="sub_1">SUB 1</string>
-    <string name="sub_2">SUB 2</string>
-    <string name="sub_3">SUB 3</string>
+    <string name="sub_1">Подписчик 1</string>
+    <string name="sub_2">Подписчик 2</string>
+    <string name="sub_3">Подписчик 3</string>
     <string name="set_uicc_subscription_progress">Происходит установка подписки…</string>
     <string name="set_sub_success">Установка подписки выполнена успешна</string>
     <string name="set_sub_failed">Ошибка установки подписки</string>
@@ -805,7 +797,7 @@
     <string name="outgoing_call_data">00:00:00</string>
     <string name="total_call">Всего</string>
     <string name="total_data">00:00:00</string>
-    <string name="life_time_call">Время жизни счетчика</string>
+    <string name="life_time_call">Общее время звонков</string>
     <string name="life_time_data">00:00:00</string>
     <string name="call_timer_reset_title">Сброс</string>
     <string name="call_timer_clear_text">Очистить счетчик голосовых вызовов</string>
@@ -817,14 +809,15 @@
     <string name="receive_data">0КБ</string>
     <string name="data_total_title">Всего</string>
     <string name="data_total_data">0КБ</string>
-    <string name="title_data_life_time">Время жизни счетчика</string>
+    <string name="title_data_life_time">Общее время подключения</string>
     <string name="data_life_time_data">0КБ</string>
     <string name="data_timer_reset_title">Сброс</string>
+    <string name="call_timer_clear">Очистить</string>
     <string name="reset_msg_voice_call">Счетчики вызовов будут очищены, продолжить?</string>
     <string name="reset_msg_data_call">Вы уверены, что хотите сбросить счетчики передачи данных и голосовых вызовов?</string>
-    <string name="phone_number_double" formatted="false">"phone 1：%s
-phone 2：%s"</string>
-    <string name="phone_number">phone：%s</string>
+    <string name="phone_number_double" formatted="false">"номер 1：%s
+номер 2：%s"</string>
+    <string name="phone_number">номер：%s</string>
     <string name="call_forward">Переадресация вызова</string>
     <string name="call_waiting_setting">Настройки ожидания вызова</string>
     <string name="network_settings_title">Настройки вызова в сети CDMA</string>
