@@ -844,6 +844,7 @@
     <string name="nubia_respond_via_sms_canned_response_3">Не могу говорить. Что случилось?</string>
     <string name="nubia_respond_via_sms_canned_response_4">Я за рулем! Не могу говорить.</string>
     <string name="nubia_respond_via_sms_canned_response_5">Не могу говорить. Позвоните позже.</string>
+    <string name="nubia_respond_via_sms_canned_response_custom">+ Добавить новое СМС</string>
     <string name="nubia_respond_via_sms_setting_title">Редактирование СМС</string>
     <string name="nubia_respond_via_sms_toast">Информация не может быть пустой.</string>
     <string name="nubia_message_prompts_title">Сообщение</string>
