@@ -133,5 +133,14 @@
     <string name="score_again">Пожалуйста, оцените снова, оценка не может быть 0.</string>
     <string name="str_view_theme_comments_title">Все комментарии</string>
     <string name="theme_settings">Менеджер настроек тем</string>
-	<string name="no_comment_tip">Сейчас комментарии недоступны</string>
+	<string name="no_comment_tip">В данный момент комментарии недоступны</string>
+    <string name="module_loaded">Модуль загружен</string>
+    <string name="local_downloaded">Загружено</string>
+    <string name="local_bulitin_media">Встроенные медиа-данные</string>
+    <string name="str_not_enough_memory">Не хватает места. Удалите данные и попробуйте ещё раз</string>
+    <string name="no_file">В данный момент файл недоступен</string>
+    <string name="old_theme_file_exist">Старая версия темы уже присутствует</string>
+    <string name="old_theme_get_over">Перезаписать?</string>
+    <string name="no_accounts_tip">Nubia-аккаунт не доступен. Попробуйте позже.</string>
+	
 </resources>

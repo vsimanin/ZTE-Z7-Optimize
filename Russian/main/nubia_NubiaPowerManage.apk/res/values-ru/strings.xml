@@ -155,8 +155,8 @@
     <string name="current_mode_changed">Текущий режим изменен на: %1$s</string>
     <string name="communication_module">модуль связи: %1$s</string>
     <string name="data_net_on">дата: %1$s</string>
-    <string name="mode_content_same">the same to current mode, will not difference after change</string>
-    <string name="not_modify_mode_name">regular mode, do not modify mode name</string>
+    <string name="mode_content_same">Изменений не произойдёт, так как выбираемый режим является текущим</string>
+    <string name="not_modify_mode_name">Не изменяйте имя для "Обычного режима"</string>
     <string name="mode_edit">Режим редактирования</string>
     <string name="no_mode_name">имя режима имеет значение null</string>
     <string name="open">открыть</string>
@@ -170,7 +170,7 @@
     <string name="bluetooth1">Bluetooth</string>
     <string name="synchronization1">Синхронизация</string>
     <string name="touch_feedback1">Виброотклик</string>
-    <string name="screenautorotat1">Вращения</string>
+    <string name="screenautorotat1">Поворот</string>
     <string name="breathlightalert1">Подсветка низного заряда батареи</string>
     <string name="breathlightlowpower1">Подсветка отсутствия мероприятий</string>
     <string name="communicationmodule">Коммуникации</string>
