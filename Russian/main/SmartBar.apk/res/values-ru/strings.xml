@@ -14,5 +14,5 @@
     <string name="activity_violation_title">Уведомление</string>
     <string name="activity_violation_desc">Приложение %1$s уже запущено</string>
     <string name="activity_violation_toast_desc">Приложение %1$s не приостановлено​​. Пожалуйста, попробуйте позже.</string>
-    <string name="swipe_hint">Запустите после начала разделения экрана</string>
+    <string name="swipe_hint">Потяните чтобы разделить экран</string>
 </resources>

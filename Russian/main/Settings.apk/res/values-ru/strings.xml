@@ -2107,7 +2107,7 @@
     <string name="sleep_title">Спящий режим</string>
     <string name="sleep_summary">Некоторые входящие звонки и сообщения будут отклонены</string>
     <string name="powersave_title">Экономия энергии</string>
-    <string name="sigle_ui_title">Одной рукой</string>
+    <string name="sigle_ui_title">Одна рука</string>
     <string name="restrict_cpu_title">Энергосбережение ЦП</string>
     <string name="restrict_cpu_summary">Ограничить работу процессора</string>
     <string name="screen_save_title">Экранная заставка</string>
@@ -2588,7 +2588,7 @@ It не стирать :
     <string name="display_size_title">Размер экрана</string>
     <string name="display_size_dialog_title">Выберите размер экрана</string>
     <string name="display_size_default">1280x720/213</string>
-    <string name="single_ui_mode">Одной рукой</string>
+    <string name="single_ui_mode">Одна рука</string>
     <string name="su_black_app">Настройки черного списка</string>
     <string name="su_black_app_summary">Выберите защищенные приложения</string>
     <string name="add_su_black_list_apps">Добавить защищенные приложения</string>

@@ -197,7 +197,7 @@
     <string name="status_bar_help_title">Это панель уведомлений</string>
     <string name="status_bar_help_text">"Ее можно открыть, пролистнув экран вниз.
 Чтобы открыть настройки, проведите пальцем вниз ещё раз."</string>
-    <string name="screen">Одной рукой</string>
+    <string name="screen">Одна рука</string>
     <string name="low_battery_toast">Батарея разряжена, ваш телефон будет отключен.</string>
     <string name="wifi">Wi-Fi</string>
     <string name="bluetooth">Bluetooth</string>
@@ -226,7 +226,7 @@
     <string name="settings">Настройки</string>
     <string name="lockscreen">Блокировка</string>
     <string name="screenprojector">Проектор</string>
-    <string name="splitscreen">Разделенный экран</string>
+    <string name="splitscreen">Разделитель</string>
     <string name="nothing" />
     <string name="arrange_title_name">Упорядочить переключатели</string>
     <string name="confirm_new_sort">ok</string>
