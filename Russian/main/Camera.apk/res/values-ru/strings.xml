@@ -705,8 +705,9 @@
     <string name="skip">Пропустить</string>
     <string name="jump">Подтвердить</string>
     <string name="start">Пуск</string>
-    <string name="welcom_page1_text_main">3 режима фотосъемки</string>
-    <string name="welcom_page1_text_sub">Легко переключайтесь, наслаждайтесь яркими кадрами</string>
+    <string name="welcom_page1_text_main">3 режима фотосъемки
+	</string>
+    <string name="welcom_page1_text_sub">Переключайтесь и делайте яркие кадры</string>
     <string name="welcom_page2_text_main">Независимый фокус и экпозиция</string>
     <string name="welcom_page2_text_sub">Характеристики профессиональной камеры</string>
     <string name="welcom_page3_text_main">Мультиэкспозиция</string>

@@ -226,7 +226,7 @@
     <string name="settings">Настройки</string>
     <string name="lockscreen">Блокировка</string>
     <string name="screenprojector">Проектор</string>
-    <string name="splitscreen">Разделитель</string>
+    <string name="splitscreen">Два экрана</string>
     <string name="nothing" />
     <string name="arrange_title_name">Упорядочить переключатели</string>
     <string name="confirm_new_sort">ok</string>

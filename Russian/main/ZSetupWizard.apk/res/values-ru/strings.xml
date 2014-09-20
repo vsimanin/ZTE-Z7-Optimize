@@ -2,7 +2,7 @@
 <resources>
     <string name="numeric_date_format">M/d/yyyy</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-    <string name="hello">Спасибо, что пользуетесь смартфоном nubia. Этот Мастер запускапризван помочь вам снастройками.</string>
+    <string name="hello">Спасибо, что пользуетесь смартфоном Nubia. Этот Мастер запуска призван помочь вам с настройками.</string>
     <string name="app_name">Мастер установки</string>
     <string name="reg_url_back">http://10.204.79.125:8080/zuid-server/user/userOperate.zte</string>
     <string name="setupwizard_wellcome_nubia">Добро пожаловать в телефон Nubia</string>
@@ -11,25 +11,25 @@
     <string name="secretKey">fh4n6zw1se07a12hi4esi3bi2yknd1ny</string>
     <string name="appKey">45200348</string>
     <string name="ok">OK</string>
-    <string name="zsetupwizard">" Мастер установки"</string>
-    <string name="setupwizard_free_create_account_1_nubia">После создания Nubia аккаунта, вы можете:</string>
+    <string name="zsetupwizard">"Мастер установки"</string>
+    <string name="setupwizard_free_create_account_1_nubia">Создайте аккаунт Nubia, и вы получите</string>
     <string name="zsetupwizard_account">" аккаунт"</string>
-    <string name="free_create_account">C Nubia аккаунтом Вам будет доступно:</string>
-    <string name="free_create_account_1">C Nubia аккаунтом Вам будет доступно:</string>
+    <string name="free_create_account">C Nubia аккаунтом Вам станет доступно:</string>
+    <string name="free_create_account_1">C Nubia аккаунтом Вам станет доступно:</string>
     <string name="personal_cloud">Облачное хранилище</string>
     <string name="backup_restore">Резервное копирование в облако</string>
     <string name="remote_device">Доступ к удаленным устройствам</string>
-    <string name="many_services">Доступ к другим сервисам Nubia</string>
-    <string name="many_services_1">Доступ к другим сервисам Nubia</string>
-    <string name="whether_wifi_setting">Хотите подключиться к Wi-Fi сети прямо сейчас?</string>
+    <string name="many_services">доступ к сервисам Nubia</string>
+    <string name="many_services_1">доступ к сервисам Nubia</string>
+    <string name="whether_wifi_setting">Хотите подключиться к WiFi сети?</string>
     <string name="request_wifi_settings">В данный момент вы не имеете подключения к сети, хотите получить подключение к Wi-Fi или установите SIM-карту для продолжения!</string>
     <string name="not_request_connection">Нет</string>
     <string name="bt_cereate_account">Создать учетную запись</string>
     <string name="bt_login_account">Вход</string>
     <string name="wellcome_nubia">Вас приветствует</string>
-    <string name="wellcome_nubia_style2">Вас приветствует телефон nubia</string>
+    <string name="wellcome_nubia_style2">Вас приветствует телефон Nubia</string>
     <string name="zsetupwizard_phone">телефон</string>
-    <string name="zsetupwizard_show_info">Нажмите \"Завершить\" для завершения настройки.</string>
+    <string name="zsetupwizard_show_info">Настройка завершена</string>
     <string name="start">Завершить</string>
     <string name="set_data_and_time">Дата и время</string>
     <string name="set_date_and_time">Дата и время</string>
@@ -72,7 +72,7 @@
     <string name="createAccount">Регистрация</string>
     <string name="login">Логин</string>
     <string name="finish">Завершить</string>
-    <string name="finishInfo">Поздравляем! Мастер установки nubia был завершен. Удачи! Спасибо!</string>
+    <string name="finishInfo">Поздравляем! Мастер установки Nubia был завершен. Удачи! Спасибо!</string>
     <string name="username">Имя пользователя:</string>
     <string name="emailAdd">Email Адрес:</string>
     <string name="emailAdd1">Email Адрес:</string>
@@ -86,7 +86,7 @@
     <string name="introVerifSms2">Мы отправили сообщение. Пожалуйста введите код в поле внизу для продолжения!</string>
     <string name="resetMsg">Получить сообщение снова</string>
     <string name="checkPasswordAgain">Пожалуйста введите ваш пароль и проверьте его снова для продолжения</string>
-    <string name="createNewAccount">Создать учетную запись nubia</string>
+    <string name="createNewAccount">Создать учетную запись Nubia</string>
     <string name="inputEmailInfo">Email адрес</string>
     <string name="inputPhoneInfo">Номер телефона</string>
     <string name="inputPasswordInfo">Пароль</string>
@@ -135,7 +135,7 @@
     <string name="illeagalWords">Недействительный ввод</string>
     <string name="operateException">Операция исключения! Попробуйте снова.</string>
     <string name="mobileIlleagal">Мобильный недействительный! Попробуйте снова.</string>
-    <string name="emailIlleagal">email недействительный! Попробуйте снова.</string>
+    <string name="emailIlleagal">Email недействительный! Попробуйте снова.</string>
     <string name="smsOutofTime">Время SMS истекло, попробуйте снова.</string>
     <string name="smsVeriFail">Ошибка верификации SMS, пожалуйста попробуйте снова.</string>
     <string name="emailExpired">Срок действия кода верификации email истек, попробуйте снова</string>

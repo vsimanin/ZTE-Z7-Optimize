@@ -193,7 +193,7 @@
     <string name="silent_mode_vibrate">Вибросигнал</string>
     <string name="silent_mode_ring">Звонок включен</string>
     <string name="shutdown_progress">Выключение...</string>
-    <string name="shutdown_confirm">Телефон будет выключен.</string>
+    <string name="shutdown_confirm">Телефон будет выключен</string>
     <string name="shutdown_confirm_question">Завершить работу?</string>
     <string name="reboot_safemode_title">Переход в безопасный режим</string>
     <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
