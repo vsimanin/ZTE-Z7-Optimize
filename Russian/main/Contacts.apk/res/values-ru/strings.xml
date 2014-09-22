@@ -732,7 +732,7 @@
     <string name="inter_edit_hint">Редактировать контакт</string>
     <string name="input_group_name_hint">Имя группы недействительно</string>
     <string name="menu_merge_contact">Объединение дублирующихся контактов</string>
-    <string name="merge_contacts">Объединение контактов</string>
+    <string name="merge_contacts">Объединение дубликатов</string>
     <string name="manual_contacts">Объединить</string>
     <string name="all_repeat">Полная копия</string>
     <string name="part_repeat">Частичная копия</string>
