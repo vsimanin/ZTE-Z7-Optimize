@@ -1040,9 +1040,9 @@
     <string name="manage_multi_card_ui_title">Управление сообщениями, хранящимися на SIM-картах</string>
     <string name="pref_title_notification_card1_ringtone">Звук для SIM-карты 1</string>
     <string name="pref_title_notification_card2_ringtone">Звук для SIM-карты 2</string>
-    <string name="copy_sms_to_card">Копировать на SD-карту</string>
-    <string name="copy_sms_to_card_one">Копировать на SD-карту 1</string>
-    <string name="copy_sms_to_card_two">Копировать на SD-карту 2</string>
+    <string name="copy_sms_to_card">Копировать на SIM-карту</string>
+    <string name="copy_sms_to_card_one">Копировать на SIM-карту 1</string>
+    <string name="copy_sms_to_card_two">Копировать на SIM-карту 2</string>
     <string name="copy_to_card_success">Копирование завершено</string>
     <string name="copy_to_card_fail">Ошибка копирования</string>
     <string name="wait_for_copy_sms_to_sim">Пожалуйста, дождитесь окончания копирования смс</string>
@@ -1476,5 +1476,14 @@
     <string name="default_contact_card_setting">Выбор контактов для SIM-карты</string>
     <string name="continue_merge_part_contacts">Объединить контакты</string>
     <string name="no_merge_contacts_for_all">"Нет полностью повторяющихся контактов. 
-	Нажмите на кнопку для объединения не полностью дублирующихся контактов.</string>	
+	Нажмите на кнопку для объединения не полностью дублирующихся контактов.</string>
+    <string name="repeat_contacts_detail">поиск %d повторяющихся контактов</string>
+    <string name="part_contacts_detail">поиск %d части повторяющихся контактов</string>
+    <string name="import_to_merge_hint">Слияние контактов</string>
+    <string name="import_to_merge_title">Слияние контактов</string>
+    <string name="import_to_merge_text">Нажмите для начала слияния контактов</string>
+    <string name="reboot_will_reset">, после перезагрузка будет сброшено</string>
+    <string name="choose_phone_number">Выберите телефонный номер</string>
+    <string name="remember_choice">Запомнить выбор</string>
+    <string name="low_memory">Память телефона заполнена. Удалите ненужные файлы для освобождения места.</string>
 </resources>

@@ -70,6 +70,8 @@
     <string name="update_version_newversion">Новая версия:</string>
     <string name="update_version_nowversion">Текущая версия:</string>
     <string name="update_version_nonet">Пожалуйста, проверьте состояние сети</string>
+    <string name="update_version_net_error">Нестабильное соединение, попробуйте ещё раз</string>
+    <string name="update_version_cancel">Отмена</string>
     <string name="update_version_no_storage">Нет свободного места на устройстве, загрузка не удалась</string>
     <string name="fail_to_share">Защищенный файл не может быть общим.</string>
     <string name="switch_on">Вкл.</string>
@@ -109,4 +111,11 @@
     <string name="nubia_res_date_picker_dialog_title">Установить дату</string>
     <string name="nubia_res_date_time_set">Установить</string>
     <string name="nubia_res_date_time_done">Готово</string>
+    <string name="download_apk_exception">Исключение, пожалуйста, проверьте сеть</string>
+    <string name="appnavigation_skip">Пропустить</string>
+    <string name="appnavigation_start">Старт</string>
+    <string name="appnavigation_helptitle">Пропустить "Помощь"?</string>
+    <string name="appnavigation_helpmessage">Выберите \"Помощь\" для того, чтобы увидеть её ещё раз</string>
+    <string name="appnavigation_cancel">Отмена</string>
+    <string name="zfeedback_network_error">Сеть не доступна</string>
 </resources>

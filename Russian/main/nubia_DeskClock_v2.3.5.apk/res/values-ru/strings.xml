@@ -16,7 +16,7 @@
     <string name="help_url_people_edit" />
     <string name="app_label">Часы</string>
     <string name="alarm_list_title">Будильник</string>
-    <string name="add_alarm">Добавить будильник</string>
+    <string name="add_alarm">Новый будильник</string>
     <string name="menu_desk_clock">Настольные часы</string>
     <string name="menu_edit_alarm">Изменить будильник</string>
     <string name="delete_alarm">Удалить будильник</string>
