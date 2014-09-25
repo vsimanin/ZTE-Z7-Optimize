@@ -143,7 +143,7 @@
         <item>читать ICC SMS</item>
         <item>писать ICC SMS</item>
         <item>изменять настройки</item>
-        <item>draw on top</item>
+        <item>Рисовать вверху</item>
         <item>Доступ к уведомлениям</item>
         <item>камера</item>
         <item>запись аудио</item>
@@ -158,13 +158,13 @@
         <item>громкость мультимедиа</item>
         <item>громкость будильника</item>
         <item>громкость уведомления</item>
-        <item>громкость bluetooth</item>
+        <item>громкость Bluetooth</item>
         <item>бодрствовать</item>
         <item>контролировать местоположение</item>
         <item>контролировать высокоточное местоположение</item>
-        <item>изменять wi-fie</item>
-        <item>изменять bluetooth</item>
-        <item>изменять данные</item>
+        <item>Изменять Wi-Fi</item>
+        <item>Изменять Bluetooth</item>
+        <item>Изменять GSM-сеть</item>
         <item>Посылать MMS</item>
         <item>Читать MMS</item>
         <item>Писать MMS</item>
@@ -202,25 +202,25 @@
         <item>Воспроизводить аудио</item>
         <item>Читать буфер обмена</item>
         <item>Изменять буфер обмена</item>
-        <item>Media buttons</item>
-        <item>Audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>Ring volume</item>
-        <item>Media volume</item>
-        <item>Alarm volume</item>
-        <item>Уведомления volume</item>
-        <item>Bluetooth volume</item>
-        <item>Keep awake</item>
+        <item>Кнопки м-медиа</item>
+        <item>Аудио фокус</item>
+        <item>Основной звук</item>
+        <item>Громкость голоса</item>
+        <item>Громкость звонка</item>
+        <item>Громкость м-медиа</item>
+        <item>Громкость будильника</item>
+        <item>Громкость уведомлений</item>
+        <item>Громкость Bluetooth</item>
+        <item>Бодрствовать</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
-        <item>Wifi change</item>
-        <item>Изменять Bt</item>
-        <item>Изменять сеть</item>
+        <item>Изменять Wi-Fi</item>
+        <item>Изменять Bluetooth</item>
+        <item>Изменять GSM-сеть</item>
         <item>Посылать MMS</item>
         <item>Читать MMS</item>
-        <item>Write MMS</item>
-        <item>Auto start</item>
+        <item>Писать MMS</item>
+        <item>Автозагрузка</item>
     </string-array>
 	<string-array name="app_ops_op_group">
         <item>Связанные с</item>
@@ -236,19 +236,6 @@
     </string-array>
 	<string-array name="command_name">
         <item>Письмо</item>
-        <item>xiangling#</item>
-        <item>suoding#</item>
-        <item>qingchu#</item>
-        <item>zhaohui#</item>
-        <item>dingwei#</item>
-    </string-array>
-    <string-array name="command_id">
-        <item>0</item>
-        <item>1#</item>
-        <item>2#</item>
-        <item>3#</item>
-        <item>4#</item>
-        <item>5#</item>
     </string-array>
     <string-array name="remoteguard_manoeuvre_illustrate">
         <item> Пригласите друга для тренировки! </item> 

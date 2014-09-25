@@ -29,7 +29,7 @@
     <string name="common_notification_traffic_no_use">Еще не установлен предел трафика</string>
     <string name="app_name">Безопасность</string>
     <string name="action_settings">Настройки</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Привет Мир!</string>
 	<string name="setup_wizard_finish">Начать испытывать</string>
     <string name="setup_wizard_prefix">Я принимаю</string>
     <string name="setup_wizard_nubia_agreement_title">" "<a href="http://app.nubia.cn/agreement/nubia_securit_agreement.html"> Соглашение об оказании услуг Пользователю </a>" "</string>
@@ -206,10 +206,6 @@
     <string name="app_ops_op_mode_allowed">Разрешить</string>
     <string name="app_ops_op_mode_ask">Запросить</string>
     <string name="app_ops_op_mode_ignored">Запретить</string>
-    <string name="app_ops_op_group_title">%1$s(%2$d)</string>
-    <string name="app_ops_operation_key">app_ops_operation_key</string>
-    <string name="app_ops_package_key">app_ops_package_key</string>
-    <string name="app_ops_title">app_ops_title</string>
     <string name="app_ops_dangerousApp_var">Обнаружено %1$d приложений с уязвимыми разрешениями</string>
     <string name="app_ops_app_monitor_on">Мониторинг всех разрешений ВКЛ</string>
     <string name="app_ops_app_monitor_off">Мониторинг всех разрешений ВЫКЛ</string>
@@ -268,8 +264,6 @@
     <string name="privacy_call_missed">Пропущенные звонки</string>
     <string name="privacy_audio_not_play">Не удается воспроизвести аудио</string>
     <string name="privacy_file_not_open">Не удается открыть файл</string>
-    <string name="privacy_item_img_key">privacy_item_img</string>
-    <string name="privacy_item_name_key">privacy_item_name</string>
     <string name="privacy_contacts_none">Нет личных контактов</string>
     <string name="privacy_message_none">Нет личных сообщений</string>
     <string name="privacy_calllog_none">Нет личных вызовов</string>
@@ -424,17 +418,6 @@
     <string name="intercept_black">Перехват из черного списка</string>
     <string name="intercept_stranger">Перехват незнакомых</string>
     <string name="intercept_rule">Правило блокировки</string>
-    <string name="harass_image_button_one">one</string>
-    <string name="harass_image_button_two">two</string>
-    <string name="harass_image_button_three">three</string>
-    <string name="harass_image_button_four">four</string>
-    <string name="harass_image_button_five">five</string>
-    <string name="harass_image_button_six">six</string>
-    <string name="harass_image_button_seven">seven</string>
-    <string name="harass_image_button_eight">eight</string>
-    <string name="harass_image_button_nine">nine</string>
-    <string name="harass_image_button_zero">zero</string>
-    <string name="harass_description_delete_button">backspace</string>
     <string name="harass_dail_reset">Нет</string>
     <string name="harass_digits_editText_hint">Номер для черного списка</string>
     <string name="harass_phone_number_mark_number_desc">Маркировка этого номера не позволит вам быть побеспокоенным в следующий раз</string>
@@ -470,4 +453,14 @@
     <string name="score_unit">Уничтожен</string>
     <string name="score_people">% пользователей</string>
     <string name="score_congra">Поздравляем</string>
+     <string name="app_ops_never_used">Никогда не запускались</string>
+     <string name="app_ops_running">Запущенные</string>
+     <string name="callshow_marker_exist">Этот маркер существует</string>
+     <string name="callshow_marker_input_new">Введите новый маркер</string>
+     <string name="harassintercept_add_repeat">Этот номер уже есть в черном списке</string>
+     <string name="harassintercept_marker_you_number">Этот номер отмечен:</string>
+     <string name="intercept_incoming">Перехват только входящих</string>
+     <string name="ok">OK</string>
+     <string name="traffic_no">Нет</string>
+     <string name="traffic_yes">Да</string>
 </resources>
