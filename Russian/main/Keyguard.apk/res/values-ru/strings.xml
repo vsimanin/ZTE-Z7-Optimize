@@ -188,4 +188,8 @@
     <string name="sys_china_telecom">China Telecom</string>
     <string name="sys_china_unicom">China Unicom</string>
 	<string name="keyguard_airplane_mode_string">В самолёте</string>
+    <string name="app_name">Экран блокировки Nubia</string>
+    <string name="hello">Привет, мир!</string>
+    <string name="keyguard_sim_locked_message_dural">SIM-карта%d заблокирована.</string>
+    <string name="keyguard_sim_puk_locked_message_dural">SIM-карта%d заблокирована PUK-кодом.</string>
 </resources>

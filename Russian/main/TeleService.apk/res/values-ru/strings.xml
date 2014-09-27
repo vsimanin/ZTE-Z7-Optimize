@@ -908,4 +908,23 @@
     <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
     <string name="unknown_sim_card_dialog_title">Выберите режим сети</string>
     <string name="unknown_sim_card_dialog_message">Установите сеть которую ваш оператор использует для телефона</string>
+     <string name="card_insert_erro_message">Только SIM-карта оператора China Telecom может быть вставлена в слот 1.</string>
+     <string name="card_insert_erro_title">Ошибка вставки</string>
+     <string name="nb_cancel">Отмена</string>
+     <string name="nb_networkmode">Настройки сети</string>
+     <string name="nb_networkmode_carrier">Оператор</string>
+     <string name="nb_networkmode_global">Другие</string>
+     <string name="nubia_ariplane_dialog_msg">Режим полёта выключен, поиск сети…</string>
+     <string name="nubia_call_record">Запись разговоров</string>
+     <string name="nubia_call_record_amr_format_summary">Среднеее качество, меньший размер файла</string>
+     <string name="nubia_call_record_format">Формат записи</string>
+     <string name="nubia_call_record_notification">Уведомление о записи</string>
+     <string name="nubia_call_record_notification_summary">Уведомлять о записи телефонного разговора</string>
+     <string name="nubia_call_record_wav_format_summary">Отличное качество, больший размер файла</string>
+     <string name="nubia_in_call_music_summary">Выбрать фоновый звук</string>
+     <string name="nubia_in_call_music_title">Фоновый звук во время разговора</string>
+     <string name="preferred_network_mode_cdma_gsm_summary">Предпочтительная сеть: CDMA/GSM</string>
+     <string name="preferred_network_mode_cdma_gsm_wcdma_summary">Предпочтительная сеть: CDMA/GSM/WCDMA</string>
+     <string name="voice_plus_summary">Voice plus во время голосового вызова</string>
+     <string name="voice_plus_title">Voice plus</string>	
 </resources>

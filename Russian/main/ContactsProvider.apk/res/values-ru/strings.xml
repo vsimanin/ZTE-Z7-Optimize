@@ -27,4 +27,7 @@
     <string name="nubia_service_email">service@nubia.cn</string>
     <string name="nubia_service_email_label">Email</string>
     <string name="nubia_service_website">www.4pda.ru</string>
+    <string name="group_family">Семья</string>
+    <string name="group_friend">Друзья</string>
+    <string name="group_work">Коллеги</string>	
 </resources>

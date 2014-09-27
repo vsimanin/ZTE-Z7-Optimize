@@ -19,4 +19,5 @@
     <string name="toast_restore_started">Начато восстановление…</string>
     <string name="toast_restore_ended">Восстановление завершено</string>
     <string name="toast_timeout">Вышло время ожидания</string>
+    <string name="toast_wrong_password">Неверный пароль</string>
 </resources>

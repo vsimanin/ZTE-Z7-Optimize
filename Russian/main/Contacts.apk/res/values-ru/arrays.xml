@@ -51,4 +51,25 @@
         <item>10 секунд</item>
         <item>Другое</item>
     </string-array>
+     <string-array name="pref_slideshow_open_mode_values">
+        <item>Газета</item>
+        <item>Слайдшоу</item>
+     </string-array>
+     <string-array name="default_phrases">
+        <item>"Как дела?"</item>
+        <item>Спасибо</item>
+        <item>"Давай встретимся."</item>
+        <item>Проверь это!</item>
+        <item>Чё делаешь?</item>
+        <item>Что вы думаете?</item>
+        <item>"Ты должен быть здесь."</item>
+        <item>"Прогуляемся?"</item>
+        <item>Я в пути.</item>
+        <item>Да</item>
+        <item>Нет</item>
+        <item>Позже</item>
+        <item>"Ты лучший!"</item>
+        <item>Ты где?</item>
+        <item>Позвони мне</item>
+     </string-array>
 </resources>

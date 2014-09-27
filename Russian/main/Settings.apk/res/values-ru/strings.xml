@@ -2290,7 +2290,7 @@ It не стирать :
     <string name="no_account">Нет аккаунтов</string>
     <string name="no_vpn">Нет VPN</string>
     <string name="feature_settings">Дополнительные настройки</string>
-    <string name="smartface_settings">Умное лицо</string>
+    <string name="smartface_settings">Смарт чехол</string>
     <string name="suspension_settings">Операция приостановки</string>
     <string name="content_preview_title">Предпросмотр содержаний</string>
     <string name="content_preview_summary">Наведите палец над экраном, чтобы просмотреть детали содержания</string>
@@ -2806,4 +2806,38 @@ It не стирать :
     <string name="battry_style_summary">Разнообразные стили батареи</string>
     <string name="mw_title">Боковая панель</string>
     <string name="mw_summary">Боковая панель, которая имитирует самсунговский MultiWindow FlashBar</string>
+     <string name="after_sales_service">"Послепродажный сервис компании China Mobile"</string>
+     <string name="after_sales_settings_desc">"Описание функций: 
+  для того, чтобы предоставить вам с бесплатным послепродажного обслуживания (Управление устройством через Management Platform Terminal установленную China Mobile, получить настройки вашего устройства дистанционного параметров и обновление программного обеспечения в любое время вы хотите), вам нужно свободно зарегистрировать устройство на Management Platform Terminal. После регистрации, текст сообщение будет отправлено на устройство только один раз бесплатно (текст messsage не будет отправлен в роуминге в HK / Макао / Тайвань или международном уровне)."</string>
+     <string name="after_sales_settings_switch">Автозапуск при включении</string>
+     <string name="clear_voice">Акустический тон</string>
+     <string name="default_not_equals_prefer_data">Настройки MMS и передачи данных различны.</string>
+     <string name="exquistite_continuous">Традиционный тон</string>
+     <string name="full_rich">Традиционный звук</string>
+     <string name="grand_magnificent">Акустический звук</string>
+     <string name="guide_close">Я знаю</string>
+     <string name="insert_erro_toast">Только SIM-карта оператора China Telecom может быть вставлена в слот 1.</string>
+     <string name="model_display_name">ZTE Nubia</string>
+     <string name="more_options">Ещё</string>
+     <string name="no_sim_info">"SIM-карта недоступна.
+Нет доступа к меню"</string>
+     <string name="reset_service_white_list">Сбросить белый список</string>
+     <string name="reset_service_white_list_conform">Сброс белого списка может привести к проблемам с этим сервисом, продолжить?</string>
+     <string name="reset_service_white_list_tips">Не напоминать</string>
+     <string name="service_white_alert_dialog_title">Подсказки</string>
+     <string name="service_white_list_confirm">Сбросить сервис "белый список"?</string>
+     <string name="service_white_list_reset_dilaog_title">Сброс</string>
+     <string name="service_white_list_title">Сервис "Белый список"</string>
+     <string name="sound_hifi_effect_title">Гарнитура HIFI</string>
+     <string name="time_zone_auto_stub">Выберите часовой пояс</string>
+     <string name="white_service_list_guide_tips">Вы можете установить службу в белый список, чтобы она не была закрыта по ошибке</string>
+     <string name="wifi_display_autonomous_go">Включить автономный GO</string>
+     <string name="wifi_display_certification_heading">Сертификация</string>
+     <string name="wifi_display_listen_channel">Слушать канал</string>
+     <string name="wifi_display_listen_mode">Включить прослушивающий режим</string>
+     <string name="wifi_display_operating_channel">Операционный канал</string>
+     <string name="wifi_display_pause">Пауза</string>
+     <string name="wifi_display_resume">Возобновить</string>
+     <string name="wifi_display_session_info">Информация о сессии</string>
+     <string name="wifi_display_wps_config">Конфигурация WPS</string>
 </resources>

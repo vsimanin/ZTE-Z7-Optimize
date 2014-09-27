@@ -774,4 +774,14 @@
     <string name="nubia_missed_call_notification_callback">Перезвонить</string>
     <string name="nubia_respond_via_sms_canned_response_add">+    Добавить новое отклоняющее сообщение</string>
     <string name="nubia_ring_gradually_strong">Нарастающий сигнал рингтона</string>
+    <string name="incall_music">Фоновый звук</string>
+    <string name="incall_music_add_text">Добавить фоновый звук</string>
+    <string name="incall_music_airport">Аеропорт</string>
+    <string name="incall_music_bus">Автобус</string>
+    <string name="incall_music_custom">Фоновый звук во время звонка</string>
+    <string name="incall_music_office">Офис</string>
+    <string name="incall_music_quiet">Тишина</string>
+    <string name="incall_music_street">Улица</string>
+    <string name="nubia_cancel_call_record_no_sd">"Нет доступа к SD-карте, запись отменена."</string>
+    <string name="nubia_move_up_send_sms">Переместить вверх отправку SMS</string>	
 </resources>
