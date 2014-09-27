@@ -582,7 +582,7 @@
     <string name="shortcut_call_settings_msg">При удерживании цифровых клавиш набрать номер соответствующего контакта</string>
     <string name="shortcut_call_settings_modify_option_remove">Удалить</string>
     <string name="shortcut_call_settings_modify_option_replace">Переместить</string>
-    <string name="more">Еще…</string>
+    <string name="more">Ещё</string>
     <string name="description_voice_button">голос</string>
     <string name="call_type_show_title">В соответствии с типом телефона</string>
     <string name="all_call">Все вызовы</string>
@@ -590,7 +590,7 @@
     <string name="dial_call">Набранные</string>
     <string name="miss_call">Пропущенные</string>
     <string name="menu_call_timer">Счетчик вызовов</string>
-    <string name="ringer">"Гудков "</string>
+    <string name="ringer">"Вызовов "</string>
     <string name="ringer_time">" "</string>
     <string name="type_rejectedIncoming">Отклоненные входящие вызовы</string>
     <string name="motion_callout_opened_msg">Перемещенные вызовы уже открыты</string>
