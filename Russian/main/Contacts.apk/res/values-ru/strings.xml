@@ -1056,7 +1056,8 @@
     <string name="notification_dial">Набрать</string>
     <string name="str_sms_send_success_notification">Отправка на %s успешна!</string>
     <string name="str_sms_send_fail_notification">Отправка на %s не удалась!</string>
-    <string name="switch_card_view_first_indication">При помощи этого переключателя выбирайте SIM-карту для каждого контакта</string>
+    <string name="switch_card_view_first_indication">При помощи этого переключателя 
+выбирайте SIM-карту для каждого контакта</string>
     <string name="str_mms_send_success">MMS отправлено успешно!</string>
     <string name="str_mms_send_fail">Отправка MMS не удалась!</string>
     <string name="mms_size_indicator">%1$sКБ</string>
