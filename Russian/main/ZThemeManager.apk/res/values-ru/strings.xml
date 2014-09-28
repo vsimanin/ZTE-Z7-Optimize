@@ -159,5 +159,5 @@
     <string name="no_things_tip">Ничего не загружено.</string>
     <string name="search_hint">Поиск в онлайне</string>
     <string name="load_more">Загрузить еще</string>
-    <string name="no_found_ring">В данный момент рингтон не доступен</string>
+    <string name="no_found_ring">Ничего не найдено</string>
 </resources>
