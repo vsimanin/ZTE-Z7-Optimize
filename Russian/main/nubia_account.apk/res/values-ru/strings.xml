@@ -31,7 +31,7 @@
     <string name="section_register_by_email_username">Имя пользователя:</string>
     <string name="section_register_by_email_email">E-mail:</string>
     <string name="section_register_by_email_password">Пароль:</string>
-    <string name="section_register_by_email_register_button">Зарегистрироватьяс сейчас</string>
+    <string name="section_register_by_email_register_button">Зарегистрироваться сейчас</string>
     <string name="section_register_by_email_register_note">Пожалуйста введите корректный email адрес, с его помощью вы сможете восстановить утерянный пароль</string>
     <string name="section_register_by_email_username_error">Для имени пользователя необходимо ввести от 4 до 15 символов</string>
     <string name="section_register_by_email_email_error">Пожалуйста введите корректный адрес email</string>

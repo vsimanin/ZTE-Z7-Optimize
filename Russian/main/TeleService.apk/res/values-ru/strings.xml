@@ -767,7 +767,7 @@
     <string name="response_vibration">Вибрация при ответе</string>
     <string name="response_vibration_text">Когда вызываемые абонент отвечает, мой телефон вибрирует</string>
     <string name="hang_up_vibration">Вибрация при подъеме трубки</string>
-    <string name="hang_up_vibration_text">Когда вызываемый абонент поднимает трубку, моу телефон вибрирует</string>
+    <string name="hang_up_vibration_text">Когда вызываемый абонент поднимает трубку, телефон вибрирует</string>
     <string name="call_status_tone">Сигнал состояния вызова</string>
     <string name="call_link_tone">Тон вызова</string>
     <string name="minute_tone">Минутный сигнал</string>
