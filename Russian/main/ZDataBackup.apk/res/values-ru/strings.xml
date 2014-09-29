@@ -411,5 +411,7 @@
     <string name="delete_backup_file_msg">Вы хотите удалить выбранную копию?</string>
     <string name="backup_restore_content_load">Пожалуйста, подождите...</string>
     <string name="context_clean">Удалить все записи</string>
-	
+    <string name="ui_backup_report_activity_waitting">Ожидание</string>
+    <string name="ui_select_backup_content_warning_msg">Резервное копирование займет больше времени, если вы выбрали APK и данные, продолжить?</string>
+    <string name="ui_select_backup_content_warning_title">Резервное копирование APK</string>
 </resources>

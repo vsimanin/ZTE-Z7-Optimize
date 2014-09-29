@@ -188,4 +188,7 @@
     <string name="dm_version">Версия программного обеспечения</string>
     <string name="dm_update_date">Дата обновления</string>
     <string name="system_update_settings_list_item_title_storage">Обновить со встроенной памяти</string>
+    <string name="fota_server_setting">Настройки сервера</string>
+    <string name="no_access_warning_dlg_msg">Внимание: Телефонные звонки в том числе 911 не будут доступны во время процесса обновления. Устройство необходимо перезагрузить после завершения, чтобы вернуться к нормальной работе.</string>
+    <string name="no_access_warning_dlg_title">Внимание</string>
 </resources>

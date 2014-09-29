@@ -85,9 +85,9 @@
     <string name="nubia_res_app_name">Nubia Common Resources</string>
     <string name="nubia_res_capital_on">Вкл.</string>
     <string name="nubia_res_capital_off">Выкл.</string>
-    <string name="nubia_res_action_menu_overflow_description">Еще</string>
-    <string name="nubia_res_media_route_button_content_description">Media output</string>
-    <string name="nubia_res_candidates_style"><u>candidates</u></string>
+    <string name="nubia_res_action_menu_overflow_description">Дополнительные настройки</string>
+    <string name="nubia_res_media_route_button_content_description">Выход медиа</string>
+    <string name="nubia_res_candidates_style"><u>кандидаты</u></string>
     <string name="nubia_res_ok">OK</string>
     <string name="nubia_res_cancel">Отмена</string>
     <string name="nubia_res_yes">OK</string>
@@ -118,4 +118,10 @@
     <string name="appnavigation_helpmessage">Выберите \"Помощь\" для того, чтобы увидеть её ещё раз</string>
     <string name="appnavigation_cancel">Отмена</string>
     <string name="zfeedback_network_error">Сеть не доступна</string>
+    <string name="nubia_res_number_picker_decrement_button">Уменьшить</string>
+    <string name="nubia_res_number_picker_increment_button">Увеличить</string>
+    <string name="update_app_prompt">Уведомлять об обновлении</string>
+    <string name="update_manual_check">Проверка обновлений</string>
+    <string name="update_manual_check_wait">Проверка версии, пожалуйста подождите..</string>
+    <string name="update_version_ignore">Игнорировать обновление</string>
 </resources>

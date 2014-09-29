@@ -17,4 +17,6 @@
     <string name="smartface_support_info">Эту функцию поддерживает только смартфон nubia.</string>
     <string name="smartface_function_info_1">Смарт окно может отображать дату, время, управление музыкой и будильником.</string>
     <string name="smartface_function_info_2">Вы можете увидеть пропущенные события в смарт окне.</string>
+    <string name="app_name">Смарт Чехол</string>
+    <string name="hello">Привет Мир!</string>
 </resources>

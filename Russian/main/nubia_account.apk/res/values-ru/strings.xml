@@ -144,6 +144,8 @@
     <string name="thirdparty_login_tips">Успешный вход через %1$1s</string>
     <string name="thirdparty_qq">QQ</string>
     <string name="thirdparty_wb">Sina Weibo</string>
+    <string name="mobile_register_info">"Один телефонный номер может получить код безопасности только один раз в день, не закрывайте текущее окно!</string>
+    <string name="please_wait">Пожалуйста, подождите…</string>
     <string name="thirdparty_login_first">Поздравляем！
 У вас есть аккаунт Nubia:
 Логин -  %1$1s

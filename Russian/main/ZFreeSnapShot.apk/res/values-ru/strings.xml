@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Свободные снимки</string>
+    <string name="app_name">Захват скриншота</string>
     <string name="action_settings">Настройки</string>
     <string name="save">Сохранить</string>
     <string name="cancel">Отмена</string>
@@ -20,4 +20,6 @@
     <string name="no_sdcard">Вставить SD-карту</string>
     <string name="app_capture_screen_error">Попробуйте снова, ошибка</string>
     <string name="free_screenshot_description">Нажмите и удерживайте кнопку Меню, чтобы ввести режим скриншота</string>
+    <string name="failure_capture_screenshot">Ошибка захвата скриншота</string>
+    <string name="title">Захват скриншота</string>
 </resources>

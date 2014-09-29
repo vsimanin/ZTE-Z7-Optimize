@@ -66,4 +66,5 @@
     <string name="devicePerms">Доступ к устройству</string>
     <string name="no_new_perms">Установка этого обновления не требует новых разрешений.</string>
     <string name="grant_confirm_question">Предоставить следующие разрешения? Вот к чему будет получен доступ:</string>
+    <string name="install_failed_no_certificaties">Приложение не сертифицировано.</string>
 </resources>

@@ -85,4 +85,16 @@
     <string name="password_error">Неправильный пароль,введите снова.</string>
     <string name="click_to_input">Ввести здесь.</string>
     <string name="security_exception_tip">Текущее время неверно, пожалуйста, соединитесь с Интернетом для установления верного варианта</string>
+    <string name="cut">Обрезать</string>
+    <string name="done">Готово</string>
+    <string name="folder_download">Загрузить</string>
+    <string name="please_wait">Пожалуйста подождите</string>
+    <string name="resolution">Разрешение</string>
+    <string name="save_into">Сохранение видео на %1$s …</string>
+    <string name="trim_copy">_копия</string>
+    <string name="trim_failed">"Невозможно обрезать видео, ошибка сохранения"</string>
+    <string name="trim_max_tip">Можно записывать видео-клипы размером до 1GB.</string>
+    <string name="trim_menu_title">Опции обрезания</string>
+    <string name="trimming">Обрезание</string>
+    <string name="video_notsupport_pip">Картинка в картинке не поддерживается для данного видео.</string>
 </resources>

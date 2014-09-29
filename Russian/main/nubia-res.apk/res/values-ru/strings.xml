@@ -3,13 +3,13 @@
     <string name="nubia_res_app_name">Общие ресурсы Nubia</string>
     <string name="nubia_res_capital_on">ВКЛ.</string>
     <string name="nubia_res_capital_off">ВЫКЛ.</string>
-    <string name="nubia_res_action_menu_overflow_description">Дополнительные параметры</string>
+    <string name="nubia_res_action_menu_overflow_description">Дополнительные настройки</string>
     <string name="nubia_res_media_route_button_content_description">Выход медиа</string>
     <string name="nubia_res_candidates_style"><u>кандидаты</u></string>
     <string name="nubia_res_ok">ОК</string>
-    <string name="nubia_res_cancel">Отменить</string>
+    <string name="nubia_res_cancel">Отмена</string>
     <string name="nubia_res_yes">ОК</string>
-    <string name="nubia_res_no">Отменить</string>
+    <string name="nubia_res_no">Отмена</string>
     <string name="nubia_res_paste">Вставить</string>
     <string name="nubia_res_number_picker_increment_button">Увеличить</string>
     <string name="nubia_res_number_picker_decrement_button">Уменьшенить</string>

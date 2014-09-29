@@ -40,4 +40,8 @@
     <string name="reason_unknown">неизвестно</string>
     <string name="printer_unavailable">%1$s – недоступен</string>
     <string name="print_error_default_message">Не удалось отправить документ на печать.</string>
+    <string name="permdesc_accessAllPrintJobs">Позволяет владельцу получить доступ к очереди задачи принтера созданных другими приложениями. Не используется обычными приложениями.</string>
+    <string name="permdesc_startPrintServiceConfigActivity">Позволяет владельцу настроить службу печати. Не используется обычными приложениями.</string>
+    <string name="permlab_accessAllPrintJobs">Доступ ко всем заданиям принтера</string>
+    <string name="permlab_startPrintServiceConfigActivity">Настройка службы печати</string>
 </resources>

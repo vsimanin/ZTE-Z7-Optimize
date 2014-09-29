@@ -13,4 +13,20 @@
         <item>AM</item>
         <item>PM</item>
     </string-array>
+    <string-array name="dail">
+        <item>Вызов</item>
+        <item>Добавить в список контактов</item>
+        <item>Отправить сообщение</item>
+        <item>Скопировать текст сообщения</item>
+    </string-array>
+    <string-array name="mail">
+        <item>Отправить по электронной почте</item>
+        <item>Добавить в список контактов</item>
+        <item>Скопировать текст сообщения</item>
+    </string-array>
+    <string-array name="website">
+        <item>Открыть URL</item>
+        <item>Добавить в список контактов</item>
+        <item>Скопировать текст сообщения</item>
+    </string-array>
 </resources>

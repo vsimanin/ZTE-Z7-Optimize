@@ -431,7 +431,7 @@
     <string name="mail_gmail">gmail</string>
     <string name="mail_hotmail">Hotmail</string>
     <string name="mail_189">189</string>
-    <string name="from_189_mail">The mail send from 189 mail</string>
+    <string name="from_189_mail">Письмо отправлено с 189 mail</string>
     <string name="mail_189_name">189 mail</string>
     <string name="message_compose_send_title">Отправить письмо</string>
     <string name="message_compose_send_confirm">Вы уверены, что хотите отправить письмо?</string>
@@ -464,4 +464,6 @@
     <string name="copy_email">Копировать адрес почты</string>
     <string name="copy_number">Копировать номер телефона</string>
     <string name="done">Вернуться</string>
+    <string name="cleared_trusted_senders_message">Изображения, вложенные в письмо не будут отображаться автоматически.</string>
+    <string name="imap_not_enabled_hint">Ошибка входа. Введен не верный пароль или ваш аккаунт не поддерживает IMAP протокол.</string>
 </resources>

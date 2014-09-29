@@ -91,4 +91,7 @@
     <string name="cmas_opt_out_dialog_text">Оповещение населения включено. Сохранить текущие настройки?</string>
     <string name="cmas_opt_out_button_yes">Да</string>
     <string name="cmas_opt_out_button_no">Нет</string>
+    <string name="category_india_settings_title">Настройки для Индии</string>
+    <string name="enable_channel_60_alerts_summary">Канал 60 используется в Индии для получения информации от оператора связи</string>
+    <string name="enable_channel_60_alerts_title">Показать трансляции 60-го канала</string>
 </resources>

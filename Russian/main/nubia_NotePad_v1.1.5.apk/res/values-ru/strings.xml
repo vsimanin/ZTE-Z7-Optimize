@@ -102,4 +102,5 @@
     <string name="day_label">день</string>
     <string name="empty_search">Пустой поиск</string>
     <string name="outoff_size">Длинна текста слишком большая</string>
+    <string name="no_words">Содержание файла пустое, пожалуйста, введите данные</string>
 </resources>

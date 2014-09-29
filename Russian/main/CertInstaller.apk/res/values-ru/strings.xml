@@ -31,4 +31,5 @@
     <string name="sdcard_not_present">SD-карта отсутствует.</string>
     <string name="only_primary_user_allowed">Сертификаты может устанавливать только владелец устройства.</string>
     <string name="credential_usage_label">Использовать аккаунт:</string>
+    <string name="unsupported_type_cert">Данный тип сертификата не поддерживается</string>
 </resources>
