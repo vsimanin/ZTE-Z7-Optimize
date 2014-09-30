@@ -1040,61 +1040,61 @@
     <string name="video_maker">Видеомейкер</string>
     <string name="object_clear">Очистить объект</string>
     <string name="light_draw">Light Drawing</string>
-     <string name="capture_camera_close">Выкл</string>
-     <string name="capture_camera_exposure">Траверс выдержки</string>
-     <string name="capture_camera_exposure_count">количество</string>
-     <string name="capture_camera_exposure_scope">диапазон выдержки</string>
-     <string name="capture_camera_exposure_tip">Можно сфотографировать несколько фотографий с разным уровнем выдержки</string>
-     <string name="capture_camera_use_tip">Выйдите из камеры, а затем нажмите Bluetooth Finder, чтобы сфотографировать.</string>
-     <string name="course_cannel">Отмена</string>
-     <string name="course_context">Обучение тому, как получить хорошую фотографию</string>
-     <string name="course_select">Больше не показывать</string>
-     <string name="course_sure">Уверен</string>
-     <string name="course_title">Курс обучения</string>
-     <string name="data_process">Обработка данных</string>
-     <string name="doc_panorama_tip">Держите центр стрелки на линии</string>
-     <string name="electronic_b_title">Лампа накаливания</string>
-     <string name="empty">" "</string>
-     <string name="exposuretime_title">Время выдержки</string>
-     <string name="focus_title">Фокус</string>
-     <string name="hight_frame_rate_open_tip">Высокая частота кадров.</string>
-     <string name="interval_time_tips">Интервал %ss</string>
-     <string name="intervalometer_capture_tips">Пожалуйста, используйте штатив</string>
-     <string name="minutes_and_seconds" formatted="false">%s мин. %s сек.</string>
-     <string name="other_settings_show">Другие настройки</string>
-     <string name="polarizing_filter_title">Поляризация</string>
-     <string name="pref_camera_autoexposure_entry_focus_exposure_separation">Независимая выдержка</string>
-     <string name="pref_capture_focus_title">Фотографирование касанием</string>
-     <string name="pref_star_func_high_settings_title">Расширенные настройки</string>
-     <string name="pro_electronic_fno_title">Электронная Диафрагма</string>
-     <string name="pro_normal_title">Нормально</string>
-     <string name="pro_slow_shutter_title">Медленный Затвор</string>
-     <string name="select_photo_tips">Поддерживаются только 13-ти мегапиксельные снимки</string>
-     <string name="select_photo_tips2">Выбранные снимки не поддерживаются, пожалуйста, выберите только 13-ти мегапиксельные снимки.</string>
-     <string name="setting_color_filter_title">Цветовой фильтр</string>
-     <string name="slow_shutter">Медленный Затвор</string>
-     <string name="slowshutter_time_m">мин.</string>
-     <string name="slowshutter_time_s">сек.</string>
-     <string name="specification_crystal_context">"\u0009\u0009Режим "Кристал" подходит для съемки статичного объекта, который позволяет вам добавить эффект прозрачности и изысканности.
+    <string name="capture_camera_close">Выкл</string>
+    <string name="capture_camera_exposure">Траверс выдержки</string>
+    <string name="capture_camera_exposure_count">количество</string>
+    <string name="capture_camera_exposure_scope">диапазон выдержки</string>
+    <string name="capture_camera_exposure_tip">Можно сфотографировать несколько фотографий с разным уровнем выдержки</string>
+    <string name="capture_camera_use_tip">Выйдите из камеры, а затем нажмите Bluetooth Finder, чтобы сфотографировать.</string>
+    <string name="course_cannel">Отмена</string>
+    <string name="course_context">Обучение тому, как получить хорошую фотографию</string>
+    <string name="course_select">Больше не показывать</string>
+    <string name="course_sure">Уверен</string>
+    <string name="course_title">Курс обучения</string>
+    <string name="data_process">Обработка данных</string>
+    <string name="doc_panorama_tip">Держите центр стрелки на линии</string>
+    <string name="electronic_b_title">Лампа накаливания</string>
+    <string name="empty">" "</string>
+    <string name="exposuretime_title">Время выдержки</string>
+    <string name="focus_title">Фокус</string>
+    <string name="hight_frame_rate_open_tip">Высокая частота кадров.</string>
+    <string name="interval_time_tips">Интервал %ss</string>
+    <string name="intervalometer_capture_tips">Пожалуйста, используйте штатив</string>
+    <string name="minutes_and_seconds" formatted="false">%s мин. %s сек.</string>
+    <string name="other_settings_show">Другие настройки</string>
+    <string name="polarizing_filter_title">Поляризация</string>
+    <string name="pref_camera_autoexposure_entry_focus_exposure_separation">Независимая выдержка</string>
+    <string name="pref_capture_focus_title">Фотографирование касанием</string>
+    <string name="pref_star_func_high_settings_title">Расширенные настройки</string>
+    <string name="pro_electronic_fno_title">Электронная Диафрагма</string>
+    <string name="pro_normal_title">Нормально</string>
+    <string name="pro_slow_shutter_title">Медленный Затвор</string>
+    <string name="select_photo_tips">Поддерживаются только 13-ти мегапиксельные снимки</string>
+    <string name="select_photo_tips2">Выбранные снимки не поддерживаются, пожалуйста, выберите только 13-ти мегапиксельные снимки.</string>
+    <string name="setting_color_filter_title">Цветовой фильтр</string>
+    <string name="slow_shutter">Медленный Затвор</string>
+    <string name="slowshutter_time_m">мин.</string>
+    <string name="slowshutter_time_s">сек.</string>
+    <string name="specification_crystal_context">"\u0009\u0009Режим "Кристал" подходит для съемки статичного объекта, который позволяет вам добавить эффект прозрачности и изысканности.
  \u0009\u0009Используйте штатив при съемке"</string>
-     <string name="specification_crystal_title">Спецификации режима "Кристал"</string>
-     <string name="specification_electronic_context">"\u0009\u0009Режим "Электронная Диафрагма" позволяет вам регулировать размер диафрагмы, а камера автоматически настраивает скорость затвора.
+    <string name="specification_crystal_title">Спецификации режима "Кристал"</string>
+    <string name="specification_electronic_context">"\u0009\u0009Режим "Электронная Диафрагма" позволяет вам регулировать размер диафрагмы, а камера автоматически настраивает скорость затвора.
  \u0009\u0009Данный режим подходит для съемки статического пейзажа, ночного вида или медленно движущихся объектов."</string>
-     <string name="specification_electronic_title">Спецификации режима "Электронная Диафрагма"</string>
-     <string name="specification_feng_zhi_context">"\u0009\u0009Режим "Глубина резкости" знаменует собой резкий контраст между частью с красными линиями на объекты с одинаковыми DOF.
+    <string name="specification_electronic_title">Спецификации режима "Электронная Диафрагма"</string>
+    <string name="specification_feng_zhi_context">"\u0009\u0009Режим "Глубина резкости" знаменует собой резкий контраст между частью с красными линиями на объекты с одинаковыми DOF.
  \u0009\u0009Красная зона-это четко сфокусированная облась."</string>
-     <string name="specification_feng_zhi_context_title">Спецификации режима "Глубина резкости"</string>
-     <string name="specification_light_draw_context">"\u0009\u0009Режим Light Drawing позволяет вам фотографировать источники света и объекты на них.
+    <string name="specification_feng_zhi_context_title">Спецификации режима "Глубина резкости"</string>
+    <string name="specification_light_draw_context">"\u0009\u0009Режим Light Drawing позволяет вам фотографировать источники света и объекты на них.
  \u0009\u0009Пожалуйста, не снимайте в темноте."</string>
-     <string name="specification_light_draw_title">Спецификации режима Light Drawing</string>
-     <string name="specification_slow_shutter_context">"\u0009\u0009Режим "Длительная выдержка" позволяет вам изменить время выдержки в процессе фотографирования.
+    <string name="specification_light_draw_title">Спецификации режима Light Drawing</string>
+    <string name="specification_slow_shutter_context">"\u0009\u0009Режим "Длительная выдержка" позволяет вам изменить время выдержки в процессе фотографирования.
  \u0009\u0009Данный режим подходит для съемки в условиях недостаточного освещения, подвижных объектов и погодных условий"</string>
-     <string name="specification_slow_shutter_title">Спецификации режима "Длительная выдержка"</string>
-     <string name="specification_star_cloud_context">"\u0009\u0009Режим "Фотографирование галактики" позволяет вам фотографировать Млечный путь, используя длинную выдержку в условиях недостаточной освещенности.
+    <string name="specification_slow_shutter_title">Спецификации режима "Длительная выдержка"</string>
+    <string name="specification_star_cloud_context">"\u0009\u0009Режим "Фотографирование галактики" позволяет вам фотографировать Млечный путь, используя длинную выдержку в условиях недостаточной освещенности.
  \u0009\u0009Используйте штатив при съемке в условиях недостаточной освещенности."</string>
-     <string name="specification_star_cloud_title">О режиме "Фотографирование галактики"</string>
-     <string name="specification_star_track_context">"\u0009\u0009Режим Star Track позволяет вам фотографировать передвигающиеся объекты, используя длинную выдержку в условиях недостаточной освещенности.
+    <string name="specification_star_cloud_title">О режиме "Фотографирование галактики"</string>
+    <string name="specification_star_track_context">"\u0009\u0009Режим Star Track позволяет вам фотографировать передвигающиеся объекты, используя длинную выдержку в условиях недостаточной освещенности.
  \u0009\u0009Используйте штатив при съемке в условиях недостаточной освещенности."</string>
-     <string name="specification_star_track_title">Спецификации режима Star Track</string>
-     <string name="specification_sure">Я знаю</string>	
+    <string name="specification_star_track_title">Спецификации режима Star Track</string>
+    <string name="specification_sure">Я знаю</string>	
 </resources>

@@ -77,4 +77,19 @@
     <string name="stroage_select">Место хранения</string>
     <string name="wait_dlg_title">Сохранение</string>
     <string name="wait_dlg_msg">Сохранение записи, пожалуйста, подождите…</string>
+    <string name="enc_recorder_not_cut_text">Зашифрованная запись, невозможно обрезать</string>
+    <string name="enc_recording">Зашифрованная запись</string>
+    <string name="encryption_recorder_text">Зашифрованный режим</string>
+    <string name="main_storage_not_exist_message">Первичное хранилище не найдено, диктофон не будет использован</string>
+    <string name="main_storage_not_exist_title">Первичное хранилище отсутствует</string>
+    <string name="main_title">Диктофон</string>
+    <string name="psw_check_error">Ошибка пароля</string>
+    <string name="psw_dialog_title">Пароль и подсказка</string>
+    <string name="psw_dialog_view_check_hint">У вас нет посказки для пароля</string>
+    <string name="psw_dialog_view_hint">Подсказка</string>
+    <string name="psw_dialog_view_psw">Пароль</string>
+    <string name="psw_dialog_view_psw_hint">Введите пароль из 6-ти цифр</string>
+    <string name="psw_dialog_view_toast_hint">Введите подсказку для пароля, не больше 20-ти символов</string>
+    <string name="psw_len_error">Ошибка длины пароля, попробуйте ввести еще раз</string>
+    <string name="recorder_reduce_noise_text">Уменьшить шум</string>
 </resources>

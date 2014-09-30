@@ -208,4 +208,22 @@
     <string name="information_separate">/</string>
     <string name="usb_plug_in">Подключен</string>
     <string name="not_support_privacy_space">Личное пространство не поддерживается</string>
+    <string name="cannot_paste">Невозможно вставить из-за условий поиска</string>
+    <string name="create_folder_success">Папка успешно создана</string>
+    <string name="fail_to_create_folder_no_space">Невозможно создать папку, так как одноименная папка уже существует или не хватает места в памяти</string>
+    <string name="failed_paste">Ошибка вставки</string>
+    <string name="illegal_paste">Невозможно вставить файл в исходную папку</string>
+    <string name="loading_tip">загрузка... пожалуйста подождите</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="mhl_name">MHL хранилище</string>
+    <string name="mhl_not_available">MHL хранилище не доступно</string>
+    <string name="no_space_tip">Недостаточно памяти на внешнем хранилище</string>
+    <string name="rename_failed">Ошибка переименования</string>
+    <string name="rename_success">Успешно переименовано</string>
+    <string name="sd_not_available">SD-карта недоступна</string>
+    <string name="successed_paste">Успешно вставлено</string>
+    <string name="unzip_exception_tip">Ошибка разархивации, Неизвестный формат файла или zip файл поврежден</string>
+    <string name="unzip_failure_tip">Ошибка разархивации, Произошла ошибка во время считывания или записи файла</string>
+    <string name="zip_exception_tip">Ошибка архивации, Архивируемые файлы повреждены</string>
+    <string name="zip_failure_tip">Ошибка архивации, невозможно считать или записать файлы</string>
 </resources>
