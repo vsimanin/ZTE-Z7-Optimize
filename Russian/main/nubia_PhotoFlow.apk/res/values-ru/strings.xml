@@ -19,10 +19,10 @@
     <string name="download">Загрузить</string>
     <string name="screen_shot">Скриншот</string>
     <string name="imported">Импортированный</string>
-    <string name="title_activity_lsphoto_setting">Фото блокировки экрана</string>
+    <string name="title_activity_lsphoto_setting">Фото на экране блокировки</string>
     <string name="title_photo_flow_select_preference">Выбрать воспроизведение галереи</string>
     <string name="title_photo_flow_intervel_preference">Интервал воспроизведения</string>
-    <string name="lockscreen_phto_intro">Скользните двумя пальцами влево или вправо на экране блокировки, будет воспроизведена галерея.</string>
+    <string name="lockscreen_phto_intro">Проведите двумя пальцами влево или вправо на экране блокировки, для воспроизведения содержимого галереи.</string>
     <string name="pause_status">Пауза</string>
     <string name="wallpaper">Обои</string>
     <string name="no_photo">Не выбрана галерея</string>

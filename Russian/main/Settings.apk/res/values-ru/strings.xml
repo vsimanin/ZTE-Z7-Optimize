@@ -1371,7 +1371,7 @@
     <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">ВЫКЛ завершает вызов</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Завершать вызов кнопкой ВКЛ/ВЫКЛ</string>
     <string name="accessibility_toggle_speak_password_preference_title">Озвучивать пароли</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_menu_item_settings">Настройки</string>

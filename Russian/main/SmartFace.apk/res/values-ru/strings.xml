@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="smartface_setting_title">Смарт чехол</string>
+    <string name="app_name">Умный чехол</string>
+    <string name="smartface_setting_title">Умный чехол</string>
     <string name="title_enable_smartface_preference">Функия умного чехла</string>
-    <string name="enable_smartface_summary">включите смарт чехол, чтобы использовать данный функционал</string>
-    <string name="title_enable_smartface_window_preference">Смарт чехол</string>
+    <string name="enable_smartface_summary">Включите умный чехол, чтобы использовать данный функционал</string>
+    <string name="title_enable_smartface_window_preference">Умный чехол</string>
     <string name="enable_smartface_window_summary">С умным окном и функцией быстрой разблокировки</string>
     <string name="title_dismiss_lockscreen_preference">Авто-разблокировка экрана</string>
-    <string name="dismiss_lockscreen_summary">Смарт чехол разблокирует телефон при открытии</string>
+    <string name="dismiss_lockscreen_summary">Умный чехол разблокирует телефон при открытии</string>
     <string name="title_face_color_preference">Фоновое окно</string>
     <string name="dialog_title_color_choose_preference">Выберите цвет фонового окна</string>
     <string name="face_color_summary">Черный</string>
@@ -14,9 +15,7 @@
     <string name="title_smartface_choice">Выберите тип чехла</string>
     <string name="title_enable_smartface_ordinary_preference">Обычный чехол</string>
     <string name="enable_smartface_ordinary_summary">Чехол с функцией быстрой разблокировки</string>
-    <string name="smartface_support_info">Эту функцию поддерживает только смартфон nubia.</string>
-    <string name="smartface_function_info_1">Смарт окно может отображать дату, время, управление музыкой и будильником.</string>
-    <string name="smartface_function_info_2">Вы можете увидеть пропущенные события в смарт окне.</string>
-    <string name="app_name">Смарт Чехол</string>
-    <string name="hello">Привет Мир!</string>
+    <string name="smartface_support_info">Эту функцию поддерживает только смартфон Nubia.</string>
+    <string name="smartface_function_info_1">Умное окно может отображать дату, время, управление музыкой и будильником.</string>
+    <string name="smartface_function_info_2">Вы можете увидеть пропущенные события в умном окне.</string>
 </resources>

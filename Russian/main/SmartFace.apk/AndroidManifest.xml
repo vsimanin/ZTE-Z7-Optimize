@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cn.nubia.smartface">
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <application android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@com.nubia:style/Theme.Nubia">
+        <meta-data android:name="android.smartscreen.ENTRY" android:value="cn.nubia.smartface.SmartScreenFactory"/>
+        <activity android:label="@string/smartface_setting_title" android:name=".settings.SmartFaceSettingActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
