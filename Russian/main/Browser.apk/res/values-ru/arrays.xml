@@ -44,4 +44,12 @@
         <item>Только через Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
+    <string-array name="bookmarks">
+        <item>Yandex</item>
+        <item>http://www.yandex.ru/</item>
+        <item>4pda</item>
+        <item>http://4pda.ru/</item>
+        <item>China-iPhone.ru</item>
+        <item>http://china-iphone.ru/</item>
+    </string-array>
 </resources>
