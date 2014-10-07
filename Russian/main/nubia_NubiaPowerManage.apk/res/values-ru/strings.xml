@@ -215,7 +215,11 @@
     <string name="maininfo_currentmode">%1$s</string>
     <string name="battery_time">Ожидаемое время работы</string>
     <string name="battery_time_value">6ч. 5 мин.</string>
-    <string name="one_short_clear">"Нажмите для оптимизации"</string>
+    <string name="one_short_clear">"
+	
+	
+Нажмите для 
+оптимизации"</string>
     <string name="setting_exit_info">Выход из приложения остановит все службы. Продолжить?</string>
     <string name="widget_avaliable">Расчетный показатель</string>
     <string name="widget_current_mode">Текущий режим</string>
