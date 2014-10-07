@@ -258,11 +258,11 @@ PTP: Позволяет определить телефон как фотока�
     <string name="controllerpanel_button">Панель управления</string>
     <string name="usb_connect_titile">USB Подключение</string>
     <string name="usb_connect_ums_option_title">USB-накопитель</string>
-    <string name="usb_connect_ums_option_summary">Используется в качестве USB накопителя</string>
+    <string name="usb_connect_ums_option_summary">Подключить как USB-накопитель</string>
     <string name="usb_connect_mtp_option_title">Показать файлы</string>
-    <string name="usb_connect_mtp_option_summary">MTP мультимедийное устройство</string>
+    <string name="usb_connect_mtp_option_summary">Медиаустройство (MPT)</string>
     <string name="usb_connect_ptp_option_title">Показать картинки</string>
-    <string name="usb_connect_ptp_option_summary">PTP фотокамера</string>
+    <string name="usb_connect_ptp_option_summary">Камера (PTP)</string>
     <string name="usb_connect_modem_option_title">Модем</string>
     <string name="usb_options_help">Справка</string>
     <string name="usb_options_help_message">"USB-накопитель: Позволяет передавать файлы между ПК и внутренней памятью Вашего телефона.
@@ -271,16 +271,16 @@ MTP: Позволяет передавать файлы между ПК и те�
 
 PTP: Позволяет определить телефон как фотокамеру и копировать фотографии."</string>
     <string name="status_bar_settings">Настройки строки состояния</string>
-    <string name="status_bar_display">Дисплей строки состояния</string>
+    <string name="status_bar_display">Отображение строки состояния</string>
     <string name="status_bar_app_notification">Уведомление приложения</string>
-    <string name="status_bar_lockscreen_display">Уведомления при блокировке от</string>
+    <string name="status_bar_lockscreen_display">Отображение уведомления о блокировке</string>
     <string name="statusbar_settings">Настройки строки состояния</string>
     <string name="status_bar_shortcuts">Переключатели</string>
-    <string name="status_bar_launcher_decline">Дисплей строки состояния</string>
+    <string name="status_bar_launcher_decline">Отображение строки состояния</string>
     <string name="status_bar_activity_name">Строка состояния</string>
-    <string name="screen_saver_title">Предотвращение нажатий в карманном режиме</string>
-    <string name="screen_saver_message">"Пожалуйста, не экранируйте верхний край телефона"</string>
-    <string name="screen_saver_force_quite">Выход принудительно: нажмите Громкость минус и кнопку возврата вместе</string>
+    <string name="screen_saver_title">Режим предотвращения случайных нажатий</string>
+    <string name="screen_saver_message">Не накрывайте телефон!</string>
+    <string name="screen_saver_force_quite">Принудительный выход: нажмите вместе Громкость- и кнопку Назад</string>
     <string name="time_am">AM</string>
     <string name="time_pm">PM</string>
     <string name="nubia_rencent_left"></string>
@@ -290,7 +290,7 @@ PTP: Позволяет определить телефон как фотока�
     <string name="nubia_recent_guide_down_drag">Сдвиньте вниз, чтобы добавить в белый список</string>
     <string name="nubia_recent_guide_close">Я знаю</string>
     <string name="nubia_recent_guide_open_white_list">Нажмите и удерживайте для управления белым списком</string>
-    <string name="settings_low_battery_title">Предупреждение батареи</string>
+    <string name="settings_low_battery_title">Низкий заряд батареи!</string>
     <string name="settings_low_battery_message">Уровень заряда батареи составляет менее 40%, подключите зарядное устройство.</string>
     <string name="status_bar_setting_lockscreen">Экран блокировки</string>
     <string name="status_bar_setting_notification">Уведомления</string>
@@ -309,15 +309,15 @@ PTP: Позволяет определить телефон как фотока�
     <string name="sys_tw_mobile">TW Mobile</string>
     <string name="sys_far_eastone">Far EasTone</string>
 	<string name="no_sim_card_toast">Нет Sim-карты</string>
-    <string name="rotation_single_title">Подсказки</string>
-    <string name="close_rotation_text">Нельзя включить поворот экрана только в одном направлении, это выключит режим вращения экрана</string>
-    <string name="rotation_single_checkbox_text">Больше нет подсказок</string>
+    <string name="rotation_single_title">Подсказка</string>
+    <string name="close_rotation_text">Нельзя включить управление одной рукой и поворот экрана одновременно, поворот экрана будет выключен</string>
+    <string name="rotation_single_checkbox_text">Больше не показывать</string>
     <string name="rotation_single_cancel">Отмена</string>
     <string name="rotation_single_ok">OK</string>
-    <string name="close_single_toast">Одиночный режим экрана выключен</string>
-    <string name="close_single_text">Нельзя включить режим вращения в одном направлении, это выключит поворот экрана в одном направлении</string>
-    <string name="close_rotation_toast">Режим вращения выключен</string>
+    <string name="close_single_toast">Управление одной рукой выключено</string>
+    <string name="close_single_text">Нельзя включить одновременно поворот экрана и управление одной рукой, управление одной рукой будет выключено</string>
+    <string name="close_rotation_toast">Поворот экрана выключен</string>
     <string name="statusbar_netspeed_display">Скорость передачи данных</string>
     <string name="statusbar_netspeed_desc">Отображать скорость передачи данных в строке состояния</string>
-    <string name="split_close_single_text">Нельзя переключить экран в режим разделения изображения, это выключит режим отображения одиночного экрана</string>
+    <string name="split_close_single_text">Нельзя включить одновременно режим разделения экрана и управление одной рукой, управление одной рукой будет выключено</string>
 </resources>

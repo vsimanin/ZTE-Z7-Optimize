@@ -91,10 +91,10 @@
     <string name="sos_air">Сообщение спасения не могут выдаваться под режим полёта</string>
     <string name="sos_unsetting">Не задано</string>
     <string name="sms_dafult_text">Мне нужна помощь!</string>
-    <string name="sms_dafult_text_position">---Моя позиция:</string>
+    <string name="sms_dafult_text_position">Моя позиция:</string>
     <string name="sos_title">Параметры безопасности</string>
     <string name="sos_title_body">Использовать функции безопасности, вам нужно - установить "Установка безопасности"</string>
-    <string name="sos_not_des">Positioning failure</string>
+    <string name="sos_not_des">Ошибка позиционирования</string>
     <string name="sos_yes_des">Текущая позиция была</string>
     <string name="sos_des_wait">Позиционируется, пожалуйста, подождите.....</string>
     <string name="nofindSdcard">Не нашли карту памяти для хранения фотографий</string>
@@ -106,7 +106,7 @@
     <string name="tts_launcher">Трансляция голосового меню</string>
     <string name="tts_phone_sms">Трансляция голосовых сообщений для вызова</string>
     <string name="uninstall_tts">Голосовые пакеты, голосовая функция не устанавливается недоступна</string>
-    <string name="hasFlashLight">No flash available</string>
+    <string name="hasFlashLight">Вспышка недоступна</string>
     <string name="sending">Отправка</string>
     <string name="edit">Редактировать</string>
     <string name="nosave">Отмена</string>
@@ -168,9 +168,9 @@
     <string name="noCash">Нет SD-карты, или недостаточно памяти</string>
     <string name="checkversion">Текущая версия обнаруживается...</string>
     <string name="checkttsversion">Обнаружение голосового плагина...</string>
-    <string name="aboutsoftware">About</string>
+    <string name="aboutsoftware">О программе</string>
     <string name="aboutname">nubia Easy Mode V</string>
-    <string name="aboutcompeny">nubia development team</string>
+    <string name="aboutcompeny">Команда разработчиков nubia</string>
     <string name="abouthttp">www.nubia.cn</string>
     <string name="aboutemail0">Предложение: nubiaapp@nubia.cn</string>
     <string name="aboutemail1">Свяжитесь с нами: nubiateam@nubia.cn</string>
@@ -186,6 +186,6 @@
     <string name="no_record">Журнал пуст</string>
     <string name="contact_deleted">Контакт был удален</string>
     <string name="monthName"></string>
-    <string name="chu">Early</string>
-    <string name="run">Intercalary</string>
+    <string name="chu">Рано</string>
+    <string name="run">Вставленный</string>
 </resources>

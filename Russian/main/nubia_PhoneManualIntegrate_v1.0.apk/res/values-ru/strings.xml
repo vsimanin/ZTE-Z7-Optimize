@@ -5,7 +5,7 @@
     <string name="hint_search">Пожалуйста, введите ключевые слова в поиске</string>
     <string name="faq">ЧАВО</string>
     <string name="user_manual">Полное описание</string>
-    <string name="feadback">Пользовательский отзыв</string>
+    <string name="feadback">Отзыв</string>
     <string name="more">Еще</string>
     <string name="search">Поиск</string>
     <string name="search_result">Результаты поиска</string>
@@ -48,8 +48,8 @@
     <string name="faq_get_version_net_error">Ошибка сети, получение версии таймаут</string>
     <string name="faq_download">Загружается, пожалуйста ждите…</string>
     <string name="faq_search_no_result">Нет результатов поиска</string>
-    <string name="user_feedback">Пользовательский отзыв</string>
-    <string name="waiting">Отправить ваш отзыв сейчас…</string>
+    <string name="user_feedback">Отзыв</string>
+    <string name="waiting">Отправление отзыва...</string>
     <string name="feedback_for_thanks">Спасибо за ваш отзыв! Мы ответим вам в ближайшее время.</string>
     <string name="feedback_success">Запрос успешно отправлен</string>
     <string name="feedback_faile">Ошибка отправки запроса, попробуйте снова.</string>
