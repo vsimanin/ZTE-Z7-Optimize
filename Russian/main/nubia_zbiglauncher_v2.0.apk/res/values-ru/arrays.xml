@@ -124,4 +124,12 @@
         <item></item>
         <item></item>
     </string-array>
+     <string-array name="ttsString">
+        <item>Сейчас</item>
+        <item>Сегодня</item>
+        <item>Погода</item>
+        <item>Максимальная температура</item>
+        <item>Минимальная температура</item>
+        <item>Цельсия</item>
+     </string-array>
  </resources>
