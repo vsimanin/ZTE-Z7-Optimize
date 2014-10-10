@@ -1144,10 +1144,10 @@
     <string name="hardware">Аппаратура</string>
     <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
     <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры.</string>
-    <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
-    <string name="candidates_style"><u>варианты</u></string>
-    <string name="ext_media_checking_notification_title">Подготовка %s</string>
+    <string name="fast_scroll_alphabet">"АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
+    <string name="fast_scroll_numeric_alphabet">"0123456789АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
+    <string name="candidates_style"><u>Варианты</u></string>
+    <string name="ext_media_checking_notification_title">Подготовка карты памяти</string>
     <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
     <string name="ext_media_nofs_notification_title">Очистка %s</string>
     <string name="ext_media_nofs_notification_message">%s очищено или не поддерживается файловой системой.</string>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="networkspeed_entries">
+        <item>Не показывать скорость сети</item>
+        <item>Показать скорость входящего трафика</item>
+        <item>Показать скорость исходящего трафика</item>
+        <item>Отображать обе скорости</item>
+    </string-array>
+    <string-array name="networkspeed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

@@ -2358,12 +2358,12 @@ It не стирать :
     <string name="vpn_list_title">Список VPN</string>
     <string name="header_category_network_sharing">СОВМЕСТНОЕ ИСПОЛЬЗОВАНИЕ СЕТИ</string>
     <string name="data_usage_detail">Детализация трафика</string>
-    <string name="sim_lock_settings_category1">Настройки блокировки SIM 1</string>
-    <string name="sim_lock_settings_category2">Настройки блокировки SIM 2</string>
+    <string name="sim_lock_settings_category1">Настройки блокировки SIM-1</string>
+    <string name="sim_lock_settings_category2">Настройки блокировки SIM-2</string>
     <string name="device_info_available">Доступно</string>
-    <string name="status_network">Состояние сети телефона</string>
-    <string name="status_network1">Состояние сети 1 телефона</string>
-    <string name="status_network2">Состояние сети 2 телефона</string>
+    <string name="status_network">Состояние сети</string>
+    <string name="status_network1">Состояние сети SIM-1</string>
+    <string name="status_network2">Состояние сети SIM-2</string>
     <string name="status_data_network">Сеть передачи данных</string>
     <string name="msim_settings">Настройки Dual-SIM</string>
     <string name="card_lte_all_toast">Первый слот для SIM-карты поддерживает 2G/3G/4G сети China Telecom, China Unicom и China Mobile; Второй слот для SIM-карты поддерживает 2G/3G/4G сети China Unicom и China Mobile. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
