@@ -926,5 +926,6 @@
     <string name="preferred_network_mode_cdma_gsm_summary">Предпочтительная сеть: CDMA/GSM</string>
     <string name="preferred_network_mode_cdma_gsm_wcdma_summary">Предпочтительная сеть: CDMA/GSM/WCDMA</string>
     <string name="voice_plus_summary">Voice plus во время голосового вызова</string>
-    <string name="voice_plus_title">Voice plus</string>	
+    <string name="voice_plus_title">Voice plus</string>
+	<string name="voice_call_reset_title">Сброс</string>	
 </resources>
