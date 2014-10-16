@@ -99,7 +99,7 @@
     <string name="user_manual_need_network_yes">Да</string>
     <string name="user_manual_need_network_no">Нет</string>
     <string name="user_manual_server">Сбой сервера.</string>
-    <string name="waiting">Отправка вашего отзывы…</string>
+    <string name="waiting">Отправка вашего отзыва…</string>
     <string name="user_feedback">Отзыв пользователя</string>
     <string name="feedback_mind">Пожалуйста, введите ваш отзыв.</string>
     <string name="feedback_for_thanks">Спасибо за ваш отзыв! Мы ответим, как только сможем.</string>
