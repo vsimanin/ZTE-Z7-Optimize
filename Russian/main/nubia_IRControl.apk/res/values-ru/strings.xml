@@ -26,7 +26,7 @@
     <string name="appnavigation_helptitle">Пропустить "Помощь"?</string>
     <string name="appnavigation_helpmessage">Выберите \"Помощь\" для того, чтобы увидеть её ещё раз</string>
     <string name="appnavigation_cancel">Отмена</string>
-	<string name="input">Введите ваш адрес и текст сообщения</string>
+    <string name="input">INPUT</string>
     <string name="content">Введите содержание</string>
     <string name="email">Введите ваш email</string>
     <string name="send">Послать</string>
