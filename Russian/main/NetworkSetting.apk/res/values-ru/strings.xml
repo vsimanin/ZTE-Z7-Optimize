@@ -12,7 +12,7 @@
     <string name="not_allowed">Ваша SIM-карта не поддерживает подключение к этой сети.</string>
     <string name="connect_later">Не удалось подключиться к этой сети. Повторите попытку позже.</string>
     <string name="quit_mention">Внимание!</string>
-    <string name="dialog_message">Выход прекратит поиск, уверены что хотите выйти?</string>
+    <string name="dialog_message">Выход прекратит поиск. Уверены, что хотите выйти?</string>
     <string name="timeout_message">Нет доступных сетей.</string>
     <string name="registration_done">Зарегистрирован в сети.</string>
     <string name="China_Mobile">China Mobile</string>
