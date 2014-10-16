@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="selected_count">
         <item quantity="other">(Выбрано %s пунктов)</item>
-        <item quantity="one">(Выбрат 1 пункт)</item>
+        <item quantity="one">(Выбран 1 пункт)</item>
     </plurals>
     <plurals name="confirm_delete_phrases">
         <item quantity="other">%1$s фраз будет удалено.</item>
