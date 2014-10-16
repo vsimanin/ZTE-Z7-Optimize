@@ -12,14 +12,14 @@
     <string name="update_app_prompt">Обновление программного обеспечения</string>
     <string name="update_version_doing">Идёт обновление</string>
     <string name="update_version_alreadyrefresh">Обновление не требуется. Текущая версия является последней.</string>
-    <string name="update_version_install">Файл обновления скачан. Обновления устанавливаются</string>
+    <string name="update_version_install">Файл обновления загружен. Обновления устанавливаются</string>
     <string name="update_version_newversion">Новая версия：</string>
     <string name="update_version_nowversion">Текущая версия：</string>
     <string name="update_version_nonet">Пожалуйста, проверьте статус подключения</string>
     <string name="update_version_net_error">Время подключения истекло, пожалуйста, попробуйте ещё раз</string>
     <string name="update_version_cancel">Отмена</string>
     <string name="update_version_no_storage">Недостаточно памяти на устройстве, закачка обновления не удалась</string>
-    <string name="download_apk_exception">Исключение, пожалуйста, проверьте сеть</string>
+    <string name="download_apk_exception">Ошибка. Проверьте сеть</string>
     <string name="baifenzhiling2">0%</string>
     <string name="appnavigation_skip">Пропустить</string>
     <string name="appnavigation_start">Старт</string>
@@ -46,8 +46,8 @@
     <string name="tip">Нет устройства для управления! Добавьте, пожалуйста!</string>
     <string name="roommanage">Управление комнатой</string>
     <string name="adddevice">Новое оборудование</string>
-    <string name="loading_device">Загружается оборудование, подождите, пожалуйста.</string>
-    <string name="add_device">Добавляется оборудование, подождите, пожалуйста.</string>
+    <string name="loading_device">Оборудование загружается, подождите.</string>
+    <string name="add_device">Оборудование добавляется, подождите.</string>
     <string name="wait" />
     <string name="region">Регион</string>
     <string name="parlor">Гостиная</string>
@@ -99,7 +99,7 @@
     <string name="user_manual_need_network_yes">Да</string>
     <string name="user_manual_need_network_no">Нет</string>
     <string name="user_manual_server">Сбой сервера.</string>
-    <string name="waiting">Отправка вашего мнения сейчас…</string>
+    <string name="waiting">Отправка вашего отзывы…</string>
     <string name="user_feedback">Отзыв пользователя</string>
     <string name="feedback_mind">Пожалуйста, введите ваш отзыв.</string>
     <string name="feedback_for_thanks">Спасибо за ваш отзыв! Мы ответим, как только сможем.</string>
@@ -219,7 +219,7 @@ SIZE"</string>
     <string name="silent">Static</string>
     <string name="modes">Format</string>
     <string name="besure">OK</string>
-    <string name="store">Add to Favorites</string>
+    <string name="store">Добавить в Избранное</string>
     <string name="devicenotsupport">Оборудование не поддерживается</string>
     <string name="warning">Внимание</string>
     <string name="search">Поиск</string>
