@@ -88,7 +88,7 @@
     <string name="dialog_type_video">Видео</string>
     <string name="dialog_type_image">Изображение</string>
     <string name="dialog_type_all">Все</string>
-    <string name="multi_select_title">Выделено %1$s запись(ей)</string>
+    <string name="multi_select_title">Выбрано: </string>
     <string name="net_pc">ПК</string>
     <string name="menu_setting">Предпочтения</string>
     <string name="menu_exit">Выход</string>
