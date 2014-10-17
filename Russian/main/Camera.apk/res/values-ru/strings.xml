@@ -807,7 +807,6 @@
     <string name="multi_exposure_title">Мульти экспозиция</string>
     <string name="trajectory_title">Траектории</string>
     <string name="color_filter_title">Светофильтр</string>
-    <string name="video_maker_title">Киностудия</string>
     <string name="pip_title">PIP</string>
     <string name="object_clear_title">Только объект</string>
     <string name="light_painting_title">Рисование светом</string>
@@ -1060,7 +1059,6 @@
     <string name="hight_frame_rate_open_tip">Высокая частота кадров.</string>
     <string name="interval_time_tips">Интервал %ss</string>
     <string name="intervalometer_capture_tips">Пожалуйста, используйте штатив</string>
-    <string name="minutes_and_seconds" formatted="false">%s мин. %s сек.</string>
     <string name="other_settings_show">Другие настройки</string>
     <string name="polarizing_filter_title">Поляризация</string>
     <string name="pref_camera_autoexposure_entry_focus_exposure_separation">Независимая выдержка</string>
@@ -1077,30 +1075,8 @@
     <string name="slowshutter_time_s">Секунд</string>
     <string name="minutes_and_seconds" formatted="false">%s мин. %s сек.</string>
     <string name="seconds_string">%s сек.</string>
-    <string name="specification_sure">Я знаю</string>
-    <string name="specification_star_cloud_title">Режим "Фото Галактики"</string>
-    <string name="specification_star_cloud_context">"\u0009\u0009Режим "Фото Галактики" позволяет снимать Млечный Путь, при длительной выдержке.
- \u0009\u0009Выберите чистое звездное небо и используйте штатив для сьёмки в условиях низкой освещенности."</string>
- 	<string name="specification_star_track_title">Режим "Звёздный путь"</string>
-    <string name="specification_star_track_context">"\u0009\u0009Режим "Звёздный путь" позволяет снимать след оставленый звёздами, при длительной выдержке.
- \u0009\u0009Выберите чистое звездное небо и используйте штатив для сьёмки в условиях низкой освещенности."</string>
-    <string name="specification_light_draw_title">Режим "Рисование светом"</string>
-    <string name="specification_light_draw_context">"\u0009\u0009Режим "Рисование светом" позволяет снимать след от движущего источника света, при длительной выдержке.
- \u0009\u0009Фотографирование в условиях низкой освещенности.</string>
     <string name="specification_crystal_title">Режим "Кристал"</string>
     <string name="specification_crystal_context">"\u0009\u0009Режим "Кристал" Подходит для сьёмки неподвижных обьектов, добавляет эффект прозрачности и изысканности.
  \u0009\u0009Используйте штатив."</string>
-    <string name="specification_electronic_title">Режим "Электронная Диафрагма"</string>
-    <string name="specification_electronic_context">"\u0009\u0009Режим "Электронная Диафрагма" является режимом приоритета диафрагмы. Камера автоматически настраивает выдержку.
- \u0009\u0009Подходит для съемки пейзажа, ночного вида или медленно движущихся объектов."</string>
-    <string name="specification_slow_shutter_title">Режим "Медленный затвор"</string>
-    <string name="specification_slow_shutter_context">"\u0009\u0009Режим "Медленный затвор" является режимом съемки с возможностью регулировки времени экспозиции.
- \u0009\u0009Подходит для съемки сцен с недостаточной освещенностью, движущихся объектов, людей, машин, дождя/снега, волн или яркого светового следа".</string>
-	<string name="specification_feng_zhi_context_title">Режим "Управление глубиной резкости"</string>
-    <string name="specification_feng_zhi_context">"\u0009\u0009Режим "Управления глубиной резкости" позволяет управлять глубиной резкости.
- \u0009\u0009Четко сфокусированной является основная зона"</string>
-     <string name="interval_time_tips">Интервал %ss</string>
     <string name="pref_camera_interval_pro_off">Выкл.</string>
-    <string name="pref_star_func_high_settings_title">Дополнительные настройки</string>
-    <string name="wb_manual_cct_default_value">4500</string>
 </resources>
