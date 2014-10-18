@@ -49,7 +49,7 @@
     <string name="power_mode_set1">Режимы питания</string>
     <string name="gpu_saving1">Умное энергосбережение GPU</string>
     <string name="low_power_auto_saving1">Авто-энергосбережение</string>
-    <string name="timing_change_powermode1">Автоматическое изменение режима</string>
+    <string name="timing_change_powermode1">Автоматическая смена режима</string>
     <string name="intellegence_adj_freq1">Управление ЦП</string>
     <string name="user_feedback1">Обратная связь</string>
     <string name="about_software1">О программе</string>
@@ -63,7 +63,7 @@
     <string name="gpu_auto_optimize_summary">Снижение энергопотребления GPS, мобильной сети и игровой графики для максимального времени использования</string>
     <string name="manual_set_optimize">Ручная оптимизация</string>
     <string name="gps_optimize">Оптимизация GPS</string>
-    <string name="webpage_scan_optimize">Оптимизация интернет-брузинга</string>
+    <string name="webpage_scan_optimize">Оптимизация веб-браузинга</string>
     <string name="game_fps_optimize">Оптимизация FPS в играх</string>
     <string name="game_fps_low">Низкий</string>
     <string name="game_fps_normal">Средний</string>
@@ -163,7 +163,7 @@
     <string name="delete_mode_message">Удаленный режим нельзя воосстановить, подтвердить?</string>
     <string name="usenewmode_count">Максимум четыре пользовательских режима</string>
     <string name="add_usenewmode">Добавить режим питания</string>
-    <string name="usedefine"/>
+    <string name="usedefine">Режим</string>
     <string name="cancel">Отмена</string>
     <string name="back_return">Назад</string>
     <string name="ok">ОК</string>
