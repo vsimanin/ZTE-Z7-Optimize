@@ -11,7 +11,7 @@
     <string name="battery_main_page">Главная</string>
     <string name="application_manage">Приложения</string>
     <string name="network_manage">Сети</string>
-    <string name="battery_mode">Режим питания</string>
+    <string name="battery_mode">Режимы питания</string>
     <string name="tab_setting">Настройка</string>
     <string name="AP_manage">Настройки ЦП</string>
     <string name="current_mode">Текущий режим</string>
@@ -69,16 +69,15 @@
     <string name="game_fps_normal">Средний</string>
     <string name="game_fps_high">Высокий</string>
     <string name="game_fps_summary">Чем выше уровень оптимизации, тем дольше время игры.</string>
-	
 	<string name="open_power_lower_percent">При заряде батареи меньше %1$s%% производится автоматическое изменение на %2$s</string>
     <string name="lowpower_auto_save_close">Выключение режима низкого энергопотребления</string>
     <string name="timing_powermode_enable">от %1$s до %2$s %3$s включен</string>
     <string name="timing_powermode_disable">Выбор времени смены режима работы отключен</string>
     <string name="please_set_timing">Пожалуйста, установите временной интервал</string>
-    <string name="completely_close_software">Сервис закрытия всех приложений</string>
+    <string name="completely_close_software">Закрыть приложение и остановить его службы</string>
     <string name="select_time_range">Установите интервал времени</string>
     <string name="select_power_mode">Выбрать режим питания</string>
-    <string name="save">сохранить</string>
+    <string name="save">Сохранить</string>
     <string name="set_remain_power">Установить уровень заряда</string>
     <string name="set_power_mode">Задать режим питания</string>
     <string name="set_lowpower_value">%1$s%%</string>
@@ -86,36 +85,33 @@
     <string name="setting_quickdormant_summary">Снижение средней потребляемой мощности услуг передачи данных.</string>
     <string name="setting_heart">Продлить время ожидания</string>
     <string name="setting_heart_summary">Продление времени ожидания, когда сетевые приложения работают в фоновом режиме.</string>
-    
 	<string name="user_feedback_title" />
     <string name="feedback_descripter_title">Пожалуйста, введите свой отзыв и предложения (Не более 140 символов):</string>
     <string name="feedback_email_title">Пожалуйста, напишите свой электронный адрес, чтобы мы могли с Вами связаться (дополнительно):</string>
-    
 	<string name="feedback_no_content">Отзыв отсутствует</string>
     <string name="user_feedback_success">Спасибо за отзыв!</string>
     <string name="user_feedback_faild">Не удалось отправить отзыв, попробуйте снова!</string>
     <string name="user_feedback_email_not_right">Электронный адрес неверный, пожалуйста укажите его заново</string>
     <string name="user_feedback_send_btn">Отправить</string>
-    <string name="user_feedback_cancel_btn">Отменить</string>
+    <string name="user_feedback_cancel_btn">Отмена</string>
     <string name="enable_network">Сетевое подключение отсутствует, пожалуйста подлючите беспроводную или мобильную сеть</string>
-    
 	<string name="feedback_setting">Настройка</string>
     <string name="feedback_prompt">Приглашение:</string>
-    <string name="official_network">Web:</string>
-    <string name="problem_feedback">Обратная связь:</string>
-    <string name="connection">Связаться:</string>
+    <string name="official_network">Сайт:</string>
+    <string name="problem_feedback">Почта:</string>
+    <string name="connection">E-mail:</string>
     <string name="running">Статистика</string>
     <string name="refresh_txt">Обновить</string>
     <string name="update_txt">Обновление. Пожалуйста, подождите ...</string>
-    <string name="poweron_launch">Автостарт</string>
+    <string name="poweron_launch">Автозагрузка</string>
     <string name="white_namelist">Белый список</string>
     <string name="add_white_namelist">+ Белый список</string>
     <string name="already_add_white_namelist">√ Белый список</string>
     <string name="remove_white_list">Удалить из списка</string>
-    <string name="add_white_list">Добавлен в белый список</string>
+    <string name="add_white_list">Добавлено в белый список</string>
     <string name="already_added">Добавлено</string>
     <string name="no_add">Не добавлено</string>
-    <string name="add_to_white_list">Добавить в белый список</string>
+    <string name="add_to_white_list">Добавить приложения</string>
     <string name="app_detail">Сведения о приложении</string>
     <string name="close_app">Закрыть приложение</string>
     <string name="disable_close_app">Отключить закрытие</string>
@@ -123,8 +119,7 @@
   	<string name="already_close_app">Закрытые приложения</string>
     <string name="appmanage_powerup_disable">Выкл.</string>
     <string name="appmanage_powerup_text_enable">Вкл.</string>
-    <string name="appmanage_white_app_text">Совет: приложение добавленное в белый список не будет очищено, когда оно работает в фоновом режиме.</string>
-    
+    <string name="appmanage_white_app_text">Приложения, находящиеся в белом списке, не будут остановлены при очистке, и будут продолжать работу в фоновом режиме.</string>
 	<string name="appmanage_app_name">Название приложения</string>
     <string name="appmanage_app_power">Потребляемая мощность:47%</string>
     <string name="appmanage_app_power_text">Потребление энергии:</string>
@@ -168,9 +163,9 @@
     <string name="delete_mode_message">Удаленный режим нельзя воосстановить, подтвердить?</string>
     <string name="usenewmode_count">Максимум четыре пользовательских режима</string>
     <string name="add_usenewmode">Добавить новый режим питания</string>
-    <string name="usedefine">использование автофокуса</string>
-    <string name="cancel">Отменить</string>
-    <string name="back_return">Возврат</string>
+    <string name="usedefine"></string>
+    <string name="cancel">Отмена</string>
+    <string name="back_return">Назад</string>
     <string name="ok">ОК</string>
     <string name="change">Сменить</string>
     <string name="capital_on">ВКЛ.</string>
@@ -181,9 +176,9 @@
     <string name="mode_content_same">Изменений не произойдёт, так как выбираемый режим является текущим</string>
     <string name="not_modify_mode_name">Не изменяйте имя для стандартного режима</string>
     <string name="mode_edit">Режим редактирования</string>
-    <string name="no_mode_name">имя режима имеет значение null</string>
-    <string name="open">открыть</string>
-    <string name="close">закрыть</string>
+    <string name="no_mode_name">Введите название режима</string>
+    <string name="open">Вкл.</string>
+    <string name="close">Выкл.</string>
     <string name="brightness1">Яркость</string>
     <string name="overtimeextinguish1">Отключение экрана</string>
     <string name="wifi1">Wi-Fi</string>
@@ -194,18 +189,15 @@
     <string name="synchronization1">Синхронизация</string>
     <string name="touch_feedback1">Виброотклик</string>
     <string name="screenautorotat1">Поворот</string>
-    <string name="breathlightalert1">Подсветка низного заряда батареи</string>
-    <string name="breathlightlowpower1">Подсветка отсутствия мероприятий</string>
+    <string name="breathlightalert1">Индикация при низком заряде</string>
+    <string name="breathlightlowpower1">Индикация при отсутствии уведомлений</string>
     <string name="communicationmodule">Коммуникации</string>
-    <string name="modename">Имя режима</string>
+    <string name="modename">Название</string>
     <string name="oldtonew_mode_detail">%1$s—>%2$s</string>
     <string name="new_mode_will">Режим будет:</string>
     <string name="automatic">Авто</string>
-    <string name="application_tip_off">Брандмауэр выключен
-Действуют установки сетевых разрешений"</string>
-    <string name="application_tip_on">"Брандмауэр включен
-Действуют установки сетевых разрешений"</string>
-   
+    <string name="application_tip_off">Брандмауэр выключен.</string>
+    <string name="application_tip_on">Брандмауэр включен</string>
 	<string name="working">Работа</string>
     <string name="reading_apps">Чтение данных приложений</string>
     <string name="traffic_title">Статистика</string>
@@ -224,9 +216,9 @@
 	<string name="txt_sg">3G</string>
     <string name="txt_wifi">Wi-Fi</string>
     <string name="txt_billday">День оплаты</string>
-    <string name="txt_traffic_remain">остаток трафика</string>
+    <string name="txt_traffic_remain">Остаток трафика</string>
     <string name="txt_traffic_use">Использовано</string>
-    <string name="done">Принять</string>
+    <string name="done">Ok</string>
     <string name="test">Тест</string>
     <string name="label_month_3g">Месячное потребление трафика</string>
     <string name="btn_today">День</string>
@@ -251,7 +243,6 @@
 
 
 Оптимизация"</string>
-    
 	<string name="setting_exit_info">Выход из приложения остановит все службы. Продолжить?</string>
     <string name="widget_avaliable">Расчетный показатель</string>
     <string name="widget_current_mode">Текущий режим</string>
@@ -264,7 +255,7 @@
     <string name="check_type_tel">Телефон</string>
     <string name="traffic_auto_check">Автопроверка</string>
     <string name="traffic_auto_confirm">Автопроверка может не поддерживаться некоторыми операторами сети. Продолжить?</string>
-    <string name="traffic_autocheck_unit">M</string>
+    <string name="traffic_autocheck_unit">Mб</string>
     <string name="traffic_autocheck_tag">Всего</string>
     <string name="traffic_autocheck_2tag"> </string>
 	<string name="traffic_autocheck_3tag">осталось</string>
@@ -281,9 +272,9 @@
     <string name="update_version_title">Обновление версии</string>
     <string name="update_version_message">Доступна новая версия. Вы хотите установить новую версию?</string>
     <string name="update_version_yes">Обновление</string>
-    <string name="update_version_no">В следующий раз</string>
+    <string name="update_version_no">В другой раз</string>
     <string name="update_version_doing">Обновление...</string>
-    <string name="update_version_alreadyrefresh">Уже новая версия</string>
+    <string name="update_version_alreadyrefresh">Обновление не требуется</string>
     <string name="update_version_nonet">Проверьте статус сети</string>
     <string name="uninstall_old_nubia_powermanage_app">Удалите старую версию Энергосбережения.</string>
     <string name="cpu">CPU %d</string>
@@ -316,7 +307,7 @@
     <string name="temp_cpu1">CPU1</string>
     <string name="temp_cpu2">CPU2</string>
     <string name="temp_cpu3">CPU3</string>
-    <string name="temp_monitor">Монитор температуры</string>
+    <string name="temp_monitor">Мониторинг температур</string>
     <string name="temp_dis">Расположение и показания 11 датчиков TSENS</string>
     <string name="zte_log">Настройка журнала</string>
     <string name="log_settings">log_settings</string>
@@ -338,4 +329,10 @@
     <string name="control1_text">Контроллер АКБ 1:</string>
     <string name="control2_text">Контроллер АКБ 2:</string>
     <string name="traffic_autocheck_startwith">Dear</string>
+    <string name="base_setting">Основные настройки</string>
+    <string name="powermode">Режимы Питания</string>
+    <string name="cpu_temp">Температура CPU</string>
+    <string name="health_status">Датчики температуры</string>
+    <string name="str_about">Информация</string>
+    <string name="createshortcut">Создать ярлык</string>
 </resources>
