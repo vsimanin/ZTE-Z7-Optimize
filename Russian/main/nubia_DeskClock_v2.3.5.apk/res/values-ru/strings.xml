@@ -19,7 +19,7 @@
     <string name="add_alarm">Добавить</string>
     <string name="menu_desk_clock">Настольные часы</string>
     <string name="menu_edit_alarm">Изменить будильник</string>
-    <string name="delete_alarm">Удалить будильник</string>
+    <string name="delete_alarm">Удалить</string>
     <string name="enable_alarm">Включить будильник</string>
     <string name="disable_alarm">Выключить будильник</string>
     <string name="delete_alarm_confirm">Удалить будильник?</string>

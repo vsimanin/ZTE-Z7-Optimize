@@ -122,8 +122,8 @@
     <string name="disable_close_app">Отключить закрытие</string>
     <string name="already_open_app">Запущенные приложения</string>
   	<string name="already_close_app">Закрытые приложения</string>
-    <string name="appmanage_powerup_disable">Отключено</string>
-    <string name="appmanage_powerup_text_enable">Включено</string>
+    <string name="appmanage_powerup_disable">Выкл.</string>
+    <string name="appmanage_powerup_text_enable">Вкл.</string>
     <string name="appmanage_white_app_text">Совет: приложение добавленое в белый список не будет очищено, когда оно работает в фоновом режиме.</string>
     
 	<string name="appmanage_app_name">Название приложения</string>

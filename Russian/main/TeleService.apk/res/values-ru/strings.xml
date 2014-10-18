@@ -846,11 +846,11 @@
     <string name="nubia_respond_via_sms_toast">Информация не может быть пустой.</string>
     <string name="nubia_message_prompts_title">Сообщение</string>
     <string name="nubia_call_link_tone_text">Сигнал при ответе собеседника</string>
-    <string name="nubia_missed_call_notification_callback">Автоответчик</string>
-    <string name="nubia_missed_call_notification_title">Пропущенных вызовов: %s</string>
-    <string name="nubia_missed_call_notification_text">Пришло от %1$1s %2$d и т.д. людей</string>
-    <string name="nubia_missed_call_notification_msg">Пришло от %1$1s</string>
-    <string name="nubia_missed_call_notification_unknow_msg">Пришло от %1$1s</string>
+    <string name="nubia_missed_call_notification_callback">Перезвонить</string>
+    <string name="nubia_missed_call_notification_title">Пропущено %s</string>
+    <string name="nubia_missed_call_notification_text">%1$1s %2$d и т.д. людей</string>
+    <string name="nubia_missed_call_notification_msg">%1$1s</string>
+    <string name="nubia_missed_call_notification_unknow_msg">%1$1s</string>
     <string name="nubia_call_record_save_path_entry_value_default">0</string>
     <string name="nubia_fdn_contacts_isfull">FDN контакты заполнены!</string>
     <string name="unknown_card">Неизвестный абонент</string>

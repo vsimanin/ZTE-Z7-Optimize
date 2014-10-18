@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="phoneAppLabel">Телефон</string>
-    <string name="onHold">Ждет ответа</string>
+    <string name="onHold">Поставить вызов на паузу</string>
     <string name="unknown">Неизвестный абонент</string>
     <string name="private_num">Скрытый номер</string>
     <string name="payphone">Телефон-автомат</string>
@@ -351,7 +351,7 @@
     <string name="card_title_conf_call">Конференц-вызов</string>
     <string name="card_title_incoming_call">Входящий вызов</string>
     <string name="card_title_call_ended">Вызов завершен</string>
-    <string name="card_title_on_hold">Ждет ответа</string>
+    <string name="card_title_on_hold">Вызов на паузе</string>
     <string name="card_title_hanging_up">Завершение разговора</string>
     <string name="card_title_in_call">Исходящий вызов</string>
     <string name="card_title_my_phone_number">Мой номер: %s</string>
@@ -670,7 +670,7 @@
     <string name="headset_autoanswer_aftertens">После 10-ти секунд</string>
     <string name="auto_answer_incomingcall_default_when_insert_the_headset">0</string>
     <string name="onscreenSpeaker">Динамик</string>
-    <string name="onscreenDialpadText">Панель набора</string>
+    <string name="onscreenDialpadText">Кнопки</string>
     <string name="onscreenMoreText">Еще</string>
     <string name="onscreenSeparateCallText">Разделить</string>
     <string name="onscreenSwapText">Заменить вызовы</string>
@@ -749,7 +749,7 @@
     <string name="noise_suppression_enable_title">Шумоподавление</string>
     <string name="noise_suppression_enable_summary">Фильтровать внешний шум</string>
     <string name="nubia_bg_call_notification">Вызов, нажмите, чтобы вернуться к вызову</string>
-    <string name="nubia_hold_recover">восстановление вызова</string>
+    <string name="nubia_hold_recover">Снять вызов с паузы</string>
     <string name="nubia_record_notification_title">аудио файл был сохранен</string>
     <string name="nubia_record_notification_msg">Путь к файлу:</string>
     <string name="nubia_move_up_answer">Ответить на вызов</string>

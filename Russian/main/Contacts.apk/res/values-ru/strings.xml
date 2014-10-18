@@ -837,7 +837,7 @@
     <string name="ContactNoSupport">Неподдерживаемый тип файла</string>
     <string name="delete_group_alert_message">Группа будет удалена, но контакты из группы удалены не будут. Продолжить?</string>
     <string name="savePhoneNumberDialogTitle">Сохранить номер</string>
-    <string name="saveToExistContact">Добавить к существующему контакту</string>
+    <string name="saveToExistContact">Добавить к контакту</string>
     <string name="ContactDetailFragment.Copy_Number">Копировать номер</string>
     <string name="ContactDetailFragment.Call_Before_Edit">Изменить номер перед вызовом</string>
     <string name="ContactDetailFragment.Please_edit_number">Отредактируйте номер</string>
