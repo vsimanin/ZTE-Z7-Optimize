@@ -311,7 +311,7 @@
     <string name="eventLabelsGroup">Мероприятия</string>
     <string name="relationLabelsGroup">Отношения</string>
     <string name="groupsLabel">Группы</string>
-    <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
+    <string name="dialog_new_contact_account">Экспорт контактов</string>
     <string name="dialog_new_group_account">Создание группы в аккаунте</string>
     <string name="menu_sync_remove">Удалить группу синхронизации</string>
     <string name="dialog_sync_add">Добавить группу синхронизации</string>
@@ -694,7 +694,7 @@
     <string name="default_save_to">Сохранить по умолчанию в</string>
     <string name="prompt">Подсказки</string>
     <string name="prompt_hint">Выбрать хранилище при создании нового контакта</string>
-    <string name="only_save_phone">Сохранять в телефоне</string>
+    <string name="only_save_phone">В память телефона</string>
     <string name="warnning_title">Внимание</string>
     <string name="warnning_msg">Это действие приведет к потере части данных, вы действительно хотите продолжить?</string>
     <string name="title_addgroupmembership">Добавить контакт в группу</string>
@@ -827,10 +827,10 @@
     <string name="menu_starred">Избранные</string>
     <string name="empty_phone">Нет телефонного номера</string>
     <string name="recognizing_card">Чтение визитной карточки...</string>
-    <string name="ContactSettingsActivity.import_from_phone_card1">Импорт из телефона на SIM-карту 1</string>
-    <string name="ContactSettingsActivity.import_from_phone_card2">Импорт из телефона на SIM-карту 2</string>
-    <string name="ContactSettingsActivity.export_to_phone_card1">Экспорт в телефон с SIM-карты 1</string>
-    <string name="ContactSettingsActivity.export_to_phone_card2">Экспорт в телефон с SIM-карты 2</string>
+    <string name="ContactSettingsActivity.import_from_phone_card1">Импорт контактов с SIM-карты 1</string>
+    <string name="ContactSettingsActivity.import_from_phone_card2">Импорт контактов с SIM-карты 2</string>
+    <string name="ContactSettingsActivity.export_to_phone_card1">Экспорт контактов на SIM-карту 1</string>
+    <string name="ContactSettingsActivity.export_to_phone_card2">Экспорт контактов на SIM-карту 2</string>
     <string name="card_insert_dialog_import">Импорт</string>
     <string name="dialpadHintText">Введите номер</string>
     <string name="showDialpadHintText">Нажмите для отображения цифровой клавиатуры</string>

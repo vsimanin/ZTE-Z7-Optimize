@@ -37,11 +37,11 @@
     <string name="install_failed">Ошибка установки</string>
     <string name="install_successful">Успешная установка</string>
     <string name="menu_item_search">Поиск</string>
-    <string name="menu_item_sort">Сортировать по</string>
-    <string name="menu_item_sort_date">Дате</string>
-    <string name="menu_item_sort_name">Имени</string>
-    <string name="menu_item_sort_size">Размеру</string>
-    <string name="menu_item_sort_type">Типу</string>
+    <string name="menu_item_sort">Сортировка</string>
+    <string name="menu_item_sort_date">По дате</string>
+    <string name="menu_item_sort_name">По имени</string>
+    <string name="menu_item_sort_size">По размеру</string>
+    <string name="menu_item_sort_type">По типу</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="no">Нет</string>
     <string name="no_file">Нет файлов</string>
@@ -116,7 +116,7 @@
     <string name="operation_detail">Детали</string>
     <string name="operation_list">Список</string>
     <string name="operation_grid">Сетка</string>
-    <string name="operation_set_as_ringtone">Установить как Рингтон телефона</string>
+    <string name="operation_set_as_ringtone">Установить как мелодию звонка</string>
     <string name="operation_search">Поиск</string>
     <string name="operation_share">Передать</string>
     <string name="zip_success">%s создан</string>
@@ -203,7 +203,7 @@
     <string name="otg_data_cable">Что такое OTG кабель для передачи данных?</string>
     <string name="privacy_space">Личное пространство</string>
     <string name="search_tip">Поиск файла</string>
-    <string name="menu_more">Подробнее</string>
+    <string name="menu_more">Дополнительные операции</string>
     <string name="not_found_result">Результаты не найдены</string>
     <string name="information_separate">/</string>
     <string name="usb_plug_in">Подключен</string>
