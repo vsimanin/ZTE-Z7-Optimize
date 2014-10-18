@@ -151,7 +151,7 @@
     <string name="appmanage_check_root">Пожалуйста, проверьте права суперпользователя</string>
     <string name="appmanage_app_stats_tips">Нет данных</string>
     <string name="power_mode_off_title">Режим закрыт</string>
-    <string name="origin_mode">Текущий режим</string>
+    <string name="origin_mode">Оригинальный режим</string>
     <string name="optimum_save_power">Оптимальный режим</string>
     <string name="limitation_power_mode">Экономный режим</string>
     <string name="alarm_clock_mode">Режим будильника</string>
