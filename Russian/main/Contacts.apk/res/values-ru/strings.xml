@@ -979,9 +979,9 @@
     <string name="menu_save_attachment">Сохранить вложение</string>
     <string name="menu_view_details">Посмотреть детали</string>
     <string name="option_insert_smiley">Смайлик</string>
-    <string name="option_add_image">Изображения</string>
-    <string name="option_take_picture">Вставить изображение</string>
-    <string name="option_record_video">Вставить видео</string>
+    <string name="option_add_image">Фото</string>
+    <string name="option_take_picture">Сделать фото</string>
+    <string name="option_record_video">Записать видео</string>
     <string name="option_add_video">Видео</string>
     <string name="option_record_sound">Записать аудио</string>
     <string name="option_insert_phrase">Фраза</string>
