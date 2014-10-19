@@ -45,8 +45,8 @@
     </string-array>
     <string-array name="ark_playpage_more">
         <item>Поделиться</item>
-        <item>Загрузить</item>
-        <item>Установить на звонок</item>
+        <item>Сохранить</item>
+        <item>На звонок</item>
         <item>Удалить</item>
         <item>Эквалайзер</item>
         <item>Сведения</item>
@@ -54,8 +54,8 @@
     </string-array>
     <string-array name="ark_playpage_more_online">
         <item>Поделиться</item>
-        <item>Загрузить</item>
-        <item>Установить на звонок</item>
+        <item>Сохранить</item>
+        <item>На звонок</item>
         <item>Эквалайзер</item>
         <item>Сведения</item>
         <item>Выход</item>
