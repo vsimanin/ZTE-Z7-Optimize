@@ -230,7 +230,7 @@
     <string name="msg_traffic_warning">Предупреждение о перерасходе</string>
     <string name="msg_traffic_warning_detail">избыточный трафик</string>
     <string name="msg_traffic_notice">В этом месяце трафик мобильных данных превысил лимит. Продолжение использования может привести к излишним затратам.</string>
-	<string name="traffic_no_notice">Нет напоминаний</string>
+	<string name="traffic_no_notice">Не напоминать</string>
     <string name="traffic_speed">0B/s</string>
     <string name="traffic_mobile">Мобильные сети</string>
     <string name="maininfo_currentmode">%1$s</string>

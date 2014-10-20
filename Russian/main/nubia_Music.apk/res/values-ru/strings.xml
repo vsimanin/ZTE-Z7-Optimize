@@ -389,8 +389,8 @@
     <string name="delete_playlist_desc_new">Удалить навсегда \"%s\" ?</string>
     <string name="singleplaylist">( %s плейлист)</string>
     <string name="delete_playlist_success">Плейлист успешно удалён</string>
-    <string name="about_app">О приложении Nubia Music</string>
-    <string name="about_music">О приложении Nubia Music</string>
+    <string name="about_app">О приложении</string>
+    <string name="about_music">О приложении</string>
     <string name="account_info">Информация об аккаунте</string>
     <string name="account_register_login">Регистрация/Вход</string>
     <string name="ark_playpage_more_audio_effect">Аудио эффект</string>
