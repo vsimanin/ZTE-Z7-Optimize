@@ -4,14 +4,14 @@
     <string name="update_version_sum">Определение и обновление версии</string>
     <string name="update_version_title">Обновления программного обеспечения</string>
     <string name="update_version_message">Обнаружена новая версия, загрузить?</string>
-    <string name="update_version_yes">Обновление</string>
+    <string name="update_version_yes">Обновить</string>
     <string name="update_version_no">Обновить позже</string>
     <string name="update_version_doing">Обновить сейчас</string>
-    <string name="update_version_alreadyrefresh">У вас последняя версия!</string>
+    <string name="update_version_alreadyrefresh">Обновление не требуется</string>
     <string name="update_version_install">Файл загружен, установка обновлений</string>
     <string name="update_version_newversion">Новая версия:</string>
     <string name="update_version_nowversion">Текущая версия:</string>
-    <string name="update_version_nonet">Пожалуйста, проверьте состояние сети</string>
+    <string name="update_version_nonet">Проверьте состояние сети</string>
     <string name="update_version_net_error">Нестабильное соединение, попробуйте ещё раз</string>
     <string name="update_version_cancel">Отмена</string>
     <string name="update_version_no_storage">Нет свободного места, загрузка не удалась</string>
@@ -461,7 +461,7 @@
     <string name="update_title">Обновить</string>
     <string name="update_version_ignore">Игнорировать</string>
     <string name="user_feedback_str">Обратная связь</string>
-    <string name="version_detect">Обнаружена новая версия.</string>
+    <string name="version_detect">Проверка обновления</string>
     <string name="vip">VIP</string>
     <string name="vip_user">VIP пользователь</string>
     <string name="vip_user_des">Преимущество： 2000 песен с битрейтом 320kbps для хранения в облаке.</string>

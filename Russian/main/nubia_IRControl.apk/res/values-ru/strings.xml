@@ -2,7 +2,7 @@
 <resources>
     <string name="update_version">Обновить версию</string>
     <string name="update_version_sum">Проверить и обновить версию</string>
-    <string name="update_version_title">Обновление программного обеспечения</string>
+    <string name="update_version_title">Обновления программного обеспечения</string>
     <string name="update_version_message">Обнаружена новая версия, скачать?</string>
     <string name="update_version_yes">Обновить</string>
     <string name="update_version_no">Обновить позже</string>
@@ -15,7 +15,7 @@
     <string name="update_version_install">Файл обновления загружен. Обновления устанавливаются</string>
     <string name="update_version_newversion">Новая версия：</string>
     <string name="update_version_nowversion">Текущая версия：</string>
-    <string name="update_version_nonet">Пожалуйста, проверьте статус подключения</string>
+    <string name="update_version_nonet">Проверьте состояние сети</string>
     <string name="update_version_net_error">Время подключения истекло, пожалуйста, попробуйте ещё раз</string>
     <string name="update_version_cancel">Отмена</string>
     <string name="update_version_no_storage">Недостаточно памяти на устройстве, закачка обновления не удалась</string>
