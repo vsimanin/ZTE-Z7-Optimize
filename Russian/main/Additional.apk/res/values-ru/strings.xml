@@ -11,7 +11,7 @@
     <string name="port_title">Заводской порт</string>
     <string name="adb_title">Adb Порт</string>
     <string name="tp_ic_ver">TP_IC_VERSION:</string>
-    <string name="screen_calibration">Калибровка экрана, пожалуйста, подождите</string>
+    <string name="screen_calibration">Калибровка экрана, подождите</string>
     <string name="screen_calib_finished">Калибровка завершена</string>
     <string name="screen_calib_fail">Калибровка не удалась</string>
     <string name="screen_calib_not_required">Калибровка экрана не требуется</string>
@@ -22,8 +22,8 @@
     <string name="cal_button_title">СТАРТ</string>
     <string name="prox_calibration_title">Prox-сенсор Калибровка</string>
     <string name="prox_signal_strength">Мощность сигнала:</string>
-    <string name="prox_signal_over_high_exception">Сигнал слишком сильный! Пожалуйста, попробуйте ещё раз.</string>
-    <string name="prox_signal_over_low_exception">Сигнал слишком слабый! Пожалуйста, попробуйте ещё раз.</string>
+    <string name="prox_signal_over_high_exception">Сигнал слишком сильный! Повторите попытку.</string>
+    <string name="prox_signal_over_low_exception">Сигнал слишком слабый! Повторите попытку.</string>
     <string name="signal_percent">Сигнал Prox-сенсор, процент: %%</string>
     <string name="prox_calibrate_success">Калибровка Prox-сенсор успешно выполнена</string>
     <string name="prox_calibrate_access_exception">Драйвер не поддерживает эту функцию</string>
