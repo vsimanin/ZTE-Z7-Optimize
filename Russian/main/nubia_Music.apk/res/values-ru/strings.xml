@@ -302,7 +302,7 @@
     <string name="timeclose_closeapplication">Время закрытия</string>
     <string name="custom_path">Выберите свой путь</string>
     <string name="parent_directory">Родительский каталог</string>
-    <string name="set_tone_not_support">Не могу установить в качестве мелодии для чистой песни</string>
+    <string name="set_tone_not_support">Не могу установить в качестве мелодии для звонка</string>
     <string name="music_no_need_download">Нет необходимости загружать локальную музыку</string>
     <string name="stack_exception">Переполнение стека</string>
     <string name="adding_title">Добавление</string>
