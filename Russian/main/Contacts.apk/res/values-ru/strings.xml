@@ -1323,7 +1323,7 @@
     <string name="sms_full_title">Текст сообщения память заполнена</string>
     <string name="sms_full_body">Входящее сообщение было отклонено из-за переполнения памяти. Удалить старые сообщения.</string>
     <string name="sms_rejected_title">Текстовое сообщение отклонено</string>
-    <string name="sms_rejected_body">Входящее сообщение было отклонено из-за неизвестной причине.</string>
+    <string name="sms_rejected_body">Входящее сообщение было отклонено по неизвестной причине.</string>
     <string name="type_audio">аудио</string>
     <string name="type_picture">картинка</string>
     <string name="type_video">видео</string>
@@ -1337,9 +1337,9 @@
     <string name="rate_limit_surpassed">Подтвердить</string>
     <string name="confirm_rate_limit">Большое количество мультимедийных Сообщений, отправляемых. Это нормально?</string>
     <string name="message_download_failed_title">Сообщение не загружается</string>
-    <string name="message_send_failed_title">Сообщения не отправляются</string>
-    <string name="message_failed_body">Коснитесь, чтобы просмотреть сообщение и попробуйте снова.</string>
-    <string name="download_later">"Не могу скачать прямо сейчас. Попробуйте ещё раз позже."</string>
+    <string name="message_send_failed_title">Сообщение не отправлено</string>
+    <string name="message_failed_body">Нажмите для просмотра сообщений и повторите попытку.</string>
+    <string name="download_later">"Не могу загрузить сейчас. Повторите попытку позже."</string>
     <string name="select_audio">Выбрать аудио</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
     <string name="copy_to_sdcard_success">Вложение сохраняется.</string>
