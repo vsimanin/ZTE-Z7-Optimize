@@ -1014,7 +1014,7 @@
     <string name="select_all_mms">Выбрать все</string>
     <string name="unselect_all_mms">Отменить выбор всех</string>
     <string name="change_to_mms_for_rfid">Преобразование в мультимедийное сообщение, отправка текстового сообщения разрешена только здесь</string>
-    <string name="intelegent_label">Умный ярлык</string>
+    <string name="intelegent_label">Персональный ярлык</string>
     <string name="menu_copy_email">Копировать адрес email</string>
     <string name="menu_copy_number">Копировать номер телефона</string>
     <string name="delete_conversation_title">Удаление разговоров…</string>
