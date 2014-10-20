@@ -340,7 +340,7 @@
     <string name="can_not_seek_outbuffer">Перемотка песни вперед не может превышать буфер.</string>
     <string name="no_more_data">Нет подробностей</string>
     <string name="musicid_invild">Неверный ID музыки</string>
-    <string name="downloadpath_invild">Недопустимый путь сохаренения загруженной песни, зайдите в настройки для сброса.</string>
+    <string name="downloadpath_invild">Недопустимый путь сохранения загруженной песни, зайдите в настройки для сброса.</string>
     <string name="downloadpath_not_dir">Путь не является каталогом.</string>
     <string name="downloadpath_cannot_write">Нет доступа на запись.</string>
     <string name="filter_tip">Отфильтровано музыкальных клипов: %s</string>
