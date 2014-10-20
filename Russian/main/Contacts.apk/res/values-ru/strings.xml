@@ -997,7 +997,7 @@
     <string name="option_call">Вызов</string>
     <string name="option_send_message">Отправить сообщение</string>
     <string name="option_send_email">Отправить email</string>
-    <string name="option_browse_web_url">Обзор</string>
+    <string name="option_browse_web_url">Открыть в браузере</string>
     <string name="option_copy_text">Копировать текст</string>
     <string name="option_add_to_contacts">Добавить в список контактов</string>
     <string name="option_view_contact">Просмотр контактов</string>
