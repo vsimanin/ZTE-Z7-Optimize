@@ -2,7 +2,7 @@
 <resources>
     <string name="update_version">Обновление версии</string>
     <string name="update_version_sum">Определение и обновление версии</string>
-    <string name="update_version_title">Обновления программного обеспечения</string>
+    <string name="update_version_title">Обновление программного обеспечения</string>
     <string name="update_version_message">Обнаружена новая версия, загрузить?</string>
     <string name="update_version_yes">Обновить</string>
     <string name="update_version_no">Обновить позже</string>

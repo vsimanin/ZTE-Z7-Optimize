@@ -267,7 +267,7 @@
     <string name="shortcut_title">Очистка</string>
     <string name="update_version">Обновление версии</string>
     <string name="update_version_sum">Проверка и обновление версии</string>
-    <string name="update_version_title">Обновления программного обеспечения</string>
+    <string name="update_version_title">Обновление программного обеспечения</string>
     <string name="update_version_message">Доступна новая версия. Вы хотите установить новую версию?</string>
     <string name="update_version_yes">Обновить</string>
     <string name="update_version_no">Обновить позже</string>
