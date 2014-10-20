@@ -593,9 +593,9 @@
     <string name="ringer">"Вызовов "</string>
     <string name="ringer_time">" "</string>
     <string name="type_rejectedIncoming">Отклоненные входящие вызовы</string>
-    <string name="motion_callout_opened_msg">Перемещенные вызовы уже открыты</string>
-    <string name="motion_callout_tip_msg">Включив телефон и поднеся его к лицу, вы можете инициировать вызов.</string>
-    <string name="nolonger_prompt">Больше нет подсказок</string>
+    <string name="motion_callout_opened_msg">Набор номера датчиком движения</string>
+    <string name="motion_callout_tip_msg">Поднесите телефон к уху для автоматического начала вызова</string>
+    <string name="nolonger_prompt">Больше не показывать</string>
     <string name="confirm">OK</string>
     <string name="clearCurrentCallLogConfirmation">Все записи с этим номером будут удалены.</string>
     <string name="delete">Удалить</string>
