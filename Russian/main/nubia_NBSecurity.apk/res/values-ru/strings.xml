@@ -273,10 +273,10 @@
     <string name="privacy_document_none">Нет личнх докуметов</string>
     <string name="privacy_progress_encrypt">Шифрование...</string>
     <string name="privacy_procress_restore">Расшифровка...</string>
-    <string name="privacy_restore_notification_text">Разгрузка была установлена ​​перед последним личное пространство, частная, если вам нужно для восстановления паролей и данных?</string>
+    <string name="privacy_restore_notification_text">Ранее был установлен пароль для входа в личное пространство и зашифрованы некоторые файлы. Вам нужны эти файлы?</string>
     <string name="privacy_restore_confirm_text">Восстановить</string>
     <string name="privacy_restore_cancel_text">Удалить</string>
-    <string name="privacy_restore_notification_details">Примечание: Нажмите восстановление останется удалить перед установкой паролей и шифрования файлов, нажмите кнопку Удалить будет установлен перед выгрузкой пароль и зашифрованные файлы, удаленные.</string>
+    <string name="privacy_restore_notification_details">Примечание: Восстановление позволяет оставить заданный ранее пароль и зашифрованные файлы, а удаление позволяет сбросить пароль, но безвозвратно удалит файлы.</string>
     <string name="privacy_restore_notification_text_title">Советы</string>
     <string name="remote_guard_name">Антивор</string>
     <string name="input_telnumber">Авторизуйтесь для дистанционного управления телефоном</string>
