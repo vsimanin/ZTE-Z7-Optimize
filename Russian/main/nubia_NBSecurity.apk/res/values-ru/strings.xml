@@ -287,7 +287,7 @@
     <string name="remoteguard_openning">Открыто, пожалуйста, включите сеть и нормальный обмен текстовыми сообщениями</string>
     <string name="remoteguard_openantitheft">Включить Антивор</string>
     <string name="remoteguard_pls_input_less_than_16_password">Пароль</string>
-    <string name="remoteguard_pls_input_password_again">Введите пароль снова</string>
+    <string name="remoteguard_pls_input_password_again">Повторите ввод пароля</string>
     <string name="remoteguard_finish">Готово</string>
     <string name="remoteguard_get_it">Да</string>
     <string name="remoteguard_mobilelocation">Местоположение телефона</string>
@@ -300,11 +300,11 @@
     <string name="remoteguard_input_password_error">Пароль не верен, попробуйте ещё!</string>
     <string name="remoteguard_wizard_description">Дистанционное точное позиционирование должно стирать данные</string>
     <string name="remoteguard_wizard_description_new">Соединение тебя и меня</string>
-    <string name="remoteguard_title_of_setting_password">Послать пароль от антивора</string>
-    <string name="remoteguard_title_setup">Включаю Антивор…</string>
+    <string name="remoteguard_title_of_setting_password">Введите пароль для антивора</string>
+    <string name="remoteguard_title_setup">Настройка Антивора</string>
     <string name="remoteguard_sent_sms_to_urgent_contact_opt">Отправить ему/ей сообщение, чтобы он/она сохранили информацию от Антивора для тебя!</string>
-    <string name="remoteguard_update_urgent_contact0">Ввести номер</string>
-    <string name="remoteguardsettingguidecontent3h">Рекомендуется использовать номер вашей семьи.</string>
+    <string name="remoteguard_update_urgent_contact0">Введите номер</string>
+    <string name="remoteguardsettingguidecontent3h">Рекомендуется номер надежного человека</string>
     <string name="remoteguard_safe_pwdchange">Изменить пароль</string>
     <string name="remoteguard_settingguidecontent1c">Тревожное сообщение</string>
     <string name="remoteguard_settingguidecontent3r">Введите ваше имя</string>
