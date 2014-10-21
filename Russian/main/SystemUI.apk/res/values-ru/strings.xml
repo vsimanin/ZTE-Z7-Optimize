@@ -280,7 +280,7 @@ PTP: Режим позволяет подключить телефон, как �
     <string name="status_bar_activity_name">Строка состояния</string>
     <string name="screen_saver_title">Режим предотвращения случайных нажатий</string>
     <string name="screen_saver_message">Не накрывайте телефон!</string>
-    <string name="screen_saver_force_quite">Принудительный выход: нажмите клавишу Уменьшения громкости и кнопку Назад на экране.</string>
+    <string name="screen_saver_force_quite">Принудительный выход: нажмите кнопку Уменьшения громкости и кнопку Назад на экране.</string>
     <string name="time_am">AM</string>
     <string name="time_pm">PM</string>
     <string name="nubia_rencent_left"></string>
