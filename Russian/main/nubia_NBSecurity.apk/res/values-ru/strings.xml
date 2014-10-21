@@ -63,7 +63,7 @@
     <string name="selfstart_root_dialog_title">Root не получен!</string>
     <string name="selfstart_root_dialog_content">Функции нужен Root.</string>
     <string name="selfstart_root_dialog_cancel">Я знаю.</string>
-    <string name="selfstart_start_powerup_all_forbidden">Основной для отключения</string>
+    <string name="selfstart_start_powerup_all_forbidden">Отключить все</string>
     <string name="selfstart_start_powerup_all_start">Основной для включения</string>
     <string name="greenspace_app_name">Доступное пространство</string>
     <string name="greenspace_module_name">Освободить место</string>
