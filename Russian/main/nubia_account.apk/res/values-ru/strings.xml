@@ -71,7 +71,7 @@
     <string name="section_register_by_mobile_confirm_password_title">Подтверждение:</string>
     <string name="section_register_by_mobile_password_not_same">Пароли не идентичны</string>
     <string name="section_register_by_mobile_password_error">Требуемая длина пароля от 6 до 32 символов</string>
-    <string name="nubia_account_exist">nubia уже зарегистрирована. Если вы продолжите регистраци телефон выйдет из текущей учетной записи.</string>
+    <string name="nubia_account_exist">Аккаунт nubia уже добавлен. Если вы продолжите, то текущий аккаунт будет заменен.</string>
     <string name="section_login_authenticating">Подключение к серверу…</string>
     <string name="section_login_loginfail_text_both">Недействительные имя пользователя или пароль, попробуйте позднее.</string>
     <string name="section_login_loginfail_text_pwonly">Недействительный пароль, попробуйте снова.</string>
