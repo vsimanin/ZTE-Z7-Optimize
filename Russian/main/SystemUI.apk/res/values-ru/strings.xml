@@ -211,7 +211,7 @@
     <string name="motion">Движение</string>
     <string name="ringer">Звонок</string>
     <string name="vibrate">Вибрация</string>
-    <string name="mute">Без звука</string>
+    <string name="mute">Тихо</string>
     <string name="airplane">В самолёте</string>
     <string name="saving">Питание</string>
     <string name="pocket">Карман</string>
@@ -280,7 +280,7 @@ PTP: Режим позволяет подключить телефон, как �
     <string name="status_bar_activity_name">Строка состояния</string>
     <string name="screen_saver_title">Режим предотвращения случайных нажатий</string>
     <string name="screen_saver_message">Не накрывайте телефон!</string>
-    <string name="screen_saver_force_quite">Принудительный выход: нажмите вместе Громкость минус и Назад</string>
+    <string name="screen_saver_force_quite">Принудительный выход: нажмите клавишу Уменьшения громкости и кнопку Назад на экране.</string>
     <string name="time_am">AM</string>
     <string name="time_pm">PM</string>
     <string name="nubia_rencent_left"></string>
