@@ -2,24 +2,24 @@
 <resources>
     <string name="common_label_ok">Да</string>
     <string name="common_label_cancle">Отмена</string>
-    <string name="common_input_pattern">Пожалуйста, нарисуйте новую комбинацию разблокировки</string>
-    <string name="common_pattern_cell_added">Сотовый добавлен</string>
+    <string name="common_input_pattern">Нарисуйте новую комбинацию разблокировки</string>
+    <string name="common_pattern_cell_added">Номер добавлен</string>
     <string name="common_pattern_start">Ввод графического ключа</string>
     <string name="common_pattern_detected">Графический ключ установлен</string>
     <string name="common_pattern_cleared">Графический ключ стерт</string>
     <string name="common_pattern_recognized">Графический ключ распознан</string>
-    <string name="common_pattern_recognized_once">Графический ключ распознан, пожалуйста, перерисуйте для подтверждения</string>
-    <string name="common_pattern_too_simple">Слишком простой, перерисуйте ещё раз!</string>
+    <string name="common_pattern_recognized_once">Графический ключ распознан, повторите для подтверждения</string>
+    <string name="common_pattern_too_simple">Слишком простой, нарисуйте ещё раз!</string>
     <string name="common_pattern_confirm">Да</string>
     <string name="common_pattern_cancel">Отмена</string>
-    <string name="common_pattern_inputold">Пожалуйста, нарисуйте старую комбинацию разблокировки</string>
-    <string name="common_pattern_inputoldagain">Неверный пароль, пожалуйста, нарисуйте старую комбинацию разблокировки</string>
+    <string name="common_pattern_inputold">Нарисуйте текущий ключ разблокировки</string>
+    <string name="common_pattern_inputoldagain">Неверный ключ, нарисуйте текущий ключ разблокировки</string>
     <string name="common_pattern_clearconfirm">Подтвердите очистку комбинации разблокировки</string>
     <string name="common_pattern_verified">Правильный пароль</string>
-    <string name="common_pattern_inputunlock">Пожалуйста, нарисуйте комбинацию разблокировки</string>
+    <string name="common_pattern_inputunlock">Нарисуйте текущий ключ разблокировки</string>
     <string name="common_pattern_unlockfail">Сбой разблокировки, попробуйте ещё раз.</string>
-    <string name="common_pattern_title_headline">Пожалуйста, выберите вашу комбинацию</string>
-    <string name="common_pattern_redraw_failure">Ошибка подтверждения комбинации, пожалуйста, попробуйте ещё раз</string>
+    <string name="common_pattern_title_headline">Выберите ваш графический ключ</string>
+    <string name="common_pattern_redraw_failure">Ошибка подтверждения ключа, повторите попытку</string>
     <string name="common_button_next">Далее</string>
     <string name="common_button_done">Готово</string>
     <string name="common_pattern_new_repaint">Перерисуйте</string>
@@ -30,7 +30,7 @@
     <string name="app_name">Безопасность</string>
     <string name="action_settings">Настройки</string>
     <string name="hello_world">Привет Мир!</string>
-	<string name="setup_wizard_finish">Начать испытывать</string>
+	<string name="setup_wizard_finish">Приступить к работе</string>
     <string name="setup_wizard_prefix">Я принимаю</string>
     <string name="setup_wizard_nubia_agreement_title">" "<a href="http://app.nubia.cn/agreement/nubia_securit_agreement.html"> Соглашение об оказании услуг Пользователю </a>" "</string>
 	<string name="setup_wizard_app_name">Безопасность</string>
@@ -270,7 +270,7 @@
     <string name="privacy_photo_none">Нет личных фото</string>
     <string name="privacy_vido_none">Нет личных видео</string>
     <string name="privacy_audio_none">Нет личных аудио</string>
-    <string name="privacy_document_none">Нет личнх докуметов</string>
+    <string name="privacy_document_none">Нет личных докуметов</string>
     <string name="privacy_progress_encrypt">Шифрование...</string>
     <string name="privacy_procress_restore">Расшифровка...</string>
     <string name="privacy_restore_notification_text">Ранее был установлен пароль для входа в личное пространство и зашифрованы некоторые файлы. Вам нужны эти файлы?</string>
@@ -284,7 +284,7 @@
     <string name="phone_lock">Заблокировать</string>
     <string name="remoteguard_return_to_niudun">Безопасность</string>
     <string name="remoteguard_immediateopen">Включить</string>
-    <string name="remoteguard_openning">Открыто, пожалуйста, включите сеть и нормальный обмен текстовыми сообщениями</string>
+    <string name="remoteguard_openning">Открыто, включите сеть и нормальный обмен текстовыми сообщениями</string>
     <string name="remoteguard_openantitheft">Включить Антивор</string>
     <string name="remoteguard_pls_input_less_than_16_password">Пароль</string>
     <string name="remoteguard_pls_input_password_again">Повторите ввод пароля</string>
