@@ -227,7 +227,7 @@
     <string name="slideshow_effect_stack">Стек</string>
     <string name="slideshow_effect_turn">Поворот</string>
     <string name="gif">Gif</string>
-    <string name="encrypt">Личное</string>
+    <string name="encrypt">Добавить в личное</string>
     <string name="cut_to_target_folder">Переместить в конечную папку</string>
     <string name="create_new_folder">Новая папка</string>
     <string name="new_folder_name">Имя папки</string>
