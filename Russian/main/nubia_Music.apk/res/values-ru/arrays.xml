@@ -22,7 +22,7 @@
         <item>12 недель</item>
     </string-array>
     <string-array name="download_quality_array">
-        <item>Супер качество</item>
+        <item>Отличное качество</item>
         <item>Стандартное качество</item>
     </string-array>
     <string-array name="playlist_operation">
@@ -45,22 +45,22 @@
     </string-array>
     <string-array name="ark_playpage_more">
         <item>Поделиться</item>
-        <item>Загрузить</item>
-        <item>Установить как мелодию звонка</item>
+        <item>Сохранить</item>
+        <item>На звонок</item>
         <item>Удалить</item>
-        <item>Улучшить тон</item>
-        <item>Информацию о композиции</item>
-        <item>Выйти</item>
+        <item>Эквалайзер</item>
+        <item>Сведения</item>
+        <item>Выход</item>
     </string-array>
     <string-array name="ark_playpage_more_online">
         <item>Поделиться</item>
-        <item>Загрузить</item>
-        <item>Установить как мелодию звонка</item>
-        <item>Улучшить тон</item>
-        <item>Информацию о композиции</item>
-        <item>Выйти</item>
+        <item>Сохранить</item>
+        <item>На звонок</item>
+        <item>Эквалайзер</item>
+        <item>Сведения</item>
+        <item>Выход</item>
     </string-array>
     <string-array name="ark_playpage_more_radio">
-        <item>Выйти</item>
+        <item>Выход</item>
     </string-array>
 </resources>

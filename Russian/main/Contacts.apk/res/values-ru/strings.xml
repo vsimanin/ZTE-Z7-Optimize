@@ -311,7 +311,7 @@
     <string name="eventLabelsGroup">Мероприятия</string>
     <string name="relationLabelsGroup">Отношения</string>
     <string name="groupsLabel">Группы</string>
-    <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
+    <string name="dialog_new_contact_account">Экспорт контактов</string>
     <string name="dialog_new_group_account">Создание группы в аккаунте</string>
     <string name="menu_sync_remove">Удалить группу синхронизации</string>
     <string name="dialog_sync_add">Добавить группу синхронизации</string>
@@ -593,9 +593,9 @@
     <string name="ringer">"Вызовов "</string>
     <string name="ringer_time">" "</string>
     <string name="type_rejectedIncoming">Отклоненные входящие вызовы</string>
-    <string name="motion_callout_opened_msg">Перемещенные вызовы уже открыты</string>
-    <string name="motion_callout_tip_msg">Включив телефон и поднеся его к лицу, вы можете инициировать вызов.</string>
-    <string name="nolonger_prompt">Больше нет подсказок</string>
+    <string name="motion_callout_opened_msg">Набор номера с помощью датчика приближения</string>
+    <string name="motion_callout_tip_msg">Поднесите телефон к уху для автоматического начала вызова</string>
+    <string name="nolonger_prompt">Больше не показывать</string>
     <string name="confirm">OK</string>
     <string name="clearCurrentCallLogConfirmation">Все записи с этим номером будут удалены.</string>
     <string name="delete">Удалить</string>
@@ -694,7 +694,7 @@
     <string name="default_save_to">Сохранить по умолчанию в</string>
     <string name="prompt">Подсказки</string>
     <string name="prompt_hint">Выбрать хранилище при создании нового контакта</string>
-    <string name="only_save_phone">Сохранять в телефоне</string>
+    <string name="only_save_phone">В память телефона</string>
     <string name="warnning_title">Внимание</string>
     <string name="warnning_msg">Это действие приведет к потере части данных, вы действительно хотите продолжить?</string>
     <string name="title_addgroupmembership">Добавить контакт в группу</string>
@@ -743,11 +743,11 @@
     <string name="merge_success">%d контактов объединено.</string>
     <string name="merge_fail">Ошибка объединения.</string>
     <string name="merge_rules_show_title">Внимание</string>
-    <string name="merge_rules_show">"1.Полная копия контакта имеет общее имя и номер мобельного.
+    <string name="merge_rules_show">"1. Полная копия контакта имеет одинаковое имя и номер телефона.
 
-2.Частичная копия контакта имеет общее имя, но разные номера телефонов.
+2. Частичная копия контакта имеет одинаковое имя, но разные номера телефонов.
 
-3.Оригинал контакта будет удален сразу после объединения.
+3. Оригинал контакта будет удален сразу после объединения.
 "</string>
     <string name="device_id">ID устройства</string>
     <string name="empty_email">Нет адреса email</string>
@@ -827,17 +827,17 @@
     <string name="menu_starred">Избранные</string>
     <string name="empty_phone">Нет телефонного номера</string>
     <string name="recognizing_card">Чтение визитной карточки...</string>
-    <string name="ContactSettingsActivity.import_from_phone_card1">Импорт из телефона на SIM-карту 1</string>
-    <string name="ContactSettingsActivity.import_from_phone_card2">Импорт из телефона на SIM-карту 2</string>
-    <string name="ContactSettingsActivity.export_to_phone_card1">Экспорт в телефон с SIM-карты 1</string>
-    <string name="ContactSettingsActivity.export_to_phone_card2">Экспорт в телефон с SIM-карты 2</string>
+    <string name="ContactSettingsActivity.import_from_phone_card1">Импорт контактов с SIM-карты 1</string>
+    <string name="ContactSettingsActivity.import_from_phone_card2">Импорт контактов с SIM-карты 2</string>
+    <string name="ContactSettingsActivity.export_to_phone_card1">Экспорт контактов на SIM-карту 1</string>
+    <string name="ContactSettingsActivity.export_to_phone_card2">Экспорт контактов на SIM-карту 2</string>
     <string name="card_insert_dialog_import">Импорт</string>
     <string name="dialpadHintText">Введите номер</string>
     <string name="showDialpadHintText">Нажмите для отображения цифровой клавиатуры</string>
     <string name="ContactNoSupport">Неподдерживаемый тип файла</string>
     <string name="delete_group_alert_message">Группа будет удалена, но контакты из группы удалены не будут. Продолжить?</string>
     <string name="savePhoneNumberDialogTitle">Сохранить номер</string>
-    <string name="saveToExistContact">Добавить к существующему контакту</string>
+    <string name="saveToExistContact">Добавить к контакту</string>
     <string name="ContactDetailFragment.Copy_Number">Копировать номер</string>
     <string name="ContactDetailFragment.Call_Before_Edit">Изменить номер перед вызовом</string>
     <string name="ContactDetailFragment.Please_edit_number">Отредактируйте номер</string>
@@ -979,9 +979,9 @@
     <string name="menu_save_attachment">Сохранить вложение</string>
     <string name="menu_view_details">Посмотреть детали</string>
     <string name="option_insert_smiley">Смайлик</string>
-    <string name="option_add_image">Изображения</string>
-    <string name="option_take_picture">Вставить изображение</string>
-    <string name="option_record_video">Вставить видео</string>
+    <string name="option_add_image">Фото</string>
+    <string name="option_take_picture">Сделать фото</string>
+    <string name="option_record_video">Записать видео</string>
     <string name="option_add_video">Видео</string>
     <string name="option_record_sound">Записать аудио</string>
     <string name="option_insert_phrase">Фраза</string>
@@ -997,7 +997,7 @@
     <string name="option_call">Вызов</string>
     <string name="option_send_message">Отправить сообщение</string>
     <string name="option_send_email">Отправить email</string>
-    <string name="option_browse_web_url">Обзор</string>
+    <string name="option_browse_web_url">Открыть в браузере</string>
     <string name="option_copy_text">Копировать текст</string>
     <string name="option_add_to_contacts">Добавить в список контактов</string>
     <string name="option_view_contact">Просмотр контактов</string>
@@ -1014,7 +1014,7 @@
     <string name="select_all_mms">Выбрать все</string>
     <string name="unselect_all_mms">Отменить выбор всех</string>
     <string name="change_to_mms_for_rfid">Преобразование в мультимедийное сообщение, отправка текстового сообщения разрешена только здесь</string>
-    <string name="intelegent_label">Умный ярлык</string>
+    <string name="intelegent_label">Персональный ярлык</string>
     <string name="menu_copy_email">Копировать адрес email</string>
     <string name="menu_copy_number">Копировать номер телефона</string>
     <string name="delete_conversation_title">Удаление разговоров…</string>
@@ -1323,7 +1323,7 @@
     <string name="sms_full_title">Текст сообщения память заполнена</string>
     <string name="sms_full_body">Входящее сообщение было отклонено из-за переполнения памяти. Удалить старые сообщения.</string>
     <string name="sms_rejected_title">Текстовое сообщение отклонено</string>
-    <string name="sms_rejected_body">Входящее сообщение было отклонено из-за неизвестной причине.</string>
+    <string name="sms_rejected_body">Входящее сообщение было отклонено по неизвестной причине.</string>
     <string name="type_audio">аудио</string>
     <string name="type_picture">картинка</string>
     <string name="type_video">видео</string>
@@ -1337,9 +1337,9 @@
     <string name="rate_limit_surpassed">Подтвердить</string>
     <string name="confirm_rate_limit">Большое количество мультимедийных Сообщений, отправляемых. Это нормально?</string>
     <string name="message_download_failed_title">Сообщение не загружается</string>
-    <string name="message_send_failed_title">Сообщения не отправляются</string>
-    <string name="message_failed_body">Коснитесь, чтобы просмотреть сообщение и попробуйте снова.</string>
-    <string name="download_later">"Не могу скачать прямо сейчас. Попробуйте ещё раз позже."</string>
+    <string name="message_send_failed_title">Сообщение не отправлено</string>
+    <string name="message_failed_body">Нажмите для просмотра сообщений и повторите попытку.</string>
+    <string name="download_later">"Не могу загрузить сейчас. Повторите попытку позже."</string>
     <string name="select_audio">Выбрать аудио</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
     <string name="copy_to_sdcard_success">Вложение сохраняется.</string>
@@ -1455,15 +1455,15 @@
 	<string name="select_photo_package">Выберите фотопакет</string>
 	<string name="cattle_photo">Быки/Коровы</string>
     <string name="diy_photo">Коллаж</string>
-    <string name="setting_all_photo">Импорт забавных фото</string>
-    <string name="delete_all_photo">Очистить забавные фото</string>
+    <string name="setting_all_photo">Импорт фото контактов</string>
+    <string name="delete_all_photo">Очистить фото контактов</string>
     <string name="select_photo_for_diy">Выберите 10 снимков</string>
 	<string name="select_photo">Выберите снимки</string>
-    <string name="menu_photo_display_setting">Настройка забавных фото</string>
+    <string name="menu_photo_display_setting">Настройка фото контактов</string>
     <string name="import_is_working">Импортирую</string>
     <string name="clear_is_working">Очищаю</string>
     <string name="view_photo">Смотреть фото</string>
-    <string name="pick_fun_photo">Выбор забавных фото</string>
+    <string name="pick_fun_photo">Выбор фото контактов</string>
     <string name="clear_susses">Очищено</string>
     <string name="import_susses">Импортировано</string>
     <string name="diy_susses">Успешно</string>
@@ -1474,7 +1474,7 @@
     <string name="cattle_04">Артурчик</string>
     <string name="cattle_05">Красотка</string>
     <string name="cattle_06">Бяка</string>
-    <string name="default_contact_card_setting">Выбор контактов для SIM-карты</string>
+    <string name="default_contact_card_setting">Выбор SIM-карты для контактов</string>
     <string name="continue_merge_part_contacts">Объединить контакты</string>
     <string name="no_merge_contacts_for_all">"Нет полностью повторяющихся контактов. 
 	Нажмите на кнопку для объединения не полностью дублирующихся контактов.</string>
@@ -1483,7 +1483,7 @@
     <string name="import_to_merge_hint">Слияние контактов</string>
     <string name="import_to_merge_title">Слияние контактов</string>
     <string name="import_to_merge_text">Нажмите для начала слияния контактов</string>
-    <string name="reboot_will_reset">, после перезагрузка будет сброшено</string>
+    <string name="reboot_will_reset">После перезагрузки будет сброшено</string>
     <string name="choose_phone_number">Выберите телефонный номер</string>
     <string name="remember_choice">Запомнить выбор</string>
     <string name="low_memory">Память телефона заполнена. Удалите ненужные файлы для освобождения места.</string>

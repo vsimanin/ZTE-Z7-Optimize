@@ -284,7 +284,7 @@
     <string name="weekend_work_text">Рабочий</string>
     <string name="nubia_res_capital_on">ВКЛ</string>
     <string name="nubia_res_capital_off">ВЫКЛ</string>
-    <string name="event_info_reminders_label_no">Нет напоминаний</string>
+    <string name="event_info_reminders_label_no">Не напоминать</string>
     <string name="independenceday">День независимости</string>
     <string name="laborday">День трудящихся</string>
     <string name="memorialday">День памяти</string>

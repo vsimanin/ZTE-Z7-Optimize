@@ -2,16 +2,16 @@
 <resources>
     <string name="update_version">Обновление версии</string>
     <string name="update_version_sum">Определение и обновление версии</string>
-    <string name="update_version_title">Обновления программного обеспечения</string>
+    <string name="update_version_title">Обновление программного обеспечения</string>
     <string name="update_version_message">Обнаружена новая версия, загрузить?</string>
-    <string name="update_version_yes">Обновление</string>
+    <string name="update_version_yes">Обновить</string>
     <string name="update_version_no">Обновить позже</string>
     <string name="update_version_doing">Обновить сейчас</string>
-    <string name="update_version_alreadyrefresh">У вас последняя версия!</string>
+    <string name="update_version_alreadyrefresh">Обновление не требуется</string>
     <string name="update_version_install">Файл загружен, установка обновлений</string>
     <string name="update_version_newversion">Новая версия:</string>
     <string name="update_version_nowversion">Текущая версия:</string>
-    <string name="update_version_nonet">Пожалуйста, проверьте состояние сети</string>
+    <string name="update_version_nonet">Проверьте состояние сети</string>
     <string name="update_version_net_error">Нестабильное соединение, попробуйте ещё раз</string>
     <string name="update_version_cancel">Отмена</string>
     <string name="update_version_no_storage">Нет свободного места, загрузка не удалась</string>
@@ -302,7 +302,7 @@
     <string name="timeclose_closeapplication">Время закрытия</string>
     <string name="custom_path">Выберите свой путь</string>
     <string name="parent_directory">Родительский каталог</string>
-    <string name="set_tone_not_support">Не могу установить в качестве мелодии для чистой песни</string>
+    <string name="set_tone_not_support">Не могу установить в качестве мелодии для звонка</string>
     <string name="music_no_need_download">Нет необходимости загружать локальную музыку</string>
     <string name="stack_exception">Переполнение стека</string>
     <string name="adding_title">Добавление</string>
@@ -340,7 +340,7 @@
     <string name="can_not_seek_outbuffer">Перемотка песни вперед не может превышать буфер.</string>
     <string name="no_more_data">Нет подробностей</string>
     <string name="musicid_invild">Неверный ID музыки</string>
-    <string name="downloadpath_invild">Недопустимый путь сохаренения загруженной песни, зайдите в настройки для сброса.</string>
+    <string name="downloadpath_invild">Недопустимый путь сохранения, зайдите в настройки для сброса.</string>
     <string name="downloadpath_not_dir">Путь не является каталогом.</string>
     <string name="downloadpath_cannot_write">Нет доступа на запись.</string>
     <string name="filter_tip">Отфильтровано музыкальных клипов: %s</string>
@@ -389,8 +389,8 @@
     <string name="delete_playlist_desc_new">Удалить навсегда \"%s\" ?</string>
     <string name="singleplaylist">( %s плейлист)</string>
     <string name="delete_playlist_success">Плейлист успешно удалён</string>
-    <string name="about_app">О приложении Nubia Music</string>
-    <string name="about_music">О приложении Nubia Music</string>
+    <string name="about_app">О приложении</string>
+    <string name="about_music">О приложении</string>
     <string name="account_info">Информация об аккаунте</string>
     <string name="account_register_login">Регистрация/Вход</string>
     <string name="ark_playpage_more_audio_effect">Аудио эффект</string>
@@ -461,7 +461,7 @@
     <string name="update_title">Обновить</string>
     <string name="update_version_ignore">Игнорировать</string>
     <string name="user_feedback_str">Обратная связь</string>
-    <string name="version_detect">Обнаружена новая версия.</string>
+    <string name="version_detect">Проверка обновления</string>
     <string name="vip">VIP</string>
     <string name="vip_user">VIP пользователь</string>
     <string name="vip_user_des">Преимущество： 2000 песен с битрейтом 320kbps для хранения в облаке.</string>

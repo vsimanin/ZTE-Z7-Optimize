@@ -15,7 +15,7 @@
     <string name="update_version_install">Файл обновления загружен. Обновления устанавливаются</string>
     <string name="update_version_newversion">Новая версия：</string>
     <string name="update_version_nowversion">Текущая версия：</string>
-    <string name="update_version_nonet">Пожалуйста, проверьте статус подключения</string>
+    <string name="update_version_nonet">Проверьте состояние сети</string>
     <string name="update_version_net_error">Время подключения истекло, пожалуйста, попробуйте ещё раз</string>
     <string name="update_version_cancel">Отмена</string>
     <string name="update_version_no_storage">Недостаточно памяти на устройстве, закачка обновления не удалась</string>
@@ -26,7 +26,7 @@
     <string name="appnavigation_helptitle">Пропустить "Помощь"?</string>
     <string name="appnavigation_helpmessage">Выберите \"Помощь\" для того, чтобы увидеть её ещё раз</string>
     <string name="appnavigation_cancel">Отмена</string>
-	<string name="input">Введите ваш адрес и текст сообщения</string>
+    <string name="input">INPUT</string>
     <string name="content">Введите содержание</string>
     <string name="email">Введите ваш email</string>
     <string name="send">Послать</string>

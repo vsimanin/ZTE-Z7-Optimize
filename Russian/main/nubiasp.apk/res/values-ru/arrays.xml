@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="minbatArray">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+    </string-array>
+    <string-array name="minbatValues">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="lockArray">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+    </string-array>
+    <string-array name="lockValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="lockBelowAngleArray">
+        <item>60 градусов</item>
+        <item>40 градусов</item>
+        <item>20 градусов</item>
+        <item>5 градусов</item>
+        <item>-5 градусов</item>
+    </string-array>
+    <string-array name="lockangleValues">
+        <item>60</item>
+        <item>40</item>
+        <item>20</item>
+        <item>5</item>
+        <item>-5</item>
+    </string-array>
+    <string-array name="incallArray">
+        <item>Никогда</item>
+        <item>Только с гарнитурой</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="incallValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="vibrlenArray">
+        <item>50 миллисекунд</item>
+        <item>100 миллисекунд</item>
+        <item>200 миллисекунд</item>
+        <item>300 миллисекунд</item>
+        <item>400 миллисекунд</item>
+    </string-array>
+    <string-array name="vibrlenValues">
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="snoozeArray">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+    </string-array>
+    <string-array name="snoozeValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="stopArray">
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>Не приостанавливать</item>
+    </string-array>
+    <string-array name="stopValues">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wakeArray">
+        <item>3 секунды</item>
+        <item>5 секунд</item>
+        <item>7 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>20 секунд</item>
+        <item>30 секунд</item>
+    </string-array>
+    <string-array name="wakeValues">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="notifyArray">
+        <item>Настройки ScreenWakeUp</item>
+        <item>Заблокировать</item>
+        <item>Временно отложить блокировку</item>
+    </string-array>
+    <string-array name="notifyValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

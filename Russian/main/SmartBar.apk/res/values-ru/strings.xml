@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Smart Bar</string>
-    <string name="msg_up">Выше приложение выполняется</string>
-    <string name="msg_down">Ниже приложение выполняется</string>
-    <string name="toast_msg">Последнее мероприятие, пропустить ещё в многооконном режиме</string>
+    <string name="msg_up">Верхнее приложение выполняется</string>
+    <string name="msg_down">Нижнее приложение выполняется</string>
+    <string name="toast_msg">Последнее действие, пропустить ещё в многооконном режиме</string>
     <string name="multiwindow_deny_msg">Запущеное приложение не поддерживает многооконность</string>
     <string name="camera_using_msg">Приложение не поддерживает разделение экрана</string>
-    <string name="home_double_msg">Нажмите Домой, что бы вернуться в Лаунчер</string>
+    <string name="home_double_msg">Нажмите Домой, чтобы вернуться на рабочий стол</string>
     <string name="force_close">OK</string>
     <string name="process_violation_title">Уведомление</string>
     <string name="process_violation_long_desc">Приложение %1$s запущено на другом экране</string>
     <string name="process_violation_desc">Приложение %1$s запущено</string>
     <string name="activity_violation_title">Уведомление</string>
     <string name="activity_violation_desc">Приложение %1$s уже запущено</string>
-    <string name="activity_violation_toast_desc">Приложение %1$s не приостановлено​​. Пожалуйста, попробуйте позже.</string>
-    <string name="swipe_hint">Потяните чтобы разделить экран</string>
+    <string name="activity_violation_toast_desc">Приложение %1$s не приостановлено​​. Попробуйте позже.</string>
+    <string name="swipe_hint">Потяните, чтобы разделить экран.</string>
 </resources>
