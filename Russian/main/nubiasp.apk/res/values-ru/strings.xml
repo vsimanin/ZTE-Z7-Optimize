@@ -37,7 +37,7 @@
     <string name="landscape_title">Блокировка в горизонтальном положении</string>
     <string name="landscape_summary">"Может доставлять неудобства, если вы держите телефон обеими руками"</string>
     <string name="lockbelow_title">Блокировка по углу наклона</string>
-    <string name="lockbelow_summary">Для определения угла наклона необходим датчик движения. Увеличивает потребление электроэнергии</string>
+    <string name="lockbelow_summary">Для определения угла наклона необходим датчик ориентации. Увеличивает потребление электроэнергии</string>
     <string name="motionpower">" (потребляемая энергия: %3.3fmA во время использования)"</string>
     <string name="lockangle_title">Угол наклона</string>
     <string name="lockangle_summary">Блокировать только при наклоне ниже указанного угла наклона</string>
