@@ -30,7 +30,7 @@
     <string name="file_info_ishidden">Скрыто:</string>
     <string name="file_info_location">Путь к файлу:</string>
     <string name="folder_info_location">Путь к папке:</string>
-    <string name="file_info_modified">Изменено:</string>
+    <string name="file_info_modified">Дата изменения:</string>
     <string name="folder_info_size">Размер папки:</string>
     <string name="file_info_size">Размер файла:</string>
     <string name="file_size">%d Байт</string>
@@ -199,12 +199,12 @@
     <string name="view_on_file_path">Память телефона</string>
     <string name="sd_not_plug_in">Не подключена</string>
     <string name="usb_not_plug_in">Не подключено</string>
-    <string name="otg_tip">OTG кабель передачи данных для подключения вашего телефона к внешней памяти (например, USB диску) позволяет использовать мобильный телефон для чтения файлов.</string>
-    <string name="otg_data_cable">Что такое OTG кабель для передачи данных?</string>
+    <string name="otg_tip">С помощью OTG-кабеля к телефону можно подключать внешние накопители с интерфейсом USB.</string>
+    <string name="otg_data_cable">Для чего нужен OTG-кабель?</string>
     <string name="privacy_space">Личное пространство</string>
     <string name="search_tip">Поиск файла</string>
     <string name="menu_more">Дополнительные операции</string>
-    <string name="not_found_result">Результаты не найдены</string>
+    <string name="not_found_result">Файлы не найдены</string>
     <string name="information_separate">/</string>
     <string name="usb_plug_in">Подключен</string>
     <string name="not_support_privacy_space">Личное пространство не поддерживается</string>
@@ -213,7 +213,7 @@
     <string name="fail_to_create_folder_no_space">Невозможно создать папку, так как одноименная папка уже существует или не хватает места в памяти</string>
     <string name="failed_paste">Ошибка вставки</string>
     <string name="illegal_paste">Невозможно вставить файл в исходную папку</string>
-    <string name="loading_tip">загрузка... пожалуйста подождите</string>
+    <string name="loading_tip">Загрузка, подождите...</string>
     <string name="menu_refresh">Обновить</string>
     <string name="mhl_name">MHL хранилище</string>
     <string name="mhl_not_available">MHL хранилище не доступно</string>
