@@ -2692,9 +2692,9 @@ It не стирать :
     <string name="dynamic_wallpaper_inter_title">Взаимодействие с анимированными обоями</string>
     <string name="dynamic_wallpaper_inter_summary">Махните рукой для взаимодействия с обоями экрана блокировки</string>
     <string name="sensory_dial_title">Вызов при приближении</string>
-    <string name="sensory_dial_summary">Поднесите телефон к уху для автодозвона контакту</string>
+    <string name="sensory_dial_summary">Поднесите телефон к уху для вызова абонента</string>
     <string name="sensory_answer_title">Ответ при приближении</string>
-    <string name="sensory_answer_summary">Поднесите телефон к уху для автоответа на вызов</string>
+    <string name="sensory_answer_summary">Поднесите телефон к уху для ответа на звонок</string>
     <string name="turn_over_slient_or_pause_title">Переверните для отключения / паузы</string>
     <string name="turn_over_slient_or_pause_summary">Переверните для отключения звонка / паузы медиаплеера</string>
     <string name="left_right_shake_title">Встряхните для смены песни</string>
