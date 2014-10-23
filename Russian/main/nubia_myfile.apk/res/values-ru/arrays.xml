@@ -30,7 +30,7 @@
         <item>Обои</item>
     </string-array>
     <string-array name="music_set_as">
-        <item>Рингтон телефона</item>
+        <item>Звонок телефона</item>
         <item>Сигнал уведомления</item>
     </string-array>
 </resources>
