@@ -861,7 +861,7 @@
     <string name="menu_timeSequnce">Вначале недавние</string>
     <string name="menu_timeClear">Сбросить время последнего вызова</string>
     <string name="noTimes">Нет информации по контактам</string>
-    <string name="noTimesSec">Данные о дате звонков отсутствуют</string>
+    <string name="noTimesSec">История общения с контактами отсутствует</string>
     <string name="recent_time">Недавно</string>
     <string name="week_time">Неделю назад</string>
     <string name="one_month_time">Месяц назад</string>
