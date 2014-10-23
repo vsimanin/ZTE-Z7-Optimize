@@ -129,8 +129,8 @@
     <string name="set_as_wallpaper_failed">Не удалось установить как обои!</string>
     <string name="set_as_wallpaper_success">Успешно установлено как обои!</string>
     <string name="pictrue_is_too_large">Изображение слишком большое, требуется менее 5М!</string>
-    <string name="ringtone_set_failed">Не удалось установить рингтон</string>
-    <string name="ringtone_set_success">Рингтон успешно установлен</string>
+    <string name="ringtone_set_failed">Не удалось установить на звонок</string>
+    <string name="ringtone_set_success">Звонок успешно установлен</string>
     <string name="file_info_type">Тип файла:</string>
     <string name="file_info_density">Плотность:</string>
     <string name="file_info_duration">Продолжительность:</string>
