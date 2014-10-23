@@ -2668,7 +2668,7 @@ It не стирать :
     <string name="touch_gesture_title">Экранные жесты</string>
     <string name="touch_gesture_summary">Быстрое управление с помощью экранных жестов</string>
     <string name="volley_gesture_title">Бесконтактные жесты</string>
-    <string name="volley_gesture_summary">Управление устройством движениями над экраном</string>
+    <string name="volley_gesture_summary">Управление устройством при движениях над экраном</string>
     <string name="smart_sensory_title">Датчики положения</string>
     <string name="smart_sensory_summary">Управление с помощью датчиков движения и ориентации</string>
     <string name="double_click_title">Двойной клик для включения</string>
@@ -2691,10 +2691,10 @@ It не стирать :
     <string name="forward_or_back_summary">Махните рукой для ускоренной перемотки вперед/назад</string>
     <string name="dynamic_wallpaper_inter_title">Взаимодействие с анимированными обоями</string>
     <string name="dynamic_wallpaper_inter_summary">Махните рукой для взаимодействия с обоями экрана блокировки</string>
-    <string name="sensory_dial_title">Набор датчиком движения</string>
-    <string name="sensory_dial_summary">Поднесите телефон к уху для автодозвона контакту</string>
-    <string name="sensory_answer_title">Ответ датчиком движения</string>
-    <string name="sensory_answer_summary">Поднесите телефон к уху для автоответа на вызов</string>
+    <string name="sensory_dial_title">Вызов при приближении</string>
+    <string name="sensory_dial_summary">Поднесите телефон к уху для вызова абонента</string>
+    <string name="sensory_answer_title">Ответ при приближении</string>
+    <string name="sensory_answer_summary">Поднесите телефон к уху для ответа на звонок</string>
     <string name="turn_over_slient_or_pause_title">Переверните для отключения / паузы</string>
     <string name="turn_over_slient_or_pause_summary">Переверните для отключения звонка / паузы медиаплеера</string>
     <string name="left_right_shake_title">Встряхните для смены песни</string>
