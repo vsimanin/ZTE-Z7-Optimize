@@ -208,7 +208,7 @@
     <string name="msg_stationstored">Канал был добавлен в список</string>
     <string name="status_bar_title">FM радио</string>
     <string name="sleeptimer_expired">Время автоматического отключения радио</string>
-    <string name="fm_starting_service">FM радио запускается, подождите</string>
+    <string name="fm_starting_service">FM-радио запускается, подождите</string>
     <string name="fm_station_remove">Удаление станции</string>
     <string name="fm_remove_msg">Удалить текущую станцию из списка станций?</string>
     <string name="has_choose_station">Выбрать станцию %s</string>
