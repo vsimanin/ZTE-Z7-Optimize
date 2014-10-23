@@ -593,7 +593,7 @@
     <string name="ringer">"Вызовов "</string>
     <string name="ringer_time">" "</string>
     <string name="type_rejectedIncoming">Отклоненные входящие вызовы</string>
-    <string name="motion_callout_opened_msg">Набор номера датчиком движения</string>
+    <string name="motion_callout_opened_msg">Набор номера с помощью датчика приближения</string>
     <string name="motion_callout_tip_msg">Поднесите телефон к уху для автоматического начала вызова</string>
     <string name="nolonger_prompt">Больше не показывать</string>
     <string name="confirm">OK</string>
