@@ -171,7 +171,7 @@
     <string name="menu_worldtime">Мировое время</string>
     <string name="action_bar_alarm">Будильник</string>
     <string name="action_bar_worldtime">Мировое время</string>
-    <string name="action_bar_stopwatch">Секундо-  мер</string>
+    <string name="action_bar_stopwatch">Секундомер</string>
     <string name="action_bar_timer">Таймер</string>
     <string name="ztouch_hour_title">Час</string>
     <string name="ztouch_minute_title">Минута</string>
@@ -207,7 +207,7 @@
     <string name="sunday">В</string>
     <string name="no_alarm">Нет будильников</string>
     <string name="sleepclock_date_format">EEE,MMMM d</string>
-    <string name="city_is_selected">Город выбран </string>
+    <string name="city_is_selected">Город выбран</string>
     <string name="menu_search">Поиск</string>
     <string name="new_cities_title" />
     <string name="search_city_hint">Поиск города</string>
@@ -233,6 +233,6 @@
     <string name="capital_on">on</string>
     <string name="capital_off">off</string>
     <string name="digital_hour_number_set">%d</string>
-	<string name="alarm_clock_settings">Настройка</string>
+    <string name="alarm_clock_settings">Настройка</string>
     <string name="poweroff_alarm">Выключить сигнал</string>
 </resources>

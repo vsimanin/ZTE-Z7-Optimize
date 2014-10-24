@@ -280,6 +280,21 @@
         <item>Хайдарабад</item>
         <item>Рестон</item>
     </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>Через</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>Повторить</item>
+        <item>1 раз</item>
+        <item>3 раза</item>
+        <item>5 раз</item>
+    </string-array>
+    <string-array name="alarm_type_entries">
+        <item>Мелодия</item>
+        <item>Вибрация</item>
+        <item>Мелодия и вибрация</item>
+    </string-array>
     <string-array name="timer_notifications">
         <item>Осталось: меньше минуты</item>
         <item>Осталось: %1$s</item>
@@ -321,11 +336,6 @@
         <item>Прыжок влево</item>
         <item>Вы времени даром не теряете!</item>
         <item>Быстрее света!</item>
-    </string-array>
-	<string-array name="alarm_type_entries">
-        <item>Мелодия</item>
-        <item>Вибрация</item>
-        <item>Мелодия и вибрация</item>
     </string-array>
     <string-array name="clock_style_entries">
         <item>Стрелки</item>
@@ -417,21 +427,11 @@
         <item>Фиджи</item>
         <item>Тонга</item>
     </string-array>
-	 <string-array name="timing_type_array">
+    <string-array name="timing_type_array">
         <item>Обратный отсчет</item>
         <item>Временной интервал</item>
     </string-array>
-	<string-array name="snooze_duration_entries">
-        <item>Через</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>Повторить</item>
-        <item>1 раз</item>
-        <item>3 раза</item>
-        <item>5 раз</item>
-    </string-array>
-	<string-array name="alarm_left_time">
+    <string-array name="alarm_left_time">
         <item>Сигнал меньше, чем через минуту</item>
         <item>%1$s до сигнала</item>
         <item>%2$s до сигнала</item>
