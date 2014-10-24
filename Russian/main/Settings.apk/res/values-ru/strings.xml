@@ -2152,7 +2152,7 @@
     <string name="maxring_vibrate_summary">Максимальная громкость рингтона и вибрация при входящем звонке, когда телефон в кармане</string>
     <string name="notify_favorite_title2">Повторные звонки не блокируются</string>
     <string name="notify_favorite_summary2">Телефон должен звонить или вибрировать при получении одного и того же входящего вызова в третий раз или более за 5 минут</string>
-    <string name="sleep_explain_title">После включения Спящего режима телефон не должен звонить, вибрировать или пробудиться любым входящим звонком или сообщением, кроме из списка допустимых контактов</string>
+    <string name="sleep_explain_title">После включения Спящего режима телефон не будет звонить, вибрировать, не будет пробуждатся любым входящим вызовом или сообщением, кроме как из списка разрешенных контактов</string>
     <string name="deep_sleep_onoff_title">Включить автоматически</string>
     <string name="deep_sleep_category_title">Список функций</string>
     <string name="sleep_unconnect_title">Отключить сетевое соединение</string>
@@ -2254,7 +2254,7 @@ It не стирать :
     <string name="volume_bluetooth_sco_description">Bluetooth</string>
     <string name="volume_system_mute">Отключение системы</string>
     <string name="volume_bluetooth_sco_mute">Отключение Bluetooth</string>
-    <string name="notification_panel_title">Панель уведомлений</string>
+    <string name="notification_panel_title">Строка состояния и уведомлений</string>
     <string name="category_screen_title">Экран</string>
     <string name="lockscreen_title">Фото на экране блокировки</string>
     <string name="led_app_msg_title">Уведомление смс</string>
@@ -2618,7 +2618,7 @@ It не стирать :
     <string name="wfd_option_output_titel">Выходное разрешение</string>
     <string name="wfd_option_nfc_pairs_detail">Осторожно коснитесь задней панели телефона к области NFC(который так же должен поддерживать NFC) или метку NFC.</string>
     <string name="wfd_option_pin_pairs_detail">Введите PIN-код, отображаемый на устройстве, чтобы быть соединенным для завершения спаривания.</string>
-    <string name="wfd_option_pbc_pairs_detail">Выберите устройство, которое необходимо подключить, а затем нажмите кнопку WPS на устройстве, чтобы завершить спаривание.</string>
+    <string name="wfd_option_pbc_pairs_detail">Выберите устройство, которое необходимо подключить, а затем нажмите кнопку WPS на устройстве, чтобы завершить сопряжение.</string>
     <string name="wfd_toast_qr_code_no_support">QR-код не поддерживается сейчас!</string>
     <string name="wfd_toast_connect_failed_retry">Сбой подключения, повторите попытку позже, пожалуйста!</string>
     <string name="wifi_display_disconnect_button">Отключить</string>
@@ -2641,7 +2641,7 @@ It не стирать :
     <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_01_no_nfc">Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_02">Сканирование двумерного кода другого телефона, чтобы подключиться</string>
-    <string name="wifidisplay_manual_03_03">Телефоном c открытым Wi-Fi дисплеем коснитесь другого телефона для подключения (оба должны поддерживать NFC)</string>
+    <string name="wifidisplay_manual_03_03">Смартфон c включеной функцией беспроводной дисплей поднесите к другогому смартфону для подключения (оба должны поддерживать NFC)</string>
     <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
     <string name="wfd_source_screen_timeout">Тайм-аут экрана проектора</string>
     <string name="wfd_source_screen_timeout_summary">После %1$s бездействия во время проецирования, как экран проектора</string>
@@ -2668,7 +2668,7 @@ It не стирать :
     <string name="touch_gesture_title">Экранные жесты</string>
     <string name="touch_gesture_summary">Быстрое управление с помощью экранных жестов</string>
     <string name="volley_gesture_title">Бесконтактные жесты</string>
-    <string name="volley_gesture_summary">Управление устройством при движениях над экраном</string>
+    <string name="volley_gesture_summary">Управление устройством движениями над экраном</string>
     <string name="smart_sensory_title">Датчики положения</string>
     <string name="smart_sensory_summary">Управление с помощью датчиков движения и ориентации</string>
     <string name="double_click_title">Двойной клик для включения</string>
