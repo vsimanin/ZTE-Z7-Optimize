@@ -49,7 +49,7 @@
     <string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
     <string name="separatorJoinAggregateAll">Все контакты</string>
     <string name="contactsJoinedMessage">Контакты объединены</string>
-    <string name="menu_set_ring_tone">Выбрать звонок</string>
+    <string name="menu_set_ring_tone">Задать мелодию звонка</string>
     <string name="menu_redirect_calls_to_vm">Только голосовая почта</string>
     <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
@@ -60,7 +60,7 @@
     <string name="menu_discard">Отменить</string>
     <string name="label_notes">Примечания</string>
     <string name="label_sip_address">Интернет-вызов</string>
-    <string name="ghostData_company">Название</string>
+    <string name="ghostData_company">Организация</string>
     <string name="ghostData_title">Должность</string>
     <string name="invalidContactMessage">Контакт удален.</string>
     <string name="createContactShortcutSuccessful">Виджет \"Контакты\" добавлен на главный экран.</string>
@@ -139,7 +139,7 @@
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM или SD-карты.
 "</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
@@ -152,7 +152,7 @@
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM или SD-карты.
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
 "</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
@@ -599,8 +599,8 @@
     <string name="confirm">OK</string>
     <string name="clearCurrentCallLogConfirmation">Все записи с этим номером будут удалены.</string>
     <string name="delete">Удалить</string>
-    <string name="custom_ring">Звонок по умолчанию</string>
-    <string name="ring_type">Звонок</string>
+    <string name="custom_ring">Мелодия  по умолчанию</string>
+    <string name="ring_type">Мелодия звонка</string>
     <string name="unknown_ring">Неизвестный звонок</string>
     <string name="contactsSearchLabel">Поиск</string>
     <string name="local_label">Локальные контакты</string>
@@ -703,7 +703,7 @@
     <string name="add_groupmembership_success">Контакты добавлены в группу.</string>
     <string name="add_groupmembership_failed">Ошибка добавления контактов в группу.</string>
     <string name="sim_phonebook_full">SIM-карта переполнена</string>
-    <string name="uim_phonebook_full">UIM-карта полна</string>
+    <string name="uim_phonebook_full">UIM-карта переполнена</string>
     <string name="select_card">Выберите SIM-карту для импорта</string>
     <string name="email_nonstandard">Email адрес некорректный</string>
     <string name="website_nonstandard">Вебсайт некорректный</string>
@@ -963,14 +963,14 @@
     <string name="pref_display_settings_title">Параметры отображения</string>
     <string name="search_result">Результат поиска</string>
     <string name="confirm_open_wappush">Открыть это push сообщение?</string>
-    <string name="receive_wappush">Push сообщение</string>
+    <string name="receive_wappush">Push-сообщения</string>
     <string name="service_settings">Параметры службы</string>
     <string name="resend">Отправить</string>
     <string name="fail_recipients_title">Отправка группе, ошибка %s</string>
     <string name="success_msg_count">%s сообщение отправлено</string>
     <string name="success_msg_all">Все сообщения отправлены</string>
     <string name="no_recipients_title">Нет получателей</string>
-    <string name="no_recipients_message">Пожалуйста, выберите или введите сначала получателей</string>
+    <string name="no_recipients_message">Выберите или введите получателей</string>
     <string name="recipients_messagement_title">Управление получателями</string>
     <string name="recipients_list_title">Список получателей</string>
     <string name="selected">Отобранные:</string>
@@ -990,7 +990,7 @@
     <string name="option_add_vcard">vCard</string>
     <string name="option_insert_contact_info">Контакты</string>
     <string name="option_add_local_audio">Аудио</string>
-    <string name="option_add_sound">Звонок</string>
+    <string name="option_add_sound">Мелодия</string>
     <string name="option_add_slideshow">Слайд-шоу</string>
     <string name="pref_title_slideshow_open_mode">Режим открытия MMS</string>
     <string name="pref_summary_slideshow_open_mode">Мобильные газеты</string>
@@ -1247,10 +1247,10 @@
     <string name="silent_ringtone">Беззвучный</string>
     <string name="prefDefault_vibrate_true">всегда</string>
     <string name="prefDefault_vibrate_false">никогда</string>
-    <string name="pref_title_mms_auto_retrieval">Автополучение</string>
-    <string name="pref_summary_mms_auto_retrieval">Автоматическое получение MMS сообщений</string>
-    <string name="pref_title_mms_retrieval_during_roaming">Автоопределение роуминга</string>
-    <string name="pref_summary_mms_retrieval_during_roaming">Автоматически получать сообщения, находясь в роуминге</string>
+    <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
+    <string name="pref_summary_mms_auto_retrieval">Автоматическая загрузка MMS сообщений</string>
+    <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
+    <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать сообщения, находясь в роуминге</string>
     <string name="confirm_dialog_title">Удалить?</string>
     <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
     <string name="confirm_delete_conversation">Вся цепочка будет удалена.</string>
@@ -1454,9 +1454,9 @@
     <string name="second_send_register_sms_info">После того как вы выберите Отменить, China Mobile не обязан обеспечивать Вам непрерывное бесплатное расширенное послепродажное обслуживание, Вы уверены, что хотите отменить?</string>
 	<string name="select_photo_package">Выберите фотопакет</string>
 	<string name="cattle_photo">Быки/Коровы</string>
-    <string name="diy_photo">Коллаж</string>
+    <string name="diy_photo">Создать своё</string>
     <string name="setting_all_photo">Импорт фото контактов</string>
-    <string name="delete_all_photo">Очистить фото контактов</string>
+    <string name="delete_all_photo">Удалить все фото контактов</string>
     <string name="select_photo_for_diy">Выберите 10 снимков</string>
 	<string name="select_photo">Выберите снимки</string>
     <string name="menu_photo_display_setting">Настройка фото контактов</string>
