@@ -63,7 +63,7 @@
     <string name="theme_unloaded">Тема не загружается</string>
     <string name="cancel_download_sucess">загрузка отменена!</string>
     <string name="cancel_download_error">загрузка отменена!</string>
-    <string name="alert_dialog_content">Когда применяется шрифт, телефон нужно перезапустить что изменения вступили в силу!</string>
+    <string name="alert_dialog_content">Когда применяется шрифт, телефон нужно перезапустить что бы изменения вступили в силу!</string>
     <string name="alert_dialog_checkout_desc">Не показывать это сообщение в следующий раз.</string>
     <string name="dlg_tips">Советы</string>
     <string name="online_check_network">Проверьте настройки сети!</string>
@@ -106,14 +106,14 @@
     <string name="theme_comment">Коммент.:</string>
     <string name="str_times">" раз"</string>
     <string name="download_complete">Загрузка завершена.</string>
-    <string name="backup_unsuccess_file_not_created">"Не удается создать файл резервной копии"</string>
+    <string name="backup_unsuccess_file_not_created">Не удается создать файл резервной копии</string>
     <string name="theme_goto_comment">Перейти к комментариям ?</string>
     <string name="theme_no_comment">Нет комментариев</string>
     <string name="theme_comment_btn_text">Комментарии</string>
     <string name="theme_all_comment">Все комментарии</string>
-    <string name="theme_my_score">Моя оценка: </string>
-    <string name="theme_my_comment">Мой комментарий: </string>
-    <string name="str_comment_at">Комментарий на: </string>
+    <string name="theme_my_score">Моя оценка:</string>
+    <string name="theme_my_comment">Мой комментарий:</string>
+    <string name="str_comment_at">Комментарий на:</string>
     <string name="str_comment_open">[Открыто]</string>
     <string name="str_comment_close">[Закрыто]</string>
     <string name="str_loading_theme">Загрузка темы...</string>

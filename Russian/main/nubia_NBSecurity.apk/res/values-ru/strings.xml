@@ -91,7 +91,7 @@
     <string name="greenspace_is_cleaning">Очистка...</string>
     <string name="greenspace_clean_finished">Очищено</string>
     <string name="greenspace_root_clear_guide_desc">Функции нужен Root.</string>
-    <string name="greenspace_appcachevar">Кэш всего %1$.2f Мб.</string>
+    <string name="greenspace_appcachevar">Кэш приложений %1$.2f Мб.</string>
     <string name="greenspace_quit_progress">Выйти</string>
     <string name="onekey_clear">Очистка</string>
     <string name="memory_opt">Оптимизация памяти</string>

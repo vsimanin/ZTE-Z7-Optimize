@@ -133,51 +133,51 @@
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
     <string name="noContactsHelpText">"Нет контактов для показа.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM или SD-карты.
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</b></font></li>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
 
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Фильтр контактов: настройка параметров показа контактов.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Фильтр контактов: настройка параметров показа контактов.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SD-карты.
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SD-карты.
+"</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите один из вариантов.
+Чтобы добавить контакты, нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>" и выберите один из вариантов.
 
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Фильтр контактов: настройка параметров показа контактов.
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SD-карты.
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Фильтр контактов: настройка параметров показа контактов.
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт: добавление контакта.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт: импорт контактов с SD-карты.
+"</b></font></li>"
 "</string>
     <string name="noFavoritesHelpText">"У вас нет избранных контактов.
 
@@ -684,12 +684,12 @@
     <string name="alwaysUse">Использовать это действие по умолчанию</string>
     <string name="sim_card_1">SIM-карта 1</string>
     <string name="sim_card_2">SIM-карта 2</string>
-    <string name="sim_card_1_contact">Контакты карты CDMA</string>
-    <string name="sim_card_2_contact">Контакты карты GSM</string>
+    <string name="sim_card_1_contact">Контакты SIM-карты 1</string>
+    <string name="sim_card_2_contact">Контакты SIM-карты 2</string>
     <string name="no_card_1">SIM-карта 1 недоступна.</string>
     <string name="no_card_2">SIM-карта 2 недоступна.</string>
-    <string name="account_card_1">SIM-карта CDMA, не синхронизирована</string>
-    <string name="account_card_2">SIM-карта GSM, не синхронизирована</string>
+    <string name="account_card_1">SIM-карта 1, не синхронизирована</string>
+    <string name="account_card_2">SIM-карта 2, не синхронизирована</string>
     <string name="menu_default_storage">Хранилище по умолчанию</string>
     <string name="default_save_to">Сохранить по умолчанию в</string>
     <string name="prompt">Подсказки</string>
@@ -907,7 +907,7 @@
     <string name="menu_copy_contact_to_text">Копировать текст</string>
     <string name="contact_save_to">Сохранить в</string>
     <string name="contact_history">История контакта</string>
-    <string name="contact_detail">Показать историю контакта</string>
+    <string name="contact_detail">История контакта</string>
     <string name="no_contact_history_tip">Нет истории контакта</string>
     <string name="multi_select_calllog">Частые</string>
     <string name="multi_select_contact">Контакты</string>
@@ -919,11 +919,11 @@
     <string name="fax">Факс</string>
     <string name="menu_edit_group_action_bar">Изменить группу</string>
     <string name="copy_number_text">Скопировать номер</string>
-    <string name="copy_email_text">Скопировать email</string>
-    <string name="set_default_number">Набор номера по умолчанию</string>
+    <string name="copy_email_text">Скопировать e-mail</string>
+    <string name="set_default_number">Установить номер по умолчанию</string>
     <string name="clear_default_number">Очистить номер по умолчанию</string>
-    <string name="set_default_email">Установить по умолчанию email</string>
-    <string name="clear_default_email">Очистить email по умолчанию</string>
+    <string name="set_default_email">Установить по умолчанию e-mail</string>
+    <string name="clear_default_email">Очистить e-mail по умолчанию</string>
     <string name="lunar">Лунный</string>
     <string name="gregorian">Григорианский</string>
     <string name="default_save_to_local_type">Локальная учетная запись</string>
@@ -952,7 +952,7 @@
     <string name="type_vcard">vCard</string>
     <string name="attach_record_vcard">Контакты</string>
     <string name="attachment_editor_import">Импорт</string>
-    <string name="type_vcalendar">vCalendar </string>
+    <string name="type_vcalendar">vCalendar</string>
     <string name="attach_record_vcalendar">Повестка дня</string>
     <string name="no_application_found">Приложение не найдено!</string>
     <string name="attach_local_audio">Локальные аудио</string>
@@ -1056,12 +1056,11 @@
     <string name="notification_dial">Набрать</string>
     <string name="str_sms_send_success_notification">Отправка на %s успешна!</string>
     <string name="str_sms_send_fail_notification">Отправка на %s не удалась!</string>
-    <string name="switch_card_view_first_indication">При помощи этого переключателя 
-выбирайте SIM-карту для каждого контакта</string>
+    <string name="switch_card_view_first_indication">Выберите SIM-карту для каждого контакта</string>
     <string name="str_mms_send_success">MMS отправлено успешно!</string>
     <string name="str_mms_send_fail">Отправка MMS не удалась!</string>
     <string name="mms_size_indicator">%1$sКБ</string>
-    <string name="cannot_add_text_anymore">"Невозможно добавить больше текста"</string>	
+    <string name="cannot_add_text_anymore">Невозможно добавить больше текста</string>	
     <string name="meminfo_size">Общий размер памяти</string>
     <string name="menu_service_number">Сервисный номер</string>
     <string name="service_number">Сервисный номер</string>
@@ -1222,8 +1221,8 @@
     <string name="preferences_title">Настройки</string>
     <string name="restore_default">Восстановить настройки</string>
     <string name="pref_notification_settings_title">Уведомления</string>
-    <string name="pref_mms_settings_title">Мультимедийные сообщения (MMS) </string>
-    <string name="pref_sms_settings_title">Текстовые сообщения (SMS) </string>
+    <string name="pref_mms_settings_title">Мультимедийные сообщения (MMS)</string>
+    <string name="pref_sms_settings_title">Текстовые сообщения (SMS)</string>
     <string name="pref_sms_storage_title">Память</string>
     <string name="pref_summary_manage_sim_messages">Управление сообщениями сохраненными на вашей SIM-карте</string>
     <string name="pref_summary_mms_delivery_reports">Запросить отчет о доставке каждого сообщения</string>
@@ -1316,7 +1315,7 @@
     <string name="delivery_toast_body">Получил сообщение %s.</string>
     <string name="notification_multiple">%s непрочитанные сообщения.</string>
     <string name="notification_multiple_title">Новые сообщения</string>
-    <string name="notification_failed_multiple">"%s сообщения не могли быть отправлены"</string>
+    <string name="notification_failed_multiple">%s сообщения не могли быть отправлены</string>
     <string name="notification_failed_multiple_title">Сообщения не отправляются</string>
     <string name="sim_full_title">SIM-карта заполнена</string>
     <string name="sim_full_body">Удалить некоторые сообщения, чтобы освободить место для новых.</string>
@@ -1329,21 +1328,21 @@
     <string name="type_video">видео</string>
     <string name="confirm_mms">Подтвердить</string>
     <string name="message_send_read_report">Отчет о прочтении будет отправлен.</string>
-    <string name="message_queued">"В настоящее время не может отправить ваше сообщение. Будет отправлен, когда служба станет доступной."</string>
+    <string name="message_queued">В настоящее время сообщение не может быть отправлено. Оно будет отправлено, когда служба станет доступной.</string>
     <string name="fdn_check_failure">Может отправлять сообщения только на разрешенные номера.</string>
     <string name="no_subject">(Без темы)</string>
     <string name="unknown_sender">Неизвестный отправитель</string>
-    <string name="dl_failure_notification">"Не мог скачать сообщения %1$s от %2$s."</string>
+    <string name="dl_failure_notification">Не мог скачать сообщения %1$s от %2$s.</string>
     <string name="rate_limit_surpassed">Подтвердить</string>
     <string name="confirm_rate_limit">Большое количество мультимедийных Сообщений, отправляемых. Это нормально?</string>
     <string name="message_download_failed_title">Сообщение не загружается</string>
     <string name="message_send_failed_title">Сообщение не отправлено</string>
     <string name="message_failed_body">Нажмите для просмотра сообщений и повторите попытку.</string>
-    <string name="download_later">"Не могу загрузить сейчас. Повторите попытку позже."</string>
+    <string name="download_later">Не могу загрузить сейчас. Повторите попытку позже.</string>
     <string name="select_audio">Выбрать аудио</string>
     <string name="copy_to_sdcard">Сохранить вложение</string>
     <string name="copy_to_sdcard_success">Вложение сохраняется.</string>
-    <string name="copy_to_sdcard_fail">"Не могу сохранить вложения."</string>
+    <string name="copy_to_sdcard_fail">Не могу сохранить вложения.</string>
     <string name="save_ringtone">Сохранить в качестве сигнала вызова</string>
     <string name="saved_ringtone">Мелодии сохраняются.</string>
     <string name="saved_ringtone_fail">"Не могу сохранить мелодию."</string>
@@ -1374,7 +1373,7 @@
     <string name="storage_limits_message">Ограничить число сообщений, которое вы экономите за разговор?</string>
     <string name="storage_limits_setting">Установить лимит</string>
     <string name="storage_limits_setting_dismiss">Без ограничений</string>
-    <string name="too_many_unsent_mms">"Не могу отправить сообщение прямо сейчас. Слишком много неотправленных мультимедийных сообщений."</string>
+    <string name="too_many_unsent_mms">Не могу отправить сообщение прямо сейчас. Слишком много неотправленных мультимедийных сообщений.</string>
     <string name="sending_message">Отправка...</string>
     <string name="pick_too_many_recipients">Слишком много получателей</string>
     <string name="adding_recipients">Добавление адресатов...</string>
@@ -1489,7 +1488,7 @@
     <string name="low_memory">Память телефона заполнена. Удалите ненужные файлы для освобождения места.</string>
     <string name="contact_update_toast">Контакт обновлён</string>
     <string name="export_contact_to_sim_failed">Ошибка экспорта контакта на SD-карту</string>
-    <string name="has_not_browser_app_cannot_open_web_url">"Приложение браузера не установлено, не возможно открыть веб-страницу!"</string>
+    <string name="has_not_browser_app_cannot_open_web_url">Браузер не установлен, невозможно открыть веб-страницу!</string>
     <string name="person">Дом</string>
     <string name="pref_summary_card1_sms_service_center">Проверить или установить номер SMS центра для SIM-карты1</string>
     <string name="pref_summary_card2_sms_service_center">Проверить или установить номер SMS центра для SIM-карты2</string>
