@@ -152,7 +152,7 @@
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Новый контакт: добавление контакта.
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт: импорт контактов с SIM или SD-карты.
 "</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
@@ -702,7 +702,7 @@
     <string name="add_groupmembership">Добавление контактов в группу...</string>
     <string name="add_groupmembership_success">Контакты добавлены в группу.</string>
     <string name="add_groupmembership_failed">Ошибка добавления контактов в группу.</string>
-    <string name="sim_phonebook_full">SIM-карта полна</string>
+    <string name="sim_phonebook_full">SIM-карта переполнена</string>
     <string name="uim_phonebook_full">UIM-карта полна</string>
     <string name="select_card">Выберите SIM-карту для импорта</string>
     <string name="email_nonstandard">Email адрес некорректный</string>
@@ -765,10 +765,10 @@
     <string name="ContactSettingsActivity.merge_contacts">Объединить дублирующиеся контакты</string>
     <string name="ContactSettingsActivity.account">Учетная запись</string>
     <string name="ContactSettingsActivity.import_export_contacts">Импорт/Экспорт контактов</string>
-    <string name="ContactSettingsActivity.import_from_phone_card">Импорт c SD-карты</string>
-    <string name="ContactSettingsActivity.import_from_phone_memory">Импорт из памяти телефона</string>
-    <string name="ContactSettingsActivity.export_to_phone_card">Экспорт на SD-карту</string>
-    <string name="ContactSettingsActivity.export_to_phone_memory">Экспорт в память телефона</string>
+    <string name="ContactSettingsActivity.import_from_phone_card">Импорт с SIM-карты</string>
+    <string name="ContactSettingsActivity.import_from_phone_memory">Импорт с SD-карты</string>
+    <string name="ContactSettingsActivity.export_to_phone_card">Экспорт на SIM-карту</string>
+    <string name="ContactSettingsActivity.export_to_phone_memory">Экспорт на SD-карту</string>
     <string name="card_insert_nf_title">Установлена новая SIM-карта!</string>
     <string name="card_insert_nf_text">Новая SIM-карта установлена, нажмите для импорта контактов с SIM-карты.</string>
     <string name="card_insert_dialog_text">Установлена новая SIM-карта, импортировать контакты с SIM-карты?</string>
