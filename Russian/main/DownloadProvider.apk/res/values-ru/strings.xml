@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">>Диспетчер загрузки</string>
+    <string name="app_label">Диспетчер загрузки</string>
     <string name="permlab_downloadManager">Доступ к менеджеру загрузки.</string>
     <string name="permdesc_downloadManager">Приложение получит доступ к диспетчеру загрузок и сможет загружать файлы через него. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию.</string>
     <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки.</string>
