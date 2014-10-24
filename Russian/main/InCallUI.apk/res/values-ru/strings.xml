@@ -586,7 +586,7 @@
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
     <string name="voicemail_notification_ringtone_title">Звук</string>
     <string name="default_notification_description">По умолчанию (%1$s)</string>
-    <string name="ringtone_title">Звонок</string>
+    <string name="ringtone_title">Мелодия звонка</string>
     <string name="vibrate_on_ring_title">Вибросигнал при вызове</string>
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
     <string name="dial_pad_autocomplete">Автозаполнение номера</string>
