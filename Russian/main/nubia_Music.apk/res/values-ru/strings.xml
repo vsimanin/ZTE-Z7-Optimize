@@ -93,7 +93,7 @@
     <string name="add_to_playlist">Добавить в плейлист</string>
     <string name="remove_from_playlist">Удалить из плейлиста</string>
     <string name="ringtone_menu">Сделать мелодией вызова</string>
-    <string name="ringtone_menu_short">Использовать как рингтон</string>
+    <string name="ringtone_menu_short">Мелодия звонка</string>
     <string name="search_title">Поиск</string>
     <string name="search_tip">Введите ключевое слово для поиска</string>
     <string name="search_text_hint">Введите название песни, имя исполнителя или альбома</string>
