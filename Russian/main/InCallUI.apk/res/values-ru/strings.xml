@@ -23,7 +23,7 @@
     <string name="callFailed_dialToSs">Запрос набора номера изменен на SS запрос.</string>
     <string name="callFailed_dialToDial">Набор номера изменен на набор другого номера.</string>
     <string name="callFailed_cb_enabled">Исходящие звонки невозможны, если включен запрет вызовов.</string>
-    <string name="callFailed_incoming_cb_enabled">Сторона запретила все входящие вызовы.</string>
+    <string name="callFailed_incoming_cb_enabled">Абонент запретил все входящие вызовы.</string>
     <string name="callUnanswered_forwarded">Вызов неотвечен и переадресован</string>
     <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа.</string>
     <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа.</string>
@@ -590,7 +590,7 @@
     <string name="vibrate_on_ring_title">Вибросигнал при вызове</string>
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
     <string name="dial_pad_autocomplete">Автозаполнение номера</string>
-    <string name="preference_category_ringtone">Звонок и вибрация</string>
+    <string name="preference_category_ringtone">Мелодия и вибрация</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="sub_1">Подп. 1</string>
     <string name="sub_2">Подп. 2</string>
@@ -636,7 +636,7 @@
     <string name="call_vibration">Вибрация при вызове</string>
     <string name="call_vibration_text">Настройки вибрации при вызове</string>
     <string name="response_vibration">Вибрация в начале разговора</string>
-    <string name="response_vibration_text">Телефон вибрирует,когда вызываемый абонент отвечает</string>
+    <string name="response_vibration_text">Телефон вибрирует, когда вызываемый абонент отвечает</string>
     <string name="hang_up_vibration">Вибрация в конце разговора</string>
     <string name="hang_up_vibration_text">Телефон вибрирует, когда вызываемый абонент завершает беседу</string>
     <string name="call_status_tone">Сигналы состояния вызова</string>
@@ -720,13 +720,13 @@
     <string name="nubia_plmn_chinaUnicom">China Unicom</string>
     <string name="nubia_plmn_chinaTelecom">China Telecom</string>
     <string name="nubia_conference_call_title">Конференц-вызов</string>
-    <string name="nubia_incoming_call">Входящий…</string>
+    <string name="nubia_incoming_call">Входящий вызов</string>
     <string name="nubia_respond_via_sms_title">Отклонить и ответить SMS</string>
     <string name="nubia_respond_via_sms_canned_response_1">Я на встрече, неудобно отвечать.</string>
     <string name="nubia_respond_via_sms_canned_response_2">Я перезвоню Вам позже.</string>
     <string name="nubia_respond_via_sms_canned_response_3">Не могу говорить сейчас. Что случилось?</string>
     <string name="nubia_respond_via_sms_canned_response_4">Я за рулем, неудобно отвечать.</string>
-    <string name="nubia_respond_via_sms_canned_response_5">Не могу говорить сейчас. Позвоните пожалуйста позже.</string>
+    <string name="nubia_respond_via_sms_canned_response_5">Не могу говорить сейчас. Позвоните позже.</string>
     <string name="nubia_respond_via_sms_setting_title">Редактирование отклоняющего SMS</string>
     <string name="nubia_respond_via_sms_toast">Информация не может быть пустой.</string>
     <string name="nubia_message_prompts_title">Сообщение</string>
