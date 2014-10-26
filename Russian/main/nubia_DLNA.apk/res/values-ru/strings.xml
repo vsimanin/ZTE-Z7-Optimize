@@ -26,7 +26,7 @@
     <string name="no_render_connected">Медиа-плеер не подключен</string>
     <string name="render_connected">Медиа-плеер подключен</string>
     <string name="remote_playing">Сервер воспроизводит</string>
-    <string name="remote_play_stopped">Серевер перестал воспроизводить</string>
+    <string name="remote_play_stopped">Сервер перестал воспроизводить</string>
     <string name="device_disconnected">%s отсутствует подключение</string>
     <string name="choose_render">Выбор медиа-плеера</string>
     <string name="local_player">Локальный</string>
