@@ -1113,7 +1113,7 @@
     <string name="usb_storage_activity_title">USB-накопитель</string>
     <string name="usb_storage_title">USB-подключение установлено</string>
     <string name="usb_storage_message">Телефон подключен к компьютеру через USB-порт. Нажмите кнопку ниже, чтобы скопировать файлы с компьютера на SD-карту Android-устройства.</string>
-    <string name="usb_storage_button_mount">Включить USB-накопитель</string>
+    <string name="usb_storage_button_mount">Подключить USB-накопитель</string>
     <string name="usb_storage_error_message">При подключении SD-карты произошла ошибка.</string>
     <string name="usb_storage_notification_title">USB-подключение установлено</string>
     <string name="usb_storage_notification_message">Нажмите, чтобы скопировать файлы.</string>
