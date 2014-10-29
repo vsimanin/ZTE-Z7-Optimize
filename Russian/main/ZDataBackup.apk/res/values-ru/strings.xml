@@ -37,6 +37,9 @@
     <string name="login">Вход</string>
     <string name="wifi_not_enable">Wi-Fi не подключен</string>
     <string name="setwifi">Установить</string>
+    <string name="ui_mainactivity_backup_return">Назад</string>
+    <string name="ui_mainactivity_backup_end">Создание резервной копии завершено</string>
+    <string name="ui_mainactivity_backup_success">Резервная копия успешно создана</string>
     <string name="ui_newbackup_title">Новое сохранение</string>
     <string name="ui_newbackup_start_backup">Выполнить резервное сохранение</string>
     <string name="ui_newbackup_start_please_choose_item">Пожалуйста выберите данные для сохранения.</string>
