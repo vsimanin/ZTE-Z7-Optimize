@@ -159,7 +159,7 @@
     <string name="send_card_test">Отправить</string>
     <string name="type_to_compose_text_enter_to_send">Введи сообщение</string>
     <string name="type_to_compose_text_enter_to_send2">Детка, введи сообщение</string>
-    <string name="type_to_compose_text_enter_to_send3">Детка, тебе нужно нечто особенное</string>
+    <string name="type_to_compose_text_enter_to_send3">Детка, тебе нужно ввести что-нибудь</string>
     <string name="type_to_compose_text_enter_to_send4">Ты псих?</string>
     <string name="unlock_to_cam">Камера</string>
     <string name="unlock_normal">Разблокировать</string>
