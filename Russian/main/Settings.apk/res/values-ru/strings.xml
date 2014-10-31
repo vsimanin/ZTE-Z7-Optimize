@@ -2673,8 +2673,8 @@ It не стирать :
     <string name="smart_sensory_summary">Управление с помощью датчиков движения и ориентации</string>
     <string name="double_click_title">Двойной клик для включения</string>
     <string name="double_click_summary">Двойной клик для включения экрана</string>
-    <string name="palm_lock_screen_title">Блокировка чехлом</string>
-    <string name="palm_lock_screen_summary">Закройте экран чехлом для блокировки</string>
+    <string name="palm_lock_screen_title">Блокировка ладонью</string>
+    <string name="palm_lock_screen_summary">Положите ладонь на экран для блокировки</string>
     <string name="free_snapshot_title">Свободный скриншот</string>
     <string name="free_snapshot_summary">Очертите желаемую область для скриншота</string>
     <string name="three_finger_capture_title">Скриншот тремя пальцами</string>
@@ -2706,9 +2706,9 @@ It не стирать :
     <string name="answer_call_settings">Настройки вызовов</string>
     <string name="select_app_title">Проведите пальцем для поддержки приложения</string>
     <string name="select_app_summary">Выберите приложение</string>
-    <string name="touch_gesture_free_screenshot">Нажмите и удерживайте нажатой клавишу меню, чтобы войти режим свободного скриншота, нарисоуйте замкнутую кривую, чтобы сделать скриншот</string>
-    <string name="touch_gesture_palm_lockscreen">Как экран загорается, накройте его рукой, чтобы выключить и заблокировать его</string>
-    <string name="touch_gesture_tri_finger_screenshot">Проведите вверх на экране, используя свои три пальца для захвата скриншотов</string>
+    <string name="touch_gesture_free_screenshot">Нажмите и удерживайте нажатой клавишу меню, чтобы войти в режим свободного скриншота. Нарисуйте замкнутую кривую, чтобы сделать скриншот</string>
+    <string name="touch_gesture_palm_lockscreen">Когда экран включен, накройте его ладонью, чтобы выключить его и заблокировать телефон</string>
+    <string name="touch_gesture_tri_finger_screenshot">Проведите вверх по экрану, используя три пальца для создания скриншота</string>
     <string name="touch_gesture_tri_finger_switch_app">Проведите тремя пальцами влево или вправо по экрану для переключения между открытыми приложениями</string>
     <string name="smart_gesture_sensor_dial">Поднесите телефон к уху, чтобы набрать контакт автоматически</string>
     <string name="smart_gesture_sensor_answer">Поднесите телефон к уху, чтобы ответить на вызов автоматически</string>
