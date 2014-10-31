@@ -234,7 +234,7 @@
     <string name="traffic_speed">0B/s</string>
     <string name="traffic_mobile">Мобильные сети</string>
     <string name="maininfo_currentmode">%1$s</string>
-    <string name="battery_time">Заряда хватит на&nbsp;</string>
+    <string name="battery_time">Заряда хватит на </string>
     <string name="battery_time_value">6ч. 5 мин.</string>
     <string name="battery_remian_value">80%</string>
     <string name="one_short_clear">"
