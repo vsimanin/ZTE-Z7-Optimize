@@ -56,7 +56,7 @@
     <string name="selfstart_start_powerup">Запуск после включения</string>
     <string name="selfstart_start_background">Запуск  в фоновом режиме</string>
     <string name="selfstart_root_need">Root не получен!</string>
-    <string name="selfstart_name">Уравление автозагрузкой</string>
+    <string name="selfstart_name">Управление автозагрузкой</string>
     <string name="selfstart_selfstartvar">%1$d приложений в автозагрузке</string>
     <string name="selfstart_summary">%1$d приложений в автозагрузке, %2$d разрешено, %3$d запрещено.</string>
     <string name="selfstart_loading">Сканирование, пожалуйста, подождите...</string>

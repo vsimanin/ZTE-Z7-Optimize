@@ -1016,8 +1016,8 @@
     <string name="star_track_info">Используйте штатив при съемке, чтобы сделать изображение чётким.</string>
     <string name="stroage_eject_tip">Место хранения было изменено на SD карту</string>
     <string name="stroage_path_detail">Изменить место хранения на SD карту?</string>
-    <string name="pref_stroage_phone">Телефон</string>
-    <string name="pref_stroage_sdcard">SD карта</string>
+    <string name="pref_stroage_phone">phone</string>
+    <string name="pref_stroage_sdcard">sdcard</string>
     <string name="pref_camera_fullscreen_picturesize_title">Полный экран</string>
     <string name="pref_camera_fullscreen_picturesize_default">on</string>
     <string name="pref_camera_interval_pro_title">Интервалометр</string>

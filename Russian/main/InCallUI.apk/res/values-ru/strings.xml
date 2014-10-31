@@ -32,8 +32,8 @@
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов потерян.</string>
     <string name="ok">ОК</string>
-    <string name="audio_mode_speaker">Динамик</string>
-    <string name="audio_mode_earpiece">Динамик гарнитуры</string>
+    <string name="audio_mode_speaker">Громкая связь</string>
+    <string name="audio_mode_earpiece">Внутренний динамик</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="wait_prompt_str">Отправить следующие тоны?</string>

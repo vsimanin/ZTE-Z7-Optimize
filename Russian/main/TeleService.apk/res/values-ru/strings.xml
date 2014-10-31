@@ -15,8 +15,8 @@
     <string name="enter_input" formatted="false">Допустимая длина USSD-сообщения: %d–%d символов. Повторите попытку.</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="ok">ОК</string>
-    <string name="audio_mode_speaker">Динамик</string>
-    <string name="audio_mode_earpiece">Динамик гарнитуры</string>
+    <string name="audio_mode_speaker">Громкая связь</string>
+    <string name="audio_mode_earpiece">Внутренний динамик</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
     <string name="wait_prompt_str">"Отправить следующие тоны?
