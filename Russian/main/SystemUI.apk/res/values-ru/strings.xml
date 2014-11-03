@@ -211,7 +211,7 @@
     <string name="motion">Движение</string>
     <string name="ringer">Звонок</string>
     <string name="vibrate">Вибрация</string>
-    <string name="mute">Тихо</string>
+    <string name="mute">Без звука</string>
     <string name="airplane">В самолёте</string>
     <string name="saving">Питание</string>
     <string name="pocket">Карман</string>
