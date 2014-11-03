@@ -191,7 +191,7 @@
     </string-array>
     <string-array name="magic_ring_items">
         <item>По умолчанию</item>
-        <item>Тихо</item>
+        <item>Без звука</item>
         <item>Вибрация</item>
         <item>Звонок</item>
     </string-array>
