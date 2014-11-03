@@ -15,7 +15,7 @@
     <string name="tab_setting">Настройка</string>
     <string name="AP_manage">Настройки ЦП</string>
     <string name="current_mode">Текущий режим</string>
-    <string name="current_bg_app"> приложений работают в фоновом режиме</string>
+    <string name="current_bg_app"> приложений работают в фоновом режиме</string>
     <string name="timeout_too_long">Автовыключение экрана более чем через 30 секунд</string>
     <string name="timeout_setted">Автовыключение экрана через 30 секунд</string>
     <string name="brightness_not_auto">Автояркость выключена</string>
@@ -234,7 +234,7 @@
     <string name="traffic_speed">0B/s</string>
     <string name="traffic_mobile">Мобильные сети</string>
     <string name="maininfo_currentmode">%1$s</string>
-    <string name="battery_time">Заряда хватит на </string>
+    <string name="battery_time">Заряда хватит на </string>
     <string name="battery_time_value">6ч. 5 мин.</string>
     <string name="battery_remian_value">80%</string>
     <string name="one_short_clear">"
