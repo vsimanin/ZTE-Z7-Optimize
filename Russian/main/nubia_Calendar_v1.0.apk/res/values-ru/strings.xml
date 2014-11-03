@@ -222,7 +222,7 @@
     <string name="event_start">начало</string>
     <string name="hint_receivers">Получатели (тел. номера)</string>
     <string name="magic_ring_set_label">Звуковой режим периода</string>
-    <string name="magic_ring_mute">Тихо</string>
+    <string name="magic_ring_mute">Без звука</string>
     <string name="magic_ring_vibrate">Вибрация</string>
     <string name="magic_ring_tone">Звонок</string>
     <string name="magic_ring_mode">Режим звонка</string>
