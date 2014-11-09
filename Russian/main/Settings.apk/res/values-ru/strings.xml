@@ -2641,7 +2641,7 @@ It не стирать :
     <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_01_no_nfc">Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_02">Сканирование двумерного кода другого телефона, чтобы подключиться</string>
-    <string name="wifidisplay_manual_03_03">Смартфон c включеной функцией беспроводной дисплей поднесите к другогому смартфону для подключения (оба должны поддерживать NFC)</string>
+    <string name="wifidisplay_manual_03_03">Смартфон c включеной функцией беспроводной дисплей поднесите к другому смартфону для подключения (оба должны поддерживать NFC)</string>
     <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
     <string name="wfd_source_screen_timeout">Тайм-аут экрана проектора</string>
     <string name="wfd_source_screen_timeout_summary">После %1$s бездействия во время проецирования, как экран проектора</string>
