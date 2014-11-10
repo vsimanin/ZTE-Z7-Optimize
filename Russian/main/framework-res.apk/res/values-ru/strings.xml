@@ -13,7 +13,7 @@
     <string name="ok">ОК</string>
     <string name="paste">" Вставить "</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">" Выбрать все "</string>
+    <string name="selectAll">" Выделить все "</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;Без названия></string>
     <string name="VideoView_error_button">ОК</string>
@@ -22,7 +22,7 @@
     <string name="yes">ОК</string>
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
-    <string name="selectTextMode">Выбрать текст</string>
+    <string name="selectTextMode">Выделить текст</string>
     <string name="status_bar_notification_info_overflow">999</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
     <string name="config_tether_apndata" />
@@ -1658,5 +1658,5 @@
 	<string name="group_name_family">Семья</string>
 	<string name="group_name_friends">Друзья</string>
 	<string name="text_pastelist">" Буфер "</string>
-    <string name="select">" Выбрать "</string>
+    <string name="select">" Выделить "</string>
  </resources>
