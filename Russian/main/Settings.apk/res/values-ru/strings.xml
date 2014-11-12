@@ -2120,7 +2120,7 @@
     <string name="lowpower_save_title">"Экономить при низком заряде батареи "</string>
     <string name="lowpower_save_summary">Отключать все настройки при уровне заряда %1$s</string>
     <string name="powersave_actionbar_title">Энергосбережение</string>
-    <string name="text_powersave_choose">Включать самое высокое энергосбережение при низком уровне заряда батареи</string>
+    <string name="text_powersave_choose">Включать максимальное энергосбережение при низком уровне заряда батареи</string>
     <string name="sleep_mod">Спящий режим</string>
     <string name="deep_sleep_title">Помощник сна</string>
     <string name="deep_sleep_music_title">Музыкальное сопровождение</string>
