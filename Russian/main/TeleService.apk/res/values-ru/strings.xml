@@ -750,7 +750,7 @@
     <string name="deact_all_sub_not_supported">Деактивация обоих подписчиков не поддерживается.</string>
     <string name="set_sub_not_supported_phone_in_call">Включать или Отключать подписку не допускается, в режиме вызова.</string>
     <string name="phone_one_ringtone">Мелодия вызова для SIM-карты 1</string>
-    <string name="phone_two_ringtone">Мелодия вызова для SIM-карты </string>
+    <string name="phone_two_ringtone">Мелодия вызова для SIM-карты 2</string>
     <string name="phone_one_voicemail">Голосовая почта SIM-карта 1</string>
     <string name="phone_two_voicemail">Голосовая почта SIM-карта 2</string>
     <string name="phone_one_othersettings">Другие настройки SIM-карта 1</string>
