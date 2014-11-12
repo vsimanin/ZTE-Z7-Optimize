@@ -132,9 +132,9 @@
     <string name="device_picker">Выбор устройства</string>
     <string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
     <string name="bluetooth_ask_enablement">Приложение запрашивает разрешение включить Bluetooth.</string>
-    <string name="bluetooth_ask_discovery">Одному из приложений требуется, чтобы ваш телефон был доступен для поиска через Bluetooth на других устройствах в течение %1$d сек.</string>
+    <string name="bluetooth_ask_discovery">Одному из приложений требуется, чтобы ваш телефон был доступен для поиска через Bluetooth на других устройствах в течение %1$d сек.</string>
     <string name="bluetooth_ask_lasting_discovery">Одному из приложений требуется сделать ваш телефон доступным для поиска через Bluetooth на других устройствах. Позже эти настройки можно будет изменить.</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Одному из приложений требуется включить Bluetooth и сделать ваш телефон доступным для поиска на других устройствах в течение %1$d сек.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Одному из приложений требуется включить Bluetooth и сделать ваш телефон доступным для поиска на других устройствах в течение %1$d сек.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений требуется включить Bluetooth и сделать ваш телефон доступным для поиска на других устройствах. Позже эти настройки можно будет изменить.</string>
     <string name="bluetooth_turning_on">Включение Bluetooth...</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
@@ -503,7 +503,7 @@
     <string name="wifi_scan_always_available_summary">Разрешить службе геопозиционирования и другим приложениям Google искать сети, даже если модуль Wi-Fi выключен</string>
     <string name="wifi_install_credentials">Установка сертификатов</string>
     <string name="wifi_scan_notify_text_location_on">Чтобы улучшить определение местоположения, а также для достижения других целей, Google и другие приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
-    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
+    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если сеть Wi-Fi отключена. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
     <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
     <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
@@ -522,7 +522,7 @@
     <string name="wifi_menu_modify">Изменить сеть</string>
     <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Поиск сетей Wi-Fi…</string>
-    <string name="wifi_empty_list_user_restricted">У вас недостаточно прав для изменения настроек сети Wi‑Fi</string>
+    <string name="wifi_empty_list_user_restricted">У вас недостаточно прав для изменения настроек сети Wi-Fi</string>
     <string name="wifi_other_network">Другая сеть…</string>
     <string name="wifi_more">Ещё</string>
     <string name="wifi_setup_wps">Автонастройка (WPS)</string>
@@ -682,7 +682,7 @@
     <string name="all_volume_title">Громкость</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Громкость звонка</string>
-    <string name="vibrate_in_silent_title">Вибро в беззвучном режиме</string>
+    <string name="vibrate_in_silent_title">Вибросигнал в беззвучном режиме</string>
     <string name="notification_sound_title">Уведомление</string>
     <string name="notification_pulse_title">Индикатор событий</string>
     <string name="incoming_call_volume_title">Мелодия</string>
@@ -706,7 +706,7 @@
     <string name="volume_media_mute">Выключить музыку и прочее медиа</string>
     <string name="volume_notification_mute">Выключить уведомления</string>
     <string name="volume_alarm_mute">Выключить будильники</string>
-    <string name="vibrate_when_ringing_title">Вибро при звонке</string>
+    <string name="vibrate_when_ringing_title">Вибросигнал при вызове</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
@@ -1333,9 +1333,9 @@
     <string name="battery_history_hours">%1$d ч. %2$d м. %3$d с.</string>
     <string name="battery_history_minutes">%1$d м. %2$d с.</string>
     <string name="battery_history_seconds">%1$d с.</string>
-    <string name="battery_history_days_no_seconds">%1$d дн. %2$d ч. %3$d мин.</string>
-    <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
-    <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
+    <string name="battery_history_days_no_seconds">%1$d дн. %2$d ч. %3$d мин.</string>
+    <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
+    <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
     <string name="usage_stats_label">Статистика использования</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="display_order_text">Упорядочить по:</string>
@@ -1362,9 +1362,9 @@
     <string name="accessibility_global_gesture_preference_summary_off">Выкл.</string>
     <string name="accessibility_global_gesture_preference_description">"Вы сможете быстро включать специальные возможности. Вот как это сделать.
 
-1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
+1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой сигнал или вибросигнал.
 
-2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
+2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена.
 
 Если устройством пользуется несколько человек, специальные возможности будут включены до тех пор, пока устройство не будет разблокировано или не будет выбран другой пользователь."</string>
     <string name="accessibility_toggle_large_text_preference_title">Крупный текст</string>
@@ -1444,7 +1444,7 @@
     <string name="power_usage_summary_title">Батарея</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
     <string name="power_usage_not_available">Расход батареи неизвестен.</string>
-    <string name="power_usage_level_and_status">%1$s – %2$s</string>
+    <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
     <string name="battery_stats_on_battery">%1$s от батареи</string>
@@ -1525,10 +1525,10 @@
     <string name="process_stats_run_time">Время работы</string>
     <string name="services_subtitle">Сервисы</string>
     <string name="menu_proc_stats_duration">Период</string>
-    <string name="menu_duration_3h">3 ч.</string>
-    <string name="menu_duration_6h">6 ч.</string>
-    <string name="menu_duration_12h">12 ч.</string>
-    <string name="menu_duration_1d">1 д.</string>
+    <string name="menu_duration_3h">3 ч.</string>
+    <string name="menu_duration_6h">6 ч.</string>
+    <string name="menu_duration_12h">12 ч.</string>
+    <string name="menu_duration_1d">1 д.</string>
     <string name="menu_show_system">Системные процессы</string>
     <string name="menu_use_uss">Использовать USS</string>
     <string name="menu_proc_stats_type">Тип статистических данных</string>
@@ -1663,7 +1663,7 @@
     <string name="untitled_apn">Без названия</string>
     <string name="sound_category_sound_title">Общие</string>
     <string name="sound_category_notification_title">Оповещения</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Настройка мелодий</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Мелодии и вибрация</string>
     <string name="sound_category_system_title">Система</string>
     <string name="wifi_setup_title">Настройки Wi-Fi</string>
     <string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
@@ -1690,11 +1690,11 @@
     <string name="wifi_setup_status_connecting">Подключение…</string>
     <string name="wifi_setup_status_proceed_to_next">Далее</string>
     <string name="wifi_setup_status_eap_not_supported">EAP не поддерживается.</string>
-    <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\".</string>
+    <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\".</string>
     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут...</string>
     <string name="wifi_setup_description_connected">Нажмите <b>Далее</b>", чтобы продолжить настройку.
 
-Нажмите "<b>Назад</b>, чтобы подключиться к другой сети Wi‑Fi.</string>
+Нажмите "<b>Назад</b>, чтобы подключиться к другой сети Wi-Fi.</string>
     <string name="accessibility_sync_enabled">Синхронизация включена</string>
     <string name="accessibility_sync_disabled">Синхронизация отключена</string>
     <string name="accessibility_sync_error">Ошибка синхронизации.</string>
@@ -1785,7 +1785,7 @@
     <string name="force_hw_ui">GPU-ускорение</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
     <string name="force_msaa">Включить 4x MSAA</string>
-    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
+    <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="show_non_rect_clip">Отладить операции непрямоугольного усечения</string>
     <string name="track_frame_time">Запись времени работы GPU</string>
     <string name="window_animation_scale_title">Окно: масштаб</string>
@@ -1930,8 +1930,8 @@
     <string name="sel_sub_summary">Выбрать подписку Подп.1, Подп.2 и т.д.</string>
     <string name="select_subscription">Выбрать подписку</string>
     <string name="subs_settings">SUBS статус</string>
-    <string name="multi_sim_settings_title">Настройки Dual-SIM</string>
-    <string name="multi_sim_settings_summary">Установка настроек Dual-SIM для голоса, данных и SMS</string>
+    <string name="multi_sim_settings_title">Управление SIM картами</string>
+    <string name="multi_sim_settings_summary">Настройка и выбор SIM-карт для голоса, данных и SMS</string>
     <string name="voice_title">Голос/USSD/MMI</string>
     <string name="voice_summary">Выбрать подписку для голосового вызова</string>
     <string name="data_title">Вызов данных</string>
@@ -1977,7 +1977,7 @@
     <string name="user_need_lock_message">Чтобы создать профиль с ограниченным доступом, необходимо предварительно настроить блокировку экрана для защиты приложений и личных данных</string>
     <string name="user_set_lock_button">Включить блокировку</string>
     <string name="user_summary_not_set_up">Не настроено</string>
-    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
+    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
     <string name="user_owner">Владелец</string>
     <string name="user_you">Вы (%s)</string>
     <string name="user_nickname">Псевдоним</string>
@@ -2057,8 +2057,8 @@
     <string name="user_image_take_photo">Снять фото</string>
     <string name="user_image_choose_photo">Выбрать из галереи</string>
     <string name="regulatory_info_text" />
-    <string name="wifi_display_settings_empty_list_wifi_display_off">Что бы увидеть устройства включите Wi-Fi проектор</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi проектор отключен, так как нет подключения к сети Wi-Fi.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">Чтобы увидеть устройства включите функцию Wi-Fi проектор.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wi-Fi проектор отключен, так как нет подключения к сети.</string>
     <string name="wifi_display_search_for_devices">Поиск устройств</string>
     <string name="wifi_display_searching_for_devices">Поиск…</string>
     <string name="wifi_display_paired_devices">Подключенные устройства</string>
@@ -2254,7 +2254,7 @@ It не стирать :
     <string name="volume_bluetooth_sco_description">Bluetooth</string>
     <string name="volume_system_mute">Отключение системы</string>
     <string name="volume_bluetooth_sco_mute">Отключение Bluetooth</string>
-    <string name="notification_panel_title">Строка состояния и уведомлений</string>
+    <string name="notification_panel_title">Строка состояния и уведомления</string>
     <string name="category_screen_title">Экран</string>
     <string name="lockscreen_title">Фото на экране блокировки</string>
     <string name="led_app_msg_title">Уведомление смс</string>
@@ -2365,7 +2365,7 @@ It не стирать :
     <string name="status_network1">Состояние сети SIM-1</string>
     <string name="status_network2">Состояние сети SIM-2</string>
     <string name="status_data_network">Сеть передачи данных</string>
-    <string name="msim_settings">Настройки Dual-SIM</string>
+    <string name="msim_settings">Управление SIM картами</string>
     <string name="card_lte_all_toast">Первый слот для SIM-карты поддерживает 2G/3G/4G сети China Telecom, China Unicom и China Mobile; Второй слот для SIM-карты поддерживает 2G/3G/4G сети China Unicom и China Mobile. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
     <string name="card_all_toast">Первый слот для SIM-карты поддерживает 2G/3G сети China Telecom, China Unicom и China Mobile; Второй слот для SIM-карты поддерживает 2G/3G сети China Unicom и China Mobile.В то же время, первая карта работает в 3G сетях, а вторая только в сети GSM 2G.</string>
     <string name="card_g_lte_toast">Первый слот для SIM-карты и второй слот для SIM-карты поддерживают 2G/3G/4G сети China Unicom и China Mobile. В то же время, первая карта работает в 3G/4G сетях, а вторая только в сети GSM 2G.</string>
@@ -2596,10 +2596,10 @@ It не стирать :
     <string name="single_ui_mode_settings">Настройки работы одной рукой</string>
     <string name="pref_title_notification_card1_ringtone">Звук сообщения для SIM-карты 1</string>
     <string name="pref_title_notification_card2_ringtone">Звук сообщения для SIM-карты 2</string>
-    <string name="phone_one_ringtone">Звук вызова для SIM-карты 1</string>
-    <string name="phone_two_ringtone">Звук вызова для SIM-карты 2</string>
+    <string name="phone_one_ringtone">Мелодия вызова для SIM-карты 1</string>
+    <string name="phone_two_ringtone">Мелодия вызова для SIM-карты 2</string>
     <string name="wifi_check_addnetwork_title">Внимание</string>
-    <string name="wifi_check_addnetwork_message">"Не найдено сетей рядом
+    <string name="wifi_check_addnetwork_message">"Не найдено сетей поблизости
 %1$s"</string>
     <string name="wifi_check_addnetwork_working">Добавлена сеть %1$s</string>
     <string name="wifi_display_resolution_option">Разрешения</string>
@@ -2635,14 +2635,13 @@ It не стирать :
     <string name="wifi_display_manual_title">Руководство пользователя</string>
     <string name="wifidisplay_manual_01_01">Показать на ТВ</string>
     <string name="wifidisplay_manual_01_02">Вы можете подключаться к устройствам с функцией Wi-Fi проектор и передавать графику и звук с мобильного телефона после подключения</string>
-    <string name="wifidisplay_manual_01_03">* Если ваше устройство не поддерживает функцию Wi-Fi проектор, попробуйте наш аксессуар Nubia беспроводное устройство совместного доступа</string>
+    <string name="wifidisplay_manual_01_03">Если ваше устройство не поддерживает функцию Wi-Fi проектор, попробуйте наш аксессуар Nubia беспроводное устройство совместного доступа</string>
     <string name="wifidisplay_manual_02_01">Смотрите вместе, играйте вместе</string>
     <string name="wifidisplay_manual_02_02">Вы можете отображать контент вашего телефона на другом телефоне, и ваш телефон будет управляться</string>
     <string name="wifidisplay_manual_03_01">Коснитесь, Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_01_no_nfc">Нажмите, Подключите</string>
     <string name="wifidisplay_manual_03_02">Сканирование двумерного кода другого телефона, чтобы подключиться</string>
-    <string name="wifidisplay_manual_03_03">Один телефон c включеной функцией Wi-Fi проектор поднесите к другому смартфону для подключения (Оба телефона должны поддерживать NFC)</string>
-    <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
+    <string name="wifidisplay_manual_03_03">Телефон c включенной функцией Wi-Fi проектор поднесите к другому телефону для подключения (оба должны поддерживать NFC)</string>    <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
     <string name="wfd_source_screen_timeout">Тайм-аут экрана проектора</string>
     <string name="wfd_source_screen_timeout_summary">После %1$s бездействия во время проецирования, как экран проектора</string>
     <string name="wfd_source_screen_never_timeout_summary">Никогда не спать во время проецирования, как экран проектора</string>
@@ -2697,8 +2696,8 @@ It не стирать :
     <string name="sensory_answer_summary">Поднесите телефон к уху для ответа на звонок</string>
     <string name="turn_over_slient_or_pause_title">Переверните для отключения / паузы</string>
     <string name="turn_over_slient_or_pause_summary">Переверните для отключения звонка / паузы медиаплеера</string>
-    <string name="left_right_shake_title">Встряхните для смены песни</string>
-    <string name="left_right_shake_summary">Встряхните влево для предыдущей песни, встряхните вправо для следующей песни</string>
+    <string name="left_right_shake_title">Встряхните для смены муз. композиции</string>
+    <string name="left_right_shake_summary">Встряхните влево для предыдущей муз. композиции, встряхните вправо для следующей муз. композиции</string>
     <string name="shake_clear_title">Встряхните для очистки</string>
     <string name="shake_clear_summary">Очистка уведомлений, списка задач и памяти</string>
     <string name="hands_free_title">Установка громкой связи</string>
@@ -2733,7 +2732,7 @@ It не стирать :
     <string name="volley_handfree_intro">Машите руками для ответа на входящий звонок</string>
     <string name="volley_gesture_intro">Машите руками вверху телефона для прокрутки экрана</string>
     <string name="volley_gesture_intro_land">Машите руками вверху телефона для прокрутки экрана</string>
-    <string name="smart_gesture_music_intro">Встряхните влево для предыдущей песни, встряхните вправо для следующей песни</string>
+    <string name="smart_gesture_music_intro">Встряхните влево для предыдущей муз. композиции, встряхните вправо для следующей муз. композиции</string>
     <string name="volley_gesture_anticall_title_dialog">Набор номера и ответ на звонок жестом будет выключен</string>
     <string name="volley_gesture_anticall_title_message">Включение автоответа выключит набор номера и ответ на звонок жестом</string>
     <string name="smart_gesture_antivolley_title_dialog">Автоответ будет выключен</string>
@@ -2808,7 +2807,7 @@ It не стирать :
     <string name="mw_summary">Боковая панель, которая имитирует самсунговский MultiWindow FlashBar</string>
     <string name="after_sales_service">"Послепродажный сервис компании China Mobile"</string>
     <string name="after_sales_settings_desc">"Описание функций: 
-  для того, чтобы предоставить вам с бесплатным послепродажного обслуживания (Управление устройством через Management Platform Terminal установленную China Mobile, получить настройки вашего устройства дистанционного параметров и обновление программного обеспечения в любое время вы хотите), вам нужно свободно зарегистрировать устройство на Management Platform Terminal. После регистрации, текст сообщение будет отправлено на устройство только один раз бесплатно (текст messsage не будет отправлен в роуминге в HK / Макао / Тайвань или международном уровне)."</string>
+  для того, чтобы предоставить вам с бесплатным послепродажного обслуживания (Управление устройством через Management Platform Terminal установленную China Mobile, получить настройки вашего устройства дистанционного параметров и обновление программного обеспечения в любое время вы хотите), вам нужно свободно зарегистрировать устройство на Management Platform Terminal. После регистрации, текст сообщение будет отправлено на устройство только один раз бесплатно (текст messsage не будет отправлен в роуминге в HK / Макао / Тайвань или международном уровне)."</string>
     <string name="after_sales_settings_switch">Автозапуск при включении</string>
     <string name="clear_voice">Акустический тон</string>
     <string name="default_not_equals_prefer_data">Настройки MMS и передачи данных различны.</string>
