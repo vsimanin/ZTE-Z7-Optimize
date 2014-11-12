@@ -2596,10 +2596,10 @@ It не стирать :
     <string name="single_ui_mode_settings">Настройки работы одной рукой</string>
     <string name="pref_title_notification_card1_ringtone">Звук сообщения для SIM-карты 1</string>
     <string name="pref_title_notification_card2_ringtone">Звук сообщения для SIM-карты 2</string>
-    <string name="phone_one_ringtone">Мелодия вызова для SIM-карты 1</string>
-    <string name="phone_two_ringtone">Мелодия вызова для SIM-карты 2</string>
+    <string name="phone_one_ringtone">Звук вызова для SIM-карты 1</string>
+    <string name="phone_two_ringtone">Звук вызова для SIM-карты 2</string>
     <string name="wifi_check_addnetwork_title">Внимание</string>
-    <string name="wifi_check_addnetwork_message">"Не найдено сетей поблизости
+    <string name="wifi_check_addnetwork_message">"Не найдено сетей рядом
 %1$s"</string>
     <string name="wifi_check_addnetwork_working">Добавлена сеть %1$s</string>
     <string name="wifi_display_resolution_option">Разрешения</string>
