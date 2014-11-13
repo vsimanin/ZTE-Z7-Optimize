@@ -870,10 +870,10 @@
     <string name="one_year_time">1 год назад</string>
     <string name="no_contacted_time">Нет данных</string>
     <string name="menu_group">Группы</string>
-    <string name="menu_quick_search">Фильтр</string>
+    <string name="menu_quick_search">Быстрый поиск</string>
     <string name="menu_more">Еще</string>
     <string name="menu_scan">Сканер</string>
-    <string name="menu_display_setting">Настройки отображения</string>
+    <string name="menu_display_setting">Фильтр контактов</string>
     <string name="menu_advance">Дополнительно</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="dialpad_key_keyboard">Кнопки</string>
@@ -889,7 +889,7 @@
     <string name="temp_contact_call_missed">пропущенные</string>
     <string name="temp_contact_call_voicemail">голосовая почта</string>
     <string name="temp_contact_title">Несохраненный контакт</string>
-    <string name="temp_contact_view">Показать историю контакта</string>
+    <string name="temp_contact_view">История контакта</string>
     <string name="contact_history_inbox">Получить</string>
     <string name="contact_history_outbox">Послать</string>
     <string name="contact_history_title">История контакта</string>
@@ -904,7 +904,7 @@
     <string name="other">Другой</string>
     <string name="home">Дом</string>
     <string name="custom">Пользовательский</string>
-    <string name="menu_copy_contact_to_text">Копировать текст</string>
+    <string name="menu_copy_contact_to_text">Копировать контакт как текст</string>
     <string name="contact_save_to">Сохранить в</string>
     <string name="contact_history">История контакта</string>
     <string name="contact_detail">История контакта</string>
@@ -918,8 +918,8 @@
     <string name="contact_name_empty">Имя не должно быть пустым.</string>
     <string name="fax">Факс</string>
     <string name="menu_edit_group_action_bar">Изменить группу</string>
-    <string name="copy_number_text">Скопировать номер</string>
-    <string name="copy_email_text">Скопировать e-mail</string>
+    <string name="copy_number_text">Копировать номер как текст</string>
+    <string name="copy_email_text">Копировать e-mail как текст</string>
     <string name="set_default_number">Установить номер по умолчанию</string>
     <string name="clear_default_number">Очистить номер по умолчанию</string>
     <string name="set_default_email">Установить по умолчанию e-mail</string>
@@ -980,8 +980,8 @@
     <string name="menu_view_details">Посмотреть детали</string>
     <string name="option_insert_smiley">Смайлик</string>
     <string name="option_add_image">Фото</string>
-    <string name="option_take_picture">Сделать фото</string>
-    <string name="option_record_video">Записать видео</string>
+    <string name="option_take_picture">Снять фото</string>
+    <string name="option_record_video">Снять видео</string>
     <string name="option_add_video">Видео</string>
     <string name="option_record_sound">Записать аудио</string>
     <string name="option_insert_phrase">Фраза</string>
@@ -1001,7 +1001,7 @@
     <string name="option_copy_text">Копировать текст</string>
     <string name="option_add_to_contacts">Добавить в список контактов</string>
     <string name="option_view_contact">Просмотр контактов</string>
-    <string name="share_via_text_message">Текст сообщения</string>
+    <string name="share_via_text_message">SMS</string>
     <string name="new_message_create">Создать</string>
     <string name="more_options">Подробнее</string>
     <string name="message_record_count">%s сообщений</string>
@@ -1129,7 +1129,7 @@
     <string name="inline_subject">&lt;Тема: %s></string>
     <string name="drm_protected_text">* Текст защищен средствами DRM *</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно.</string>
-    <string name="copy_message_text">Скопировать текст</string>
+    <string name="copy_message_text">Копировать текст сообщения</string>
     <string name="message_options">Параметры сообщения</string>
     <string name="slideshow_options">Настройки слайд-шоу</string>
     <string name="done">Готово</string>
@@ -1473,7 +1473,7 @@
     <string name="cattle_04">Артурчик</string>
     <string name="cattle_05">Красотка</string>
     <string name="cattle_06">Бяка</string>
-    <string name="default_contact_card_setting">Выбор SIM-карты для контактов</string>
+    <string name="default_contact_card_setting">Выбор SIM-карты по умолчанию</string>
     <string name="continue_merge_part_contacts">Объединить контакты</string>
     <string name="no_merge_contacts_for_all">"Нет полностью повторяющихся контактов. 
 	Нажмите на кнопку для объединения не полностью дублирующихся контактов.</string>
