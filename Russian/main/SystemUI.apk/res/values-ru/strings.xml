@@ -289,7 +289,7 @@ PTP: Режим позволяет подключить телефон, как �
     <string name="nubia_recent_guide_up_drag">Сдвиньте вверх, чтобы закрыть</string>
     <string name="nubia_recent_guide_down_drag">Сдвиньте вниз, чтобы добавить в белый список</string>
     <string name="nubia_recent_guide_close">Я знаю</string>
-    <string name="nubia_recent_guide_open_white_list">Нажмите и удерживайте иконку для управления белым списком</string>
+    <string name="nubia_recent_guide_open_white_list">Удерживайте кнопку, чтобы перейти к белому списку</string>
     <string name="settings_low_battery_title">Низкий заряд батареи!</string>
     <string name="settings_low_battery_message">Уровень заряда батареи составляет менее 40%, подключите зарядное устройство.</string>
     <string name="status_bar_setting_lockscreen">Экран блокировки</string>

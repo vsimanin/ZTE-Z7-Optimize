@@ -708,7 +708,7 @@
     <string name="email_nonstandard">Email адрес некорректный</string>
     <string name="website_nonstandard">Вебсайт некорректный</string>
     <string name="not_support_email">" email не поддерживается."</string>
-    <string name="select_cards">Выбрать SIM-карту</string>
+    <string name="select_cards">Выбор SIM-карты</string>
     <string name="create_uim_phone_contact_failed">Ошибка создания UIM контакта.</string>
     <string name="create_sim_phone_contact_failed">Ошибка создания SIM контакта.</string>
     <string name="operation_cancel">Это действие было отменено.</string>
@@ -1023,7 +1023,7 @@
     <string name="copy_to_phone_success">сообщение было скопировано в памяти телефона</string>
     <string name="copy_to_phone_fail">ошибка копирования</string>
     <string name="pref_summary_notification_enabled">Уведомлять в строке состояния, когда приходит новое сообщение</string>
-    <string name="switch_card_title">Выбрать SIM-карту</string>
+    <string name="switch_card_title">Выбор SIM-карты</string>
     <string name="china_unicom">China unicom</string>
     <string name="china_mobile">China mobile</string>
     <string name="china_telecom">China telecom</string>
@@ -1046,7 +1046,7 @@
     <string name="copy_to_card_success">Копирование завершено</string>
     <string name="copy_to_card_fail">Ошибка копирования</string>
     <string name="wait_for_copy_sms_to_sim">Пожалуйста, дождитесь окончания копирования смс</string>
-    <string name="double_card_setting">Настройки Dual-SIM</string>
+    <string name="double_card_setting">Управление SIM картами</string>
     <string name="switch_card_result">В связи с MMS, SIM-карта была переключена</string>
     <string name="switch_card_result_sucess">успешно!</string>
     <string name="switch_card_result_failed">неудачно!</string>
