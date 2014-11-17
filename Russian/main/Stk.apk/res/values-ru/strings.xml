@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SIM-сервис</string>
-    <string name="app_name2">Меню SIM-карты 2</string>
-    <string name="app_name3">Меню SIM-карты 3</string>
+    <string name="app_name">Сервис SIM</string>
+    <string name="app_name2">Сервис SIM 2</string>
+    <string name="app_name3">Сервис SIM 3</string>
     <string name="menu_end_session">Закончить сеанс</string>
     <string name="help">Справка</string>
     <string name="menu_back">Назад</string>
