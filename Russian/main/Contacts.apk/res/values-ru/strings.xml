@@ -974,7 +974,7 @@
     <string name="recipients_messagement_title">Управление получателями</string>
     <string name="recipients_list_title">Список получателей</string>
     <string name="selected">Отобранные:</string>
-    <string name="menu_copy_text">Копировать текст</string>
+    <string name="menu_copy_text">Копировать текст сообщения</string>
     <string name="menu_copy_to_SIM">Копироват на SIM-карту</string>
     <string name="menu_save_attachment">Сохранить вложение</string>
     <string name="menu_view_details">Посмотреть детали</string>
@@ -998,7 +998,7 @@
     <string name="option_send_message">Отправить сообщение</string>
     <string name="option_send_email">Отправить email</string>
     <string name="option_browse_web_url">Открыть в браузере</string>
-    <string name="option_copy_text">Копировать текст</string>
+    <string name="option_copy_text">Копировать как текст</string>
     <string name="option_add_to_contacts">Добавить в список контактов</string>
     <string name="option_view_contact">Просмотр контактов</string>
     <string name="share_via_text_message">SMS</string>
