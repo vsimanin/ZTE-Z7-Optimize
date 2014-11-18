@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="common_harass_categories">
+	<item>SMS со спамом</item>
+	<item>Беспокоящие вызовы</item>
+        <item>Управление блокировкой</item>
+    </string-array>
+    <string-array name="stopProcess">
+        <item>Завершить</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Добавьте вручную</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Отправить</item>
+    </string-array>
     <string-array name="app_ops_permissions">
         <item>Разрешить</item>
         <item>Игнорировать</item>
@@ -9,38 +23,7 @@
         <item>По категориям</item>
         <item>По приложениям</item>
     </string-array>
-    <string-array name="list_entries">
-        <item>Принимать только из белого списка</item>
-        <item>Блокировать только из черного списка</item>
-    </string-array>
-    <string-array name="harass_categories">
-        <item>SMS со спамом</item>
-        <item>Беспокоящие вызовы</item>
-        <item>Управление блокировкой</item>
-    </string-array>
-    <string-array name="add_blacklist_categories">
-        <item>Последние</item>
-        <item>Контакты</item>
-        <item>Сообщения</item>
-		<item>Маркированные</item>
-        <item>Вручную</item>
-    </string-array>
-    <string-array name="harass_intercept_manager">
-        <item>Управление маркировкой номера</item>
-        <item>Управление черным списком</item>
-        <item>Настройки блокировки</item>
-    </string-array>
-    <string-array name="harass_marker_category">
-        <item>Беспокоящие телефонные звонки</item>
-        <item>Реклама и маркетинг</item>
-        <item>Агентство недвижимости</item>
-        <item>Другие</item>
-    </string-array>
-    <string-array name="app_ops_op_category">
-        <item>Конфиденциальность</item>
-        <item>Безопасность</item>
-    </string-array>
-	<string-array name="app_ops_summaries_4_3">
+    <string-array name="app_ops_summaries_4_3">
         <item>грубое местоположение</item>
         <item>точное местоположение</item>
         <item>GPS</item>
@@ -222,29 +205,66 @@
         <item>Писать MMS</item>
         <item>Автозагрузка</item>
     </string-array>
-	<string-array name="app_ops_op_group">
+    <string-array name="app_ops_op_group">
         <item>Связанные с</item>
         <item>Могут</item>
     </string-array>
-	<string-array name="smsoperate">
+    <string-array name="smsoperate">
         <item>Локальное восстановление</item>
         <item>Полное удаление</item>
         <item>Переадресация</item>
     </string-array>
-	<string-array name="addButton">
+    <string-array name="addButton">
         <item>Добавить</item>
     </string-array>
-	<string-array name="command_name">
+    <string-array name="command_name">
         <item>Письмо</item>
     </string-array>
     <string-array name="remoteguard_manoeuvre_illustrate">
-        <item> Пригласите друга для тренировки! </item> 
-         <item> "1, Сделайте вид, что телефон утерян или забыт"</item> 
-         <item> "2, Ваш товарищ находит телефон"</item> 
-         <item> "3, Где же мой телефон, что ж делать?"</item> 
-         <item> "4, Ура! Письмо от Антивора!"</item> 
-         <item> "5, На указанный телефон пришло письмо от Антивора с инструкциями!"</item> 
-         <item> "Теперь вы можете не беспокоиться о потере вашего телефона. Вы всегда сможете его найти."</item>
+        <item>Пригласите друга для тренировки!</item>
+        <item>1, Сделайте вид, что телефон утерян или забыт</item>
+        <item>2, Ваш товарищ находит телефон</item>
+        <item>3, Где же мой телефон, что делать?</item>
+        <item>4, Ура! Письмо от Антивора!</item>
+        <item>5, На указанный телефон пришло письмо от Антивора с инструкциями!</item>
+        <item>Теперь вы можете не беспокоиться о потере вашего телефона. Вы всегда сможете его найти.</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Принимать только из белого списка</item>
+        <item>Блокировать только из черного списка</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>SMS со спамом</item>
+        <item>Беспокоящие вызовы</item>
+        <item>Управление блокировкой</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Последние</item>
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>Маркированные</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>СМС</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Управление маркировкой номера</item>
+        <item>Управление черным списком</item>
+        <item>Настройки блокировки</item>
+    </string-array>
+    <string-array name="harass_marker_category">
+        <item>Беспокоящие телефонные звонки</item>
+        <item>Реклама и маркетинг</item>
+        <item>Агентство недвижимости</item>
+        <item>Другие</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>Удалять</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Конфиденциальность</item>
+        <item>Безопасность</item>
     </string-array>
     <string-array name="command_receipt">
         <item></item>
@@ -253,20 +273,5 @@
         <item>Команда -Очистить данные- была выполнена</item>
         <item></item>
         <item></item>
-    </string-array>
-	<string-array name="stopProcess">
-        <item>Завершить</item>
-    </string-array>
-    <string-array name="addSelfStart">
-        <item>Добавьте вручную</item>
-    </string-array>
-    <string-array name="sendsuggest_array">
-        <item>Отправить</item>
-    </string-array>
-	<string-array name="add_sms_to_blacklist">
-        <item>СМС</item>
-    </string-array>
-    <string-array name="delete_grabage_sms">
-        <item>Удалять</item>
     </string-array>
 </resources>
