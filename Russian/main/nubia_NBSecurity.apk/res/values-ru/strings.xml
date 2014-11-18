@@ -27,6 +27,7 @@
     <string name="common_contacts_add_phonebook">Добавить из адресной книги</string>
     <string name="common_notification_security_title">Ваш телефон защищен!</string>
     <string name="common_notification_traffic_no_use">Еще не установлен предел трафика</string>
+    <string name="common_module_harass_intercept_name">Антиспам</string>
     <string name="common_notification_today_use">За сутки: </string>
     <string name="common_notification_month_free">Остаток: </string>
     <string name="common_async_load_tips">Трудная загрузка, подождите...</string>
