@@ -590,7 +590,7 @@
     <string name="dial_call">Набранные</string>
     <string name="miss_call">Пропущенные</string>
     <string name="menu_call_timer">Счетчик вызовов</string>
-    <string name="ringer">"Вызовов "</string>
+    <string name="ringer">"гудков "</string>
     <string name="ringer_time">" "</string>
     <string name="type_rejectedIncoming">Отклоненные входящие вызовы</string>
     <string name="motion_callout_opened_msg">Набор номера с помощью датчика приближения</string>
@@ -890,8 +890,8 @@
     <string name="temp_contact_call_voicemail">голосовая почта</string>
     <string name="temp_contact_title">Несохраненный контакт</string>
     <string name="temp_contact_view">История контакта</string>
-    <string name="contact_history_inbox">Получить</string>
-    <string name="contact_history_outbox">Послать</string>
+    <string name="contact_history_inbox">принятые</string>
+    <string name="contact_history_outbox">отправленные</string>
     <string name="contact_history_title">История контакта</string>
     <string name="no_call_log_tip">Нет журнала вызовов</string>
     <string name="name">Имя</string>
