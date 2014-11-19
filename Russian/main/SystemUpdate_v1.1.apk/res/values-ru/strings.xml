@@ -198,5 +198,4 @@
     <string name="fota_server_setting">Настройки сервера</string>
     <string name="no_access_warning_dlg_title">Внимание</string>
     <string name="no_access_warning_dlg_msg">Внимание: Телефонные звонки, в том числе 112 не будут доступны во время процесса обновления. Устройство необходимо перезагрузить после завершения, чтобы вернуться к нормальной работе.</string>
-
 </resources>
