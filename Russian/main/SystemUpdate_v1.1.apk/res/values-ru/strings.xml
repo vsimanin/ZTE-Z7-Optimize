@@ -163,9 +163,16 @@
     <string name="before_sd_update_lack_battery_message">Невозможно начать обновление при низком заряде батареи. Зарядите телефон.</string>
     <string name="start_check_update_package">Начать обновление</string>
     <string name="start_check_update_package_title">Обновить со встроенной памяти</string>
-    <string name="install_update_disk">"Скопируйте пакет обновления в корневую папку диска до начала.
-	Обновление не удалит ваши данные.
-	Пожалуйста, не вынимайте SIM-карту и не отключайте питание.</string>
+    <string name="install_update_disk">"
+"<li>"Перед началом скопируйте пакет обновления в корневую дирректорию SD-карты.
+
+"</li><li>"Личные файлы не будут удалены в процессе обновления.
+
+"</li><li>"Убедитесь, что батарея полностью заряжена и не извлекайте SIM или SD-карту в процессе обновления.
+
+"</li><li><font color="red">"Предупреждение: Телефонные звонки, в том числе 112 не будут доступны во время процесса обновления. Устройство необходимо перезагрузить после завершения, чтобы вернуться к нормальной работе.
+
+"</font></li></string>
     <string name="icc_card_absent">ICC карта отсутствует</string>
     <string name="nubia_name">Nubia</string>
     <string name="personality_desc">Индивидуальный подход к жизни</string>
@@ -173,7 +180,7 @@
     <string name="new_version_found_tip">Есть новая версия:</string>
     <string name="new_version_download_tip">Скачали новую версию:</string>
     <string name="downloading_tip">Качаете новую версию:</string>
-    <string name="download_error_tip">Произошла ошибка, пожалуйста, проверьте вашу сеть и повторите</string>
+    <string name="download_error_tip">Произошла ошибка, проверьте сеть и повторите попытку</string>
     <string name="system_update_settings_list_item_title_fota">Обновление по воздуху</string>
     <string name="update_gesture_prompt">Для разблокировки введите графический ключ</string>
     <string name="update_gesture_explanation">Введите графический ключ для перезагрузки телефона и применения обновления.</string>
@@ -189,6 +196,6 @@
     <string name="dm_update_date">Дата обновления</string>
     <string name="system_update_settings_list_item_title_storage">Обновить со встроенной памяти</string>
     <string name="fota_server_setting">Настройки сервера</string>
-    <string name="no_access_warning_dlg_msg">Внимание: Телефонные звонки в том числе 911 не будут доступны во время процесса обновления. Устройство необходимо перезагрузить после завершения, чтобы вернуться к нормальной работе.</string>
     <string name="no_access_warning_dlg_title">Внимание</string>
+    <string name="no_access_warning_dlg_msg">Внимание: Телефонные звонки, в том числе 112 не будут доступны во время процесса обновления. Устройство необходимо перезагрузить после завершения, чтобы вернуться к нормальной работе.</string>
 </resources>
