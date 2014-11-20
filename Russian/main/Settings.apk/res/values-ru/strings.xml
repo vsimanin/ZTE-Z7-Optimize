@@ -2251,7 +2251,7 @@ It не стирать :
     <string name="pri_version">PRI версия</string>
     <string name="silent_mode_title">Беззвучный режим</string>
 	<string name="sound_category_vibrate_title">Вибрация</string>	
-    <string name="volume_system_description">Система (получение фото, захват экрана, блокировка экрана, касание, и т.д.)</string>
+    <string name="volume_system_description">Система (камера, скриншот, блокировка, нажатие и т.д.)</string>
     <string name="volume_bluetooth_sco_description">Bluetooth</string>
     <string name="volume_system_mute">Отключение системы</string>
     <string name="volume_bluetooth_sco_mute">Отключение Bluetooth</string>
