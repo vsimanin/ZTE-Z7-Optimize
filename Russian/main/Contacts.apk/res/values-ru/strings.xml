@@ -469,7 +469,7 @@
     <string name="menu_help">Справка</string>
     <string name="preference_displayOptions">Варианты отображения</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
-    <string name="hint_findContacts">Найти контакты</string>
+    <string name="hint_findContacts">Найти контакт</string>
     <string name="non_phone_caption">Номер телефона</string>
     <string name="non_phone_add_to_contacts">Добавить в контакты</string>
     <string name="activity_title_confirm_add_detail">Добавление данных</string>

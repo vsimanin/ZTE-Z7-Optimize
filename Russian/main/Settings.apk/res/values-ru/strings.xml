@@ -682,7 +682,7 @@
     <string name="all_volume_title">Громкость</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="ring_volume_title">Громкость звонка</string>
-    <string name="vibrate_in_silent_title">Вибросигнал в беззвучном режиме</string>
+    <string name="vibrate_in_silent_title">Вибрация в беззвучном режиме</string>
     <string name="notification_sound_title">Уведомление</string>
     <string name="notification_pulse_title">Индикатор событий</string>
     <string name="incoming_call_volume_title">Мелодия</string>
@@ -706,7 +706,7 @@
     <string name="volume_media_mute">Выключить музыку и прочее медиа</string>
     <string name="volume_notification_mute">Выключить уведомления</string>
     <string name="volume_alarm_mute">Выключить будильники</string>
-    <string name="vibrate_when_ringing_title">Вибросигнал при вызове</string>
+    <string name="vibrate_when_ringing_title">Вибрация при вызове</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
