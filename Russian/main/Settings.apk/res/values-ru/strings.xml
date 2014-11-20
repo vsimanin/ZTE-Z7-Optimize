@@ -2323,7 +2323,7 @@ It не стирать :
     <string name="more_settings">Дополнительно</string>
     <string name="hardware_version">Версия телефона</string>
     <string name="nubia_version">Версия интерфейса Nubia</string>
-    <string name="power_show_as_percentage">Процент батареи</string>
+    <string name="power_show_as_percentage">Процент заряда</string>
     <string name="battery_alert">Предупреждение батареи</string>
     <string name="battery_alert_summary">Напомнить зарядить на ночь, если уровень снизился более чем на 40%</string>
     <string name="agps_settings_title">AGPS Настройки</string>
@@ -2578,7 +2578,7 @@ It не стирать :
     <string name="storage_format_summary">Удаление всех данных с внутренней памяти, таких как музыка и фото</string>
     <string name="app_format_summary">Удалить установленные приложения</string>
     <string name="wifi_display_wps_option_setup">WPS</string>
-    <string name="default_data_summary">Использовать передачу данных для %1$s</string>
+    <string name="default_data_summary">Использовать передачу данных %1$s</string>
     <string name="erase_internal_storage">Очистить внутреннюю память</string>
     <string name="erase_internal_storage_description">Удалить музыку, фото, видео и прочее</string>
     <string name="wifi_menu_wps_pbc_summary">Пожалуйста, убедитесь, что беспроводной маршрутизатор поддерживает WPS</string>
