@@ -54,7 +54,7 @@
     <string name="user_feedback1">Обратная связь</string>
     <string name="about_software1">О программе</string>
     <string name="close_software1">Выйти из приложения</string>
-    <string name="current_software_version">Версия приложения: V%1$s</string>
+    <string name="current_software_version">Версия приложения: %1$s</string>
     <string name="auto_optimize_when_lockscreen">Очистка памяти при блокировке</string>
     <string name="gpu_auto_optimize">Автоматическая оптимизация</string>
     <string name="gpu_manual_optimize">Ручная оптимизация</string>

@@ -198,7 +198,7 @@
     <string name="reboot_safemode_title">Переход в безопасный режим</string>
     <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
     <string name="recent_tasks_title">Недавние</string>
-    <string name="no_recent_tasks">Список недавно запущенных приложений пуст.</string>
+    <string name="no_recent_tasks">Список недавних приложений пуст.</string>
     <string name="global_actions">Параметры телефона</string>
     <string name="global_action_lock">Блокировка экрана</string>
     <string name="global_action_power_off">Отключить питание</string>
