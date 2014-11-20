@@ -674,7 +674,7 @@
     <string name="onscreenMoreText">Еще</string>
     <string name="onscreenSeparateCallText">Разделить</string>
     <string name="onscreenSwapText">Заменить вызовы</string>
-    <string name="onscreenManageConferenceCallsText">Управление</string>
+    <string name="onscreenManageConferenceCallsText">Управление конференц связью</string>
     <string name="labelCallerIdHide">Cкрыть номер</string>
     <string name="status_number">Мой номер телефона</string>
     <string name="device_info_not_available">Недоступно</string>
