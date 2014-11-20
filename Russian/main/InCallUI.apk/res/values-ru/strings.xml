@@ -631,7 +631,7 @@
     <string name="dial_mute">Откл. звук</string>
     <string name="dial_speaker">Динамик</string>
     <string name="dial_end">Отбой</string>
-    <string name="return_incallscreen">Назад</string>
+    <string name="return_incallscreen">Нажмите здесь, чтобы вернуться к вызову</string>
     <string name="call_prompts">Индикация при вызове</string>
     <string name="call_vibration">Вибрация при вызове</string>
     <string name="call_vibration_text">Настройки вибрации при вызове</string>
