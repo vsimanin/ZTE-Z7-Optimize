@@ -170,7 +170,7 @@
     <string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>
     <string name="pref_privacy_clear_cookies_dlg">Удалить все файлы cookie?</string>
     <string name="pref_privacy_clear_history">Очистить историю</string>
-    <string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
+    <string name="pref_privacy_clear_history_summary">Очистить список посещенных сайтов</string>
     <string name="pref_privacy_clear_history_dlg">Очистить историю браузера?</string>
     <string name="pref_privacy_formdata_title">Данные форм</string>
     <string name="pref_privacy_clear_form_data">Очистить данные формы</string>
@@ -377,7 +377,7 @@
     <string name="menu_share">Поделиться</string>
     <string name="menu_delete">Удалить</string>
     <string name="menu_more">Ещё</string>
-    <string name="add_newtab">Новый</string>
+    <string name="add_newtab">Новая вкладка</string>
     <string name="menu_snapshots_delete">Удалить снимки</string>
     <string name="menu_history_delete">Очистить историю</string>
     <string name="pref_privacy_clear_snap_dlg">Удалить сохраненные страницы в браузере?</string>
