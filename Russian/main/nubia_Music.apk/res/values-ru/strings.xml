@@ -131,8 +131,8 @@
     <string name="favo_cancel_tip">Удалить из Избранных</string>
     <string name="add_playlist_success_tip">Успешно добавлено</string>
     <string name="all">Все</string>
-    <string name="singlesongs">%d Песен</string>
-    <string name="singlesong">%s Песня</string>
+    <string name="singlesongs">%d песен</string>
+    <string name="singlesong">%s песня</string>
     <string name="delete_album_desc">Удалить альбом %s с SD-карты?</string>
     <string name="delete_album_desc_nosdcard">Удалить альбом %s с USB-хранилища?</string>
     <string name="set_call_rongtone">Установить на звонок</string>
@@ -148,7 +148,7 @@
     <string name="settings">Настройки</string>
     <string name="setting_about">О музыке</string>
     <string name="setting_timer">Таймер отключения</string>
-    <string name="setting_auto_img">Загружать обложки и текст</string>
+    <string name="setting_auto_img">Искать обложку и слова</string>
     <string name="setting_download_qualification">Качество загружаемого контента</string>
     <string name="setting_download_path">Загружать в папку</string>
     <string name="setting_time_filter">Фильтр 60 секунд</string>
@@ -389,6 +389,9 @@
     <string name="delete_playlist_desc_new">Удалить навсегда \"%s\" ?</string>
     <string name="singleplaylist">( %s плейлист)</string>
     <string name="delete_playlist_success">Плейлист успешно удалён</string>
+    <string name="custom_scan">Выборочно</string>
+    <string name="scan_setting">Настройки сканирования</string>
+    <string name="skip_bell_file">Пропускать мелодии</string>
     <string name="about_app">О приложении</string>
     <string name="about_music">О приложении</string>
     <string name="account_info">Информация об аккаунте</string>
@@ -417,7 +420,7 @@
     <string name="collectt_fail_for_playlistnum_excees">Большое количество плейлистов, сборка не удалась</string>
     <string name="common_user">Обычный пользователь</string>
     <string name="common_user_des">Преимущество： 500 песен с битрейтом 128kbps для хранения в облаке.</string>
-    <string name="default_skin_name">Обложка по умолчанию</string>
+    <string name="default_skin_name">Стандартная</string>
     <string name="delete_skin_msg">Удалить обложку %s </string>
     <string name="down_pull_refresh">Обновление</string>
     <string name="download_playlist">Скачать все</string>

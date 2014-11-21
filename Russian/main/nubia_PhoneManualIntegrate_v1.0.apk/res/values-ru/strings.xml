@@ -123,11 +123,11 @@
     <string name="nubia_res_time_picker_increment_minute_button">Увеличить минуты</string>
     <string name="nubia_res_time_picker_increment_set_pm_button">Установить PM</string>
     <string name="update_auto_prompt">Автовыбор контента для обновления</string>
-    <string name="update_content_choose">Выберите контент для обновления.</string>
+    <string name="update_content_choose">Выберите контент для обновления</string>
     <string name="update_content_later">Обновить позже</string>
     <string name="update_content_now">Обновить сейчас</string>
-    <string name="update_content_prompt">Проверить наличие новых версии</string>
-    <string name="update_version">Версия обновления</string>
+    <string name="update_content_prompt">Проверить наличие новых версий</string>
+    <string name="update_version">Обновление версии</string>
     <string name="user_manual_download">Загрузка...</string>
     <string name="user_manual_download_agin">Пожалуйста загрузить повторно</string>
     <string name="user_manual_file_size">Размер файла: %1$s , зарузить?</string>

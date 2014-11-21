@@ -51,8 +51,8 @@
     <string name="video_return">Назад</string>
     <string name="video_frame_save_as">Сохранить:</string>
     <string name="video_cutframe">Вырезать кадр</string>
-    <string name="video_snapshot">Снимок</string>
-    <string name="video_snapshot_failed">Ошибка снимка!!!</string>
+    <string name="video_snapshot">Сохранить кадр</string>
+    <string name="video_snapshot_failed">Ошибка сохранения!</string>
     <string name="video_snapshot_saving">Сохранение снимка...</string>
     <string name="video_not_support_snapshot">Файл не поддерживается</string>
     <string name="video_cannot_get_details">Нет данных.</string>

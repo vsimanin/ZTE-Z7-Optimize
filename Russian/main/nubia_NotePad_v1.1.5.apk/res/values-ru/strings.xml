@@ -8,11 +8,11 @@
     <string name="Password_setting">Настройки пароля</string>
     <string name="Share">Передать</string>
     <string name="chooseNote">Выбрать запись</string>
-    <string name="chooseMultiNote">Выбранную(ые) запись(и)</string>
+    <string name="chooseMultiNote">Отмеченно заметок:</string>
     <string name="Add_to_homeswcreen">Добавить на главный экран</string>
     <string name="Lock_or_Unlock">Блокировать или разблокировать</string>
     <string name="checklist">Список</string>
-    <string name="plain_text">Обычный текст</string>
+    <string name="plain_text">Текст</string>
     <string name="lock">Блокировать</string>
     <string name="unlock">Разблокировать</string>
     <string name="search">Поиск</string>
@@ -24,14 +24,14 @@
     <string name="select_all">Выбрать все</string>
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
-    <string name="delete_check_message">Вы действительно хотите удалить %1$d помеченных записей(ь)?</string>
+    <string name="delete_check_message">Вы действительно хотите удалить %1$d помеченных записей?</string>
     <string name="delete_this_message">Вы действительно хотите удалить эти записи</string>
     <string name="delete_one_note_message">Вы действительно хотите удалить эти записи?</string>
     <string name="save_success">Успешно сохранено</string>
     <string name="save_note">Сохранить запись</string>
-    <string name="whether_save_note">Вы действительно хотите сохранить эту запись</string>
+    <string name="whether_save_note">Вы действительно хотите сохранить эту запись?</string>
     <string name="save_cannot_empty">Содержание не может быть пустым</string>
-    <string name="widget_tip">Нажмите, чтобы добавить ещё одну запись</string>
+    <string name="widget_tip">Нажмите, чтобы добавить запись</string>
     <string name="widget_label_2x2">Блокнот(2x2)</string>
     <string name="widget_label_4x4">Блокнот(4x4)</string>
     <string name="password_setting">Настройки пароля</string>
@@ -49,7 +49,7 @@
     <string name="input_ok">OK</string>
     <string name="input_cancel">Отмена</string>
     <string name="input_password_message">Ввести пароль на разблокировку.</string>
-    <string name="invalid_password">Недействительный пароль, пожалуйста сбросьте ваш пароль.</string>
+    <string name="invalid_password">Недействительный пароль, сбросьте ваш пароль.</string>
     <string name="wrong_password">Неверный пароль! Пожалуйста попробуйте снова.</string>
     <string name="wrong_change_password">Пароли не совпадают, попробуйте снова.</string>
     <string name="new_password_change">Ваш новый пароль был изменен</string>
@@ -64,7 +64,7 @@
     <string name="have_set_remind">Напоминание</string>
     <string name="remind_has_expired">Напоминание истекло</string>
     <string name="more">Еще</string>
-    <string name="current_time_cannot_set">Текущее время не установлено</string>
+    <string name="current_time_cannot_set">Указанное время меньше текущего!</string>
     <string name="have_delete">Записи были удалены</string>
     <string name="sdcard_cannot_user">Память устройства недоступна</string>
     <string name="sdcard_export">(%1$s) файлов экспортировано на sd карту</string>
@@ -98,9 +98,9 @@
     <string name="hour_label">ч.</string>
     <string name="minute_label">м.</string>
     <string name="second_label">сек.</string>
-    <string name="month_label">месяц</string>
+    <string name="month_label">мес.</string>
     <string name="day_label">день</string>
-    <string name="empty_search">Пустой поиск</string>
+    <string name="empty_search">Ничего нет</string>
     <string name="outoff_size">Длинна текста слишком большая</string>
-    <string name="no_words">Содержание файла пустое, пожалуйста, введите данные</string>
+    <string name="no_words">Содержание файла пустое, введите текст</string>
 </resources>

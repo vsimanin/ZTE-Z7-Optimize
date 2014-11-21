@@ -1351,7 +1351,7 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
+"<li><ul>" панорамировать – проведите пальцами по экрану;
 "<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
@@ -2286,12 +2286,12 @@ It не стирать :
     <string name="location_preference_title">Служба местоположения</string>
     <string name="install_settings">Мастер установки</string>
     <string name="device_admin_and_credentials_title">Разрешения и учетные данные</string>
-    <string name="reduce_dynamic_effect_title">Уменьшить динамический эффект.</string>
-    <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI，включая эффект параллакса иконки и уведомления</string>
+    <string name="reduce_dynamic_effect_title">Уменьшить динамические эффекты</string>
+    <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI, включая эффект параллакса иконки и уведомления</string>
     <string name="no_account">Нет аккаунтов</string>
     <string name="no_vpn">Нет VPN</string>
     <string name="feature_settings">Дополнительные настройки</string>
-    <string name="smartface_settings">Смарт чехол</string>
+    <string name="smartface_settings">Настройки чехла</string>
     <string name="suspension_settings">Операция приостановки</string>
     <string name="content_preview_title">Предпросмотр содержаний</string>
     <string name="content_preview_summary">Наведите палец над экраном, чтобы просмотреть детали содержания</string>
@@ -2306,17 +2306,17 @@ It не стирать :
     <string name="quick_communication_info1">При пропущенном вызове, &lt;br>&lt;b>удерживайте&lt;/b>палец над иконкой вызова &lt;/br>&lt;b>для предпросмотра&lt;/b> и быстрого набора</string>
     <string name="quick_communication_info2">&lt;br>&lt;b>Удерживайте&lt;/b>палец над списком контактов, вызовов и сообщений&lt;/br> для быстрого вызова и отправки СМС</string>
     <string name="split_screen_settings">Разделение экрана</string>
-    <string name="split_screen_info">Разделить экран на две части, чтобы увидеть два приложения одновременно</string>
+    <string name="split_screen_info">Разделите экран на две части, чтобы использовать два приложения одновременно</string>
     <string name="split_screen_manual">Включить вручную разделение экрана</string>
     <string name="split_screen_slide_up_titile">Жест для запуска разделения экрана</string>
     <string name="split_screen_slide_up_summary">Проведите вверх от нижней части экрана, чтобы запустить разделение экрана</string>
     <string name="split_screen_slide_up_info">Когда режим разделения экрана включен, вы можете &lt;font_size>провести &lt;/font_size>от нижней части экрана, чтобы &lt;font_size>запустить разделение экрана &lt;/font_size></string>
     <string name="split_screen_mode_title">Режим разделения экрана</string>
-    <string name="split_screen_mode_summary">Режим разделения экрана включен и экран разделен на две части; вы можете использовать жест Swype для разделения экрана.</string>
-    <string name="bottom_key_definition_title">Настройки нижних клавиш</string>
-    <string name="bottom_key_definition_summary">Поменять местами клавиши Меню и Возврат</string>
-    <string name="layout_one">Вариант один</string>
-    <string name="layout_two">Вариант два</string>
+    <string name="split_screen_mode_summary">Разделение экрана на две части; Вы можете использовать жест Swype для разделения экрана.</string>
+    <string name="bottom_key_definition_title">Настройка нижних клавиш</string>
+    <string name="bottom_key_definition_summary">Поменять местами клавиши Меню и Назад</string>
+    <string name="layout_one">Вариант 1</string>
+    <string name="layout_two">Вариант 2</string>
     <string name="bottom_key_menu">Меню</string>
     <string name="bottom_key_home">Домой</string>
     <string name="bottom_key_back">Назад</string>
@@ -2326,12 +2326,12 @@ It не стирать :
     <string name="power_show_as_percentage">Процент заряда</string>
     <string name="battery_alert">Предупреждение батареи</string>
     <string name="battery_alert_summary">Напомнить зарядить на ночь, если уровень снизился более чем на 40%</string>
-    <string name="agps_settings_title">AGPS Настройки</string>
+    <string name="agps_settings_title">A-GPS настройки</string>
     <string name="prefer_xtra_title">Предпочтительнее XTRA</string>
-    <string name="prefer_xtra_summaryOn">Сократить время позиционирования, вызывать небольшое использование данных</string>
+    <string name="prefer_xtra_summaryOn">Сократить время позиционирования, вызывая небольшое использование трафика</string>
     <string name="prefer_xtra_summaryOff">Позволяет повысить производительность GPS</string>
     <string name="position_mode_section_title">Режим позиционирования</string>
-    <string name="position_mode_title">Режим позиционирования AGPS</string>
+    <string name="position_mode_title">Режим позиционирования A-GPS</string>
     <string name="select_position_mode_title">Выбрать режим позиционирования</string>
     <string name="supl_settings">Настройки SUPL</string>
     <string name="supl_server">Сервер SUPL</string>
@@ -2523,7 +2523,7 @@ It не стирать :
     <string name="sim_card_1">SIM-карта 1</string>
     <string name="sim_card_2">SIM-карта 2</string>
     <string name="capture_screen_title">Снимок экрана</string>
-    <string name="capture_screen_summary">Нажмите клавишу питания и клавишу громкости, чтобы сделать снимок.</string>
+    <string name="capture_screen_summary">Нажмите кнопку уменьшения громкости и питания, чтобы сделать снимок.</string>
     <string name="one_key_wps">Включение WPS одним нажатием</string>
     <string name="app_name">BlueTab Man</string>
     <string name="service_name">BlueTab Man услуги</string>
