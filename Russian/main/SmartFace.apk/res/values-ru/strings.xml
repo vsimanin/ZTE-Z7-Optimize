@@ -16,6 +16,6 @@
     <string name="title_enable_smartface_ordinary_preference">Обычный чехол</string>
     <string name="enable_smartface_ordinary_summary">Чехол с функцией быстрой разблокировки</string>
     <string name="smartface_support_info">Эту функцию поддерживает только смартфон Nubia.</string>
-    <string name="smartface_function_info_1">Интерактивное окно позволяет отображать дату, время, управление музыкой и будильником.</string>
+    <string name="smartface_function_info_1">Интерактивное окно позволяет отображать дату, время, управлять музыкой и будильником.</string>
     <string name="smartface_function_info_2">Вы можете увидеть пропущенные события в интерактивном окне.</string>
 </resources>
