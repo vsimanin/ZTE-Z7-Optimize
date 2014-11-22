@@ -343,7 +343,7 @@
     <string name="downloadpath_invild">Недопустимый путь сохранения, зайдите в настройки для сброса.</string>
     <string name="downloadpath_not_dir">Путь не является каталогом.</string>
     <string name="downloadpath_cannot_write">Нет доступа на запись.</string>
-    <string name="filter_tip">Отфильтровано музыкальных клипов: %s</string>
+    <string name="filter_tip">Отфильтровано музыкальных файлов: %s</string>
     <string name="radio_pre_tip">Предыдущее вещание не поддерживается</string>
 	<string name="artist_type_hongkongandtaiwan">Гонконг и Тайвань</string>
 	<string name="all_tag">Все</string>

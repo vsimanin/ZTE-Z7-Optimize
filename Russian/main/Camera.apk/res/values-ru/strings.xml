@@ -738,7 +738,7 @@
     <string name="frame_envelope">Конверт</string>
     <string name="frame_stamp">Штамп</string>
     <string name="frame_heart">Сердце</string>
-    <string name="card_recognition">"Поместите контакт в рамку и нажмите кнопку спуск"</string>
+    <string name="card_recognition">"Поместите контакт в рамку и сфотографируйте"</string>
     <string name="phone_space_low">Память заполнена! Удалите несколько снимков или другие файлы.</string>
     <string name="camera_app_name">Камера</string>
     <string name="no_storage_available_usb">Открыто USB хранилище, камера сейчас недоступна</string>

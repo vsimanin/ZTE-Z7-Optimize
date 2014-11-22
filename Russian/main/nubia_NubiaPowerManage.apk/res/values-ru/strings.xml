@@ -24,7 +24,7 @@
     <string name="maininfo_already_cleared">Очищено</string>
     <string name="maininfo_noneed_cleared">Оптимизировано, нечего очищать.</string>
     <string name="maininfo_optimize">Исправить</string>
-    <string name="maininfo_already_optimized">Нормально</string>
+    <string name="maininfo_already_optimized">Готово</string>
     <string name="maininfo_hour">ч. </string>
     <string name="maininfo_minute">мин. </string>
     <string name="clear_bg_app"> приложений закрыто</string>
