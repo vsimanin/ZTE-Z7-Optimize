@@ -363,6 +363,8 @@
     <string name="lyric_delay">Задержка 0.5сек</string>
     <string name="lyric_ahead">Ускорение 0.5сек</string>
     <string name="lyric_txt">Lrc</string>
+    <string name="card_one">SIM-карта 1</string>
+    <string name="card_two">SIM-карта 2</string>
     <string name="lyric_mismatch">Слова не соответствуют текущей песне, продолжить?</string>
     <string name="add_cloudplaylist_fail">Добавление плейлистов из облачного сервиса не удалось</string>
     <string name="playback_error">Ошибка типа файла или файл не существует</string>
