@@ -21,7 +21,7 @@
     <string name="string_welcome_start">Начать</string>
     <string name="welcome_0">Добро пожаловать в хранитель nubia</string>
     <string name="welcome_1">Вы можете нажать на хранителе nubia и выйти</string>
-    <string name="welcome_2">Тревога стработает, когда хранитель nubia выйдет из зоны действия</string>
+    <string name="welcome_2">Тревога сработает, когда хранитель nubia выйдет из зоны действия</string>
     <string name="welcome_3">Кнопка позволяет сделать снимок, когда камера запущена</string>
     <string name="using_tip">Длительное нажатие на хранителе nubia для подключения телефона или выхода; Тревога сработает, если хранитель nubia выйдет из заданного радиуса действия; Нажатием кнопки можно удаленно управлять камерой. Давай попробуем это!</string>
     <string name="no_available_devices">нет доступных устройств</string>
