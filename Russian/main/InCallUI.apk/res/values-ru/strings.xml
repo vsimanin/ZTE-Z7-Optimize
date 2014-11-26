@@ -666,8 +666,8 @@
     <string name="auto_answer_incomingcall_when_insert_the_headset">Автоответ при подкл. гарнитуры</string>
     <string name="headset_autoanswer_never">Никогда</string>
     <string name="headset_autoanswer_immediately">Немедленно</string>
-    <string name="headset_autoanswer_afterfives">После 5-ти секунд</string>
-    <string name="headset_autoanswer_aftertens">После 10-ти секунд</string>
+    <string name="headset_autoanswer_afterfives">После 5 секунд</string>
+    <string name="headset_autoanswer_aftertens">После 10 секунд</string>
     <string name="auto_answer_incomingcall_default_when_insert_the_headset">0</string>
     <string name="onscreenSpeaker">Динамик</string>
     <string name="onscreenDialpadText">Кнопки</string>

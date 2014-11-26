@@ -251,8 +251,8 @@
     <string name="widget_ctldev_on_summary">Беспроводная сеть недоступна, местонахождение не определено</string>
     <string name="check_type_mms">MMS запрос</string>
     <string name="check_type_tel">Телефон</string>
-    <string name="traffic_auto_check">Автопроверка</string>
-    <string name="traffic_auto_confirm">Автопроверка может не поддерживаться некоторыми операторами сети. Продолжить?</string>
+    <string name="traffic_auto_check">Автозапрос</string>
+    <string name="traffic_auto_confirm">Автозапрос может не поддерживаться некоторыми операторами. Продолжить?</string>
     <string name="traffic_autocheck_unit">Mб</string>
     <string name="traffic_autocheck_tag">Всего</string>
     <string name="traffic_autocheck_2tag"> </string>

@@ -802,10 +802,10 @@
     <string name="panorama_title">Панорама</string>
     <string name="fun_effects_title">Спецэффект</string>
     <string name="star_track_title">Звёздный путь</string>
-    <string name="galaxy_photoing_title">Фото Галактики</string>
-    <string name="intervalometer_title">Интервалометр</string>
+    <string name="galaxy_photoing_title">Галактика</string>
+    <string name="intervalometer_title">Временной интервал</string>
     <string name="multi_exposure_title">Мульти экспозиция</string>
-    <string name="trajectory_title">Траектории</string>
+    <string name="trajectory_title">Траектория</string>
     <string name="color_filter_title">Светофильтр</string>
     <string name="pip_title">PIP</string>
     <string name="object_clear_title">Только объект</string>
@@ -891,13 +891,13 @@
     <string name="pref_camera_night_on">Вкл.</string>
     <string name="pref_camera_night_tripod">Увеличить</string>
     <string name="shutter_key_into_camera_title2">Войти в камеру, когда экран выключен</string>
-    <string name="measure_hints">Пожалуйста, сфокусируйтесь на листе белой бумаги, нажмите кнопку измерить</string>
+    <string name="measure_hints">Сфокусируйтесь на листе белой бумаги и нажмите кнопку измерить</string>
     <string name="measure">Измерение</string>
     <string name="measure_done">Измерение сохранено</string>
     <string name="video_editor_title">Редактор коротких видео</string>
-    <string name="video_maker_tip">Долго жмите на кнопку видео, чтобы начать, отпустите, чтобы сделать паузу</string>
-    <string name="video_maker_continue_tip">Непрерывное нажатие, чтобы продолжить съёмку</string>
-    <string name="video_maker_saving_tip">Сохраняется, пожалуйста подождите...</string>
+    <string name="video_maker_tip">Удерживайте кнопку съемки для начала записи, отпустите для паузы</string>
+    <string name="video_maker_continue_tip">Удерживайте кнопку съемки, чтобы продолжить</string>
+    <string name="video_maker_saving_tip">Сохраняется, подождите...</string>
     <string name="loading_images">Загрузка изображения...</string>
     <string name="background_music">звук</string>
     <string name="original_sound">оригинальный звук</string>
@@ -911,7 +911,7 @@
     <string name="image_duration_fast">быстро</string>
     <string name="image_duration_medium">средне</string>
     <string name="image_duration_slow">медленно</string>
-    <string name="video_maker_export">Экспортировать короткое видео</string>
+    <string name="video_maker_export">Формирование видео</string>
     <string name="editor_import_audio">Импортировать музыку</string>
     <string name="video_maker_num_unit">Фото %1$d выбрано</string>
     <string name="video_duration">Продолжительность :</string>
@@ -1006,9 +1006,9 @@
     <string name="pref_electronic_fno_default">off</string>
     <string name="electronic_fno_title">Электронная компенсация</string>
     <string name="electronic_fno_compensation_title">Fno компенсация:</string>
-    <string name="pref_camera_multishot_title">Мультиснимок</string>
+    <string name="pref_camera_multishot_title">Непрерывная съёмка</string>
     <string name="pref_camera_multishot_default">speed-priority</string>
-    <string name="pref_camera_multishot_off">off</string>
+    <string name="pref_camera_multishot_off">Выкл.</string>
     <string name="pref_camera_multishot_speed">Приоритет скорости</string>
     <string name="pref_camera_multishot_quality">Приоритет качества</string>
     <string name="spaceIsLow_tip">Заканчивается место для сохранения</string>
@@ -1020,23 +1020,24 @@
     <string name="pref_stroage_sdcard">sdcard</string>
     <string name="pref_camera_fullscreen_picturesize_title">Полный экран</string>
     <string name="pref_camera_fullscreen_picturesize_default">on</string>
-    <string name="pref_camera_interval_pro_title">Интервалометр</string>
+    <string name="pref_camera_interval_pro_title">Временной интервал</string>
     <string name="pref_camera_interval_pro_default">-1</string>
     <string name="pref_camera_interval_pro_entryvalue_0">-1</string>
     <string name="pref_camera_interval_pro_entry_0">Закрыть</string>
     <string name="b_shutter">Затвор</string>
-    <string name="ztemt_cannot_connect_camera">"Пожалуйста, убедитесь, что никакая другая программа не занимает камеру,
-или попробуйте перезагрузить телефон ."</string>
+    <string name="ztemt_cannot_connect_camera">"Убедитесь, что другая программа не занимает камеру,
+или попробуйте перезагрузить телефон."</string>
     <string name="ztemt_camera_error_title">Ошибка камеры</string>
     <string name="pref_capture_camera_title">Выбор камеры</string>
     <string name="capture_camera_back">Задняя камера</string>
     <string name="capture_camera_front">Передняя камера</string>
     <string name="fun_super_night_title">Ночной эффект</string>
     <string name="manual_focus_title">Ручной фокус</string>
-    <string name="fun_crystal_title">Кристал</string>
+    <string name="fun_crystal_title">Кристалл</string>
     <string name="pref_manual_focus_title">Ручной фокус</string>
     <string name="pref_fengzhi_focus_title">DOF обнаружение</string>
-    <string name="video_maker">Видеомейкер</string>
+    <string name="video_maker">Видеокадр</string>
+    <string name="video_maker_title">Видеокадр</string>
     <string name="object_clear">Очистить объект</string>
     <string name="light_draw">Рисование светом</string>
     <string name="capture_camera_close">Выкл</string>
@@ -1058,7 +1059,7 @@
     <string name="focus_title">Фокус</string>
     <string name="hight_frame_rate_open_tip">Высокая частота кадров.</string>
     <string name="interval_time_tips">Интервал %ss</string>
-    <string name="intervalometer_capture_tips">Пожалуйста, используйте штатив</string>
+    <string name="intervalometer_capture_tips">Используйте штатив</string>
     <string name="other_settings_show">Другие настройки</string>
     <string name="polarizing_filter_title">Поляризация</string>
     <string name="pref_camera_autoexposure_entry_focus_exposure_separation">Независимая выдержка</string>
@@ -1075,8 +1076,27 @@
     <string name="slowshutter_time_s">Секунд</string>
     <string name="minutes_and_seconds" formatted="false">%s мин. %s сек.</string>
     <string name="seconds_string">%s сек.</string>
-    <string name="specification_crystal_title">Режим "Кристал"</string>
-    <string name="specification_crystal_context">"\u0009\u0009Режим "Кристал" Подходит для сьёмки неподвижных обьектов, добавляет эффект прозрачности и изысканности.
- \u0009\u0009Используйте штатив."</string>
+    <string name="specification_sure"Я знаю</string>
+    <string name="specification_star_cloud_title">Режим \"Галактика\"</string>
+    <string name="specification_star_cloud_context">"\u0009\u0009Режим позволяет снимать Млечный Путь и звезды с помощью длительной выдержки.
+ \u0009\u0009Постарайтесь выбрать яркую звездную ночь, а также используйте штатив при съемке в условиях недостаточной освещенности."</string>
+    <string name="specification_star_track_title">Режим \"Звездный путь\"</string>
+    <string name="specification_star_track_context">"\u0009\u0009Режим позволяет снимать траекторию перемещения звезд с помощью длительной выдержки.
+ \u0009\u0009Постарайтесь выбрать яркую звездную ночь, а также используйте штатив при съемке в условиях недостаточной освещенности."</string>
+    <string name="specification_light_draw_title">Режим \"Рисование светом\"</string>
+    <string name="specification_light_draw_context">"\u0009\u0009Режим позволяет снимать траекторию движущихся источников света с помощью длительной выдержки.
+ \u0009\u0009Съемку необходимо производить в условиях недостаточной освещенности."</string>
+    <string name="specification_electronic_title">Режим \"Электронная диафрагма\"</string>
+    <string name="specification_electronic_context">"\u0009\u0009Режим автоматического электронного затвора. Вы можете настроить размер апертуры, и камера будет автоматически регулировать скорость затвора.
+ \u0009\u0009Это подходит для съемки статического пейзажа, ночной съемки, неподвижного или медленно движущегося объекта."</string>
+    <string name="specification_slow_shutter_title">Режим \"Замедленная съемка\"</string>
+    <string name="specification_slow_shutter_context">"\u0009\u0009Режим замедленной серийной съемки, который позволяет регулировать время экспозиции.
+ \u0009\u0009Это подходит для съемки сцен с недостаточной освещенностью и подвижных объектов, например людей, автомобили, дождь/снег, волны или яркий свет на трассе."</string>
+    <string name="specification_feng_zhi_context_title">Режим \"Глубина поля\"</string>
+    <string name="specification_feng_zhi_context">"\u0009\u0009Прогнозирование глубины поля позволяет сделать резким контрастный объект, обозначенный красными линиями, с той же глубиной резкости.
+ \u0009\u0009Красная область является четко сфокусированной зоной."</string>
+    <string name="specification_crystal_title">Режим \"Кристалл\"</string>
+    <string name="specification_crystal_context">"\u0009\u0009Режим подходит для сьёмки неподвижных обьектов, добавляет эффект прозрачности и изысканности.
+ \u0009\u0009Используйте штатив для получения четкого снимка."</string>
     <string name="pref_camera_interval_pro_off">Выкл.</string>
 </resources>

@@ -157,7 +157,7 @@
     <string name="card_exit">Выход</string>
     <string name="card_cancel">Отмена</string>
     <string name="send_card_test">Отправить</string>
-    <string name="type_to_compose_text_enter_to_send">Введи сообщение</string>
+    <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
     <string name="type_to_compose_text_enter_to_send2">Детка, введи сообщение</string>
     <string name="type_to_compose_text_enter_to_send3">Детка, тебе нужно ввести что-нибудь</string>
     <string name="type_to_compose_text_enter_to_send4">Ты псих?</string>
@@ -174,7 +174,7 @@
     <string name="lockscreen_privacy_sms_tips">У вас есть новое сообщение!</string>
     <string name="lockscreen_miss_call_tips">Пропущенный звонок</string>
     <string name="card_mms_message_content">Получено %d новых сообщений</string>
-    <string name="card_thirdapp_message_content">У вас есть новое сообщение !</string>
+    <string name="card_thirdapp_message_content">У вас есть новое сообщение!</string>
     <string name="lockscreen_setting_title">Фото экрана блокировки</string>
     <string name="lockscreen_app_list_title">Будут отображаться</string>
     <string name="app_notification_preferences">Уведомление приложений</string>

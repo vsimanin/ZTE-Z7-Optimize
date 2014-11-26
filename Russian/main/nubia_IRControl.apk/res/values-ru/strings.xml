@@ -236,7 +236,7 @@ SIZE"</string>
     <string name="rename_success">Переименован успешно!</string>
     <string name="create_key_fail">Сбой инициализации кнопок для обучения.</string>
     <string name="learning_fail">Сбой обучения.</string>
-    <string name="osm_indroduce_first">Направьте телефон на %1$s и нажмитеs %2$s для проверки работоспособности.</string>
+    <string name="osm_indroduce_first">Направьте телефон на %1$s и нажмите %2$s для проверки работоспособности.</string>
     <string name="osm_indroduce_has_key_success">%1$s кнопок работает, направьте телефон на  %2$s и нажмите %3$s для проверки работоспособности.</string>
     <string name="clone_tip1">1, Переведите пульт управления в сторону телефона после начала обучения.</string>
     <string name="clone_tip2">2, Нажмите и держите соответствующую клавишу в пульте дистанционного управления в соответствии с инструкцией на панели.</string>

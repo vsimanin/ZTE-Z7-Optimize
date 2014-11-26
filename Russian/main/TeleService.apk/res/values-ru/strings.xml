@@ -758,8 +758,8 @@
     <string name="auto_answer_incomingcall_when_insert_the_headset">Автоответ при подкл. гарнитуры</string>
     <string name="headset_autoanswer_never">Никогда</string>
     <string name="headset_autoanswer_immediately">Немедленно</string>
-    <string name="headset_autoanswer_afterfives">После 5-ти секунд</string>
-    <string name="headset_autoanswer_aftertens">После 10-ти секунд</string>
+    <string name="headset_autoanswer_afterfives">После 5 секунд</string>
+    <string name="headset_autoanswer_aftertens">После 10 секунд</string>
     <string name="sms_polite_decline">Вежливый отказ с SMS</string>
     <string name="call_prompts">Индикация при вызове</string>
     <string name="call_vibration">Вибрация при вызове</string>
@@ -812,9 +812,9 @@
     <string name="call_timer_clear">Очистить</string>
     <string name="reset_msg_voice_call">Счетчики вызовов будут очищены, продолжить?</string>
     <string name="reset_msg_data_call">Вы уверены, что хотите сбросить счетчики передачи данных и голосовых вызовов?</string>
-    <string name="phone_number_double" formatted="false">"номер 1：%s
-номер 2：%s"</string>
-    <string name="phone_number">номер：%s</string>
+    <string name="phone_number_double" formatted="false">"Номер 1: %s
+Номер 2: %s"</string>
+    <string name="phone_number">Номер： %s</string>
     <string name="call_forward">Переадресация вызова</string>
     <string name="call_waiting_setting">Настройки ожидания вызова</string>
     <string name="network_settings_title">Настройки вызова в сети CDMA</string>

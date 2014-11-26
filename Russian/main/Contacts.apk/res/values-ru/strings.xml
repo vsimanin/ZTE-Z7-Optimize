@@ -579,7 +579,7 @@
     <string name="dialog_shortcutcall_not_ready_message">Нет номеров быстрого набора, установить их сейчас?</string>
     <string name="dialog_shortcutcall_not_ready_correct">Установить</string>
     <string name="shortcut_call_setup_ok">Быстрый набор успешно установлен.</string>
-    <string name="shortcut_call_settings_msg">При удерживании цифровых клавиш набрать номер соответствующего контакта</string>
+    <string name="shortcut_call_settings_msg">Долгое нажатие цифровых кнопок приводит к вызову соответствующего абонента</string>
     <string name="shortcut_call_settings_modify_option_remove">Удалить</string>
     <string name="shortcut_call_settings_modify_option_replace">Переместить</string>
     <string name="more">Ещё</string>
@@ -922,7 +922,7 @@
     <string name="copy_email_text">Копировать e-mail как текст</string>
     <string name="set_default_number">Установить номер по умолчанию</string>
     <string name="clear_default_number">Очистить номер по умолчанию</string>
-    <string name="set_default_email">Установить по умолчанию e-mail</string>
+    <string name="set_default_email">Установить e-mail по умолчанию</string>
     <string name="clear_default_email">Очистить e-mail по умолчанию</string>
     <string name="lunar">Лунный</string>
     <string name="gregorian">Григорианский</string>
@@ -1005,7 +1005,7 @@
     <string name="new_message_create">Создать</string>
     <string name="more_options">Подробнее</string>
     <string name="message_record_count">%s сообщений</string>
-    <string name="conversation_no_selected">Не выбран</string>
+    <string name="conversation_no_selected">Диалог не выбран</string>
     <string name="slideshow_edit_hint">Тип для редактирования этого слайд-шоу</string>
     <string name="status_sent">Отправленные</string>
     <string name="resize_imgae">Изменение размера изображения...</string>

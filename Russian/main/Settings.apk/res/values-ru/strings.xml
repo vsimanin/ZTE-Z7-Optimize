@@ -1098,8 +1098,8 @@
     <string name="ask_compatibility">Спрашивать при запуске</string>
     <string name="enable_compatibility">Масштабировать приложения</string>
     <string name="unknown">Неизвестно</string>
-    <string name="sort_order_alpha">Упорядочить по именам</string>
-    <string name="sort_order_size">Упорядочить по размеру</string>
+    <string name="sort_order_alpha">По имени</string>
+    <string name="sort_order_size">По размеру</string>
     <string name="show_running_services">Показать активные службы</string>
     <string name="show_background_processes">Показать процессы в кэше</string>
     <string name="reset_app_preferences">Сбросить настройки</string>
@@ -1185,7 +1185,7 @@
     <string name="service_client_name">%1$s</string>
     <string name="service_background_processes">%1$s свободно</string>
     <string name="service_foreground_processes">%1$s занято</string>
-    <string name="memory">ОЗУ</string>
+    <string name="memory">Оперативная память</string>
     <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="running_process_item_removed_user_label">Удаление пользователя…</string>
