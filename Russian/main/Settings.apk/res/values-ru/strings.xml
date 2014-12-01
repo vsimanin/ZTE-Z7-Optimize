@@ -2828,6 +2828,7 @@ It не стирать :
     <string name="service_white_list_confirm">Сбросить сервис "белый список"?</string>
     <string name="service_white_list_reset_dilaog_title">Сброс</string>
     <string name="service_white_list_title">Сервис "Белый список"</string>
+    <string name="data_usage_switch_sim_caution">Напомнить о переключении SIM при достижении предупреждения</string>
     <string name="sound_hifi_effect_title">Гарнитура HIFI</string>
     <string name="time_zone_auto_stub">Выберите часовой пояс</string>
     <string name="white_service_list_guide_tips">Вы можете установить службу в белый список, чтобы она не была закрыта по ошибке</string>
