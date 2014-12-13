@@ -270,7 +270,7 @@
     <string name="photos">Фотографии</string>
     <string name="encrypt_finish">Шифрование завершено</string>
     <string name="f_number">Число F</string>
-    <string name="folder_mark">Отметить</string>
+    <string name="folder_mark">Особые</string>
     <string name="no_storage">Нет хранилища</string>
     <string name="sd_card">SD-карта</string>
     <string name="video_cannot_move">Видео не поддерживается.</string>
